@@ -196,9 +196,9 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/200?cb=20190111152636",Astro Oasis HD
 http://194.233.68.128:5080/LiveApp/streams/478602304725901923589240.m3u8|Referer=http://www.tvmalaysia.online
 
-#EXTINF:-1 tvg-ID="107" tvg-logo="https://logos.fandom.com/wiki/Astro_Warna?file=107.png" group-title="Astro",Astro Warna HD
+#EXTINF:-1 tvg-ID="107" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Astro_Warna_NEW.png" group-title="Astro",Astro Warna HD
 http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb18148
-#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://logos.fandom.com/wiki/Astro_Warna?file=107.png" group-title="Malaysia",Astro Warna HD 
+#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Astro_Warna_NEW.png" group-title="Malaysia",Astro Warna HD 
 http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png",Astro Citra HD
