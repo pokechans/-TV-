@@ -2,11 +2,11 @@
 #EXTM3U# x-tvg-uri="https://thisistyx.github.io/epg/unifitv.xml",
 #EXTM3U# x-tvg-url="https://thisistyx.github.io/epg/mytv.xml" 
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-name="" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" group-title="",TV1 HD
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311" group-title="",TV1 HD
 #https://rtmlive03tv.secureswiftcontent.com/rtmchannel/01_manifest.mpd
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" group-title="",TV1 HD
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest?cb=20200525153311" group-title="",TV1 HD
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|referer=https://myklikstatic.secureswiftcontent.com/live.php?ch=1
 #http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 
@@ -155,7 +155,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 
-#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="BACKUP",RIA
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://logos.fandom.com/wiki/Astro_Ria" group-title="BACKUP",Astro Ria HD
 http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 http://198.16.106.61:8277/streams/d/Ria/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Ria/playlist.m3u8
@@ -165,7 +165,7 @@ http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",Astro Ria HD
+#EXTINF:-1, tvg-logo="https://logos.fandom.com/wiki/Astro_Ria" group-title="MALAYSIA ALL",Astro Ria HD
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -196,9 +196,9 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id=""group-title=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/200?cb=20190111152636",Astro Oasis HD
 http://194.233.68.128:5080/LiveApp/streams/478602304725901923589240.m3u8|Referer=http://www.tvmalaysia.online
 
-#EXTINF:-1 tvg-ID="107" tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Astro",Astro Warna HD
+#EXTINF:-1 tvg-ID="107" tvg-logo="https://logos.fandom.com/wiki/Astro_Warna?file=107.png" group-title="Astro",Astro Warna HD
 http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb18148
-#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Malaysia",Astro Warna HD 
+#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://logos.fandom.com/wiki/Astro_Warna?file=107.png" group-title="Malaysia",Astro Warna HD 
 http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png",Astro Citra HD
@@ -418,18 +418,18 @@ http://185.180.221.194:8277/streams/d/Hits/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://185.180.221.194:8277/streams/d/Hitsmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" ,HBO HD
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_HD_2004.svg/revision/latest?cb=20171113195116" ,HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIE/ENTERTAINMENT", HBO HD 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_HD_2004.svg/revision/latest?cb=20171113195116" group-title="MOVIE/ENTERTAINMENT", HBO HD 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIE/ENTERTAINMENT", HBO HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_HD_2004.svg/revision/latest?cb=20171113195116" group-title="MOVIE/ENTERTAINMENT", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO HD
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_HD_2004.svg/revision/latest?cb=20171113195116",HBO HD
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
 
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" ,HBO Family HD
@@ -724,7 +724,7 @@ http://zalogitv.tech:8080/budiyanto/budiyanto/1825
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png", Fox Sports
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Fox_Sports_(Asia)", Fox Sports
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -747,64 +747,64 @@ http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="unifiSports1" group-title=“PREMIUM_SPORTS” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",unifi Sports 1
+#EXTINF:-1 tvg-id="unifiSports1" group-title=“PREMIUM_SPORTS” tvg-logo="https://logos.fandom.com/wiki/Unifi_Sports_1?file=Unifi-Sports_1.png",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
 
-#EXTINF:-1 tvg-id="unifiSports2" group-title=“PREMIUM_SPORTS” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223030942343uz5.png",unifi Sports 2
+#EXTINF:-1 tvg-id="unifiSports2" group-title=“PREMIUM_SPORTS” tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
 
-#EXTINF:-1 tvg-id="unifiSports3" group-title=“PREMIUM_SPORTS” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034638064fgd.png",unifi Sports 3
+#EXTINF:-1 tvg-id="unifiSports3" group-title=“PREMIUM_SPORTS” tvg-logo="https://logos.fandom.com/wiki/Unifi_Sports_3?file=Unifi-Sports-3.png",unifi Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 
-#EXTINF:-1 tvg-id="unifiSports4" group-title=“PREMIUM_SPORTS” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034705029kh8.png",unifi Sports 4
+#EXTINF:-1 tvg-id="unifiSports4" group-title=“PREMIUM_SPORTS” tvg-logo="https://logos.fandom.com/wiki/Unifi_Sports_4?file=Unifi-Sports-4.png",unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 
-#EXTINF:-1 tvg-id="unifiSports5" group-title=“PREMIUM_SPORTS” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223031129462i1k.png",unifi Sports 5
+#EXTINF:-1 tvg-id="unifiSports5" group-title=“PREMIUM_SPORTS” tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Unifi-Sports-5-Olympic.png/revision/latest?cb=20210804065521",unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
-#EXTINF: -1 tvg-id="AstroSuperSportHD" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title=“PREMIUM_SPORTS”, ASTRO SUPERSPORT 
+#EXTINF: -1 tvg-id="AstroSuperSportHD" tvg-name="ASSP_A" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport" group-title=“PREMIUM_SPORTS”, ASTRO SUPERSPORT 
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="BACKUP", ASTRO SUPERSPORT
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport" group-title="BACKUP", ASTRO SUPERSPORT
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/146068
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247415
 #http://51.79.223.246:61980/myplay/mlsp_601/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://185.180.221.194:8277/streams/d/Assp1/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
 
-#EXTINF: -1 tvg-id="AstroSuperSport2HD" tvg-name="ASSP2_A" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title=“PREMIUM_SPORTS”, ASTRO SUPERSPORT 2
+#EXTINF: -1 tvg-id="AstroSuperSport2HD" tvg-name="ASSP2_A" tvg-logo="" group-title=“PREMIUM_SPORTS”, ASTRO SUPERSPORT 2
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
 
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="BACKUP", ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_2" group-title="BACKUP", ASTRO SUPERSPORT 2
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157556
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247417
 #http://51.79.223.246:61980/myplay/mlsp_602/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://185.180.221.194:8277/streams/d/Assp2/playlist.m3u8
 
-#EXTINF: -1 tvg-id="AstroSuperSport3HD" tvg-name="ASSP3_B" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title=“PREMIUM_SPORTS”, ASTRO SUPERSPORT 3
+#EXTINF: -1 tvg-id="AstroSuperSport3HD" tvg-name="ASSP3_B" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_3" group-title=“PREMIUM_SPORTS”, ASTRO SUPERSPORT 3
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232
 
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="BACKUP", ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_3" group-title="BACKUP", ASTRO SUPERSPORT 3
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157557
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247418
 #http://51.79.223.246:61980/myplay/mlsp_603/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://185.180.221.194:8277/streams/d/Assp3/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
-#EXTINF: -1 tvg-id="AstroSuperSport4HD" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title=“PREMIUM_SPORTS”, ASTRO SUPERSPORT 4
+#EXTINF: -1 tvg-id="AstroSuperSport4HD" tvg-name="ASSP4_B" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_4" group-title=“PREMIUM_SPORTS”, ASTRO SUPERSPORT 4
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
 
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="BACKUP", ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://logos.fandom.com/wiki/Astro_Supersport_4" group-title="BACKUP", ASTRO SUPERSPORT 4
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157558
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247419
 #http://51.79.223.246:61980/myplay/mlsp_604/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
