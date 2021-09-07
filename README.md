@@ -1,7 +1,6 @@
-#EXTM3U x-tvg-url="https://github.com/thisistyx/epg" url-tvg="https://github.com/thisistyx/epg"  refresh="1440" max-conn="1" refresh="24
-#EXTM3U x-tvg-url="https://thisistyx.github.io/epg/astro.xml",
-#EXTM3U x-tvg-uri="https://thisistyx.github.io/epg/unifitv.xml",
-#EXTM3U x-tvg-url="https://thisistyx.github.io/epg/mytv.xml" 
+#EXTM3U x-tvg-url="https://thisistyx.github.io/epg/astro.xml" url-tvg="https://thisistyx.github.io/epg/astro.xml"  refresh="1440" max-conn="1" refresh="24
+#EXTM3U x-tvg-uri="https://thisistyx.github.io/epg/unifitv.xml" url-tvg="https://thisistyx.github.io/epg/unifitv.xml"  refresh="1440" max-conn="1" refresh="24
+#EXTM3U x-tvg-url="https://thisistyx.github.io/epg/mytv.xml"  url-tvg="https://thisistyx.github.io/epg/mytv.xml"  refresh="1440" max-conn="1" refresh="24
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-name="" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" group-title="",TV1 HD
 #https://rtmlive03tv.secureswiftcontent.com/rtmchannel/01_manifest.mpd
