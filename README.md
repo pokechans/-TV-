@@ -383,7 +383,7 @@ http://185.180.221.194:8277/streams/d/Hits/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://185.180.221.194:8277/streams/d/Hitsmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png6" ,HBO HD
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" ,HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIE/ENTERTAINMENT", HBO HD 
@@ -491,13 +491,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227572/3221227572.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png", FOX MOVIES
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY", FOX MOVIES
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428181_ico.png" group-title="",FOX Movies HD
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY" group-title="",FOX Movies HD
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 http://185.180.221.194:8277/streams/d/Foxmovie/playlist.m3u8
 #http://50.7.59.184:61980/myplay/cn_2_12002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
@@ -514,12 +514,12 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227644/3221227644.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1", FOX FAMILY MOVIES
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve", FOX FAMILY MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-name=" " tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428183_ico.png" group-title="",FOX Family Movies HD
+#EXTINF:-1 tvg-name=" " tvg-id="" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve" group-title="",FOX Family Movies HD
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 http://185.180.221.194:8277/streams/d/Foxfamily/playlist.m3u8
 #http://50.7.59.184:61980/myplay/cn_1_11010/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
@@ -535,14 +535,14 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227638/3221227638.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428182_ico.png" group-title="",FOX Action Movies HD
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm" group-title="",FOX Action Movies HD
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
 #http://1.crtv1.ml/hstv/crtv.php?id=385
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 
-#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" "group-title="",FOX Action Movies HD
+#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm" "group-title="",FOX Action Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
