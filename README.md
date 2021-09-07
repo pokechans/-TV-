@@ -484,9 +484,15 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157519
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 group-title="English" ch-number="401" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227572/3221227572.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428181_ico.png" group-title="",FOX Movies HD
-ttps://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 http://185.180.221.194:8277/streams/d/Foxmovie/playlist.m3u8
 #http://50.7.59.184:61980/myplay/cn_2_12002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #http://1.crtv1.ml/hstv/crtv.php?id=387
@@ -498,7 +504,9 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428181_ico.png" group-title="",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="",FoxMovies http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="",FOX Movies HD
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
