@@ -1,6 +1,6 @@
-#EXTM3U url-tvg=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml
-#EXTM3U url-tvg=https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml
-#EXTM3U url-tvg=https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" 
 
 
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-name="" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" group-title="",TV1 HD
