@@ -1,4 +1,14 @@
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="24"8
+#EXTM3U url-tvg=https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml
+#EXTM3U url-tvg=https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml
+#EXTM3U url-tvg=https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml
+
+
+#EXTINF: -1 tvg-id="tv1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA", TV1
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065865
+#EXTINF: -1 tvg-id="tv1.my" tvg-name="TV1 (B)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA", TV1 (FHD)
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065866
+#EXTINF: -1 tvg-id="TV1.my" tvg-name="MY - TV1" group-title="MOvies Channels", MY - TV1
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745761
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
