@@ -141,88 +141,88 @@ http://yassooo.com:8080/benAlaa/829293992/80114
 
 
 
-#EXTINF:-1,beIN Sports English 01 4K
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png", beIN Sports English 01 4K
 http://yassooo.com:8080/benAlaa/829293992/80040
-#EXTINF:-1,beIN Sports English 01 FHD
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png", beIN Sports English 01 FHD
 http://yassooo.com:8080/benAlaa/829293992/80010
-#EXTINF:-1,beIN Sports English 01 HD
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png", beIN Sports English 01 HD
 http://yassooo.com:8080/benAlaa/829293992/80024
-#EXTINF:-1,beIN Sports English 01 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png", beIN Sports English 01 HD
 http://yassooo.com:8080/benAlaa/829293992/80119
-#EXTINF:-1,beIN Sports English 01 SD [VIP]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png", beIN Sports English 01 SD
 http://yassooo.com:8080/benAlaa/829293992/80069
 
 
-#EXTINF:-1,beIN Sports English 02 4K
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png", beIN Sports English 02 4K
 http://yassooo.com:8080/benAlaa/829293992/80039
-#EXTINF:-1,beIN Sports English 02 FHD
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png", beIN Sports English 02 FHD
 http://yassooo.com:8080/benAlaa/829293992/80009
-#EXTINF:-1,beIN Sports English 02 HD [VIP]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png", beIN Sports English 02 HD
 http://yassooo.com:8080/benAlaa/829293992/80094
-#EXTINF:-1,beIN Sports English 02 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png", beIN Sports English 02 HD
 http://yassooo.com:8080/benAlaa/829293992/80118
-#EXTINF:-1,beIN Sports English 02 SD [VIP]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png", beIN Sports English 02 SD
 http://yassooo.com:8080/benAlaa/829293992/80068
 
 
 
-#EXTINF:-1,beIN Sports English 03 HD [VIP]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png", beIN Sports English 03 HD
 http://yassooo.com:8080/benAlaa/829293992/80093
-#EXTINF:-1,beIN Sports English 03 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png", beIN Sports English 03 HD
 http://yassooo.com:8080/benAlaa/829293992/80117
 
 
-#EXTINF:-1,beIN Sports 01 FHD [Gold]
+#EXTINF:-1, tvg-logo=https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_1_HD.png, beIN Sports 01 FHD
 http://yassooo.com:8080/benAlaa/829293992/80136
-#EXTINF:-1,beIN Sports 01 HD [Gold]
+#EXTINF:-1, tvg-logo=https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_1_HD.png, beIN Sports 01 HD
 http://yassooo.com:8080/benAlaa/829293992/80126
-#EXTINF:-1,beIN Sports 01 SD [Gold]
+#EXTINF:-1, tvg-logo=https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_1_HD.png, beIN Sports 01 SD
 http://yassooo.com:8080/benAlaa/829293992/80113
 
 
-#EXTINF:-1,beIN Sports 02 FHD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_2_HD.png", beIN Sports 02 FHD
 http://yassooo.com:8080/benAlaa/829293992/80135
-#EXTINF:-1,beIN Sports 02 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_2_HD.png"", beIN Sports 02 HD
 http://yassooo.com:8080/benAlaa/829293992/80125
-#EXTINF:-1,beIN Sports 02 SD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_2_HD.png"", beIN Sports 02 SD
 http://yassooo.com:8080/benAlaa/829293992/80112
 
 
 
-#EXTINF:-1,beIN Sports 03 FHD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_3_HD.png", beIN Sports 03 FHD
 http://yassooo.com:8080/benAlaa/829293992/80134
-#EXTINF:-1,beIN Sports 03 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_3_HD.png", beIN Sports 03 HD
 http://yassooo.com:8080/benAlaa/829293992/80124
-#EXTINF:-1,beIN Sports 03 SD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_3_HD.png", beIN Sports 03 SD
 http://yassooo.com:8080/benAlaa/829293992/80111
 
 
-#EXTINF:-1,beIN Sports 04 FHD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_4_HD.png", beIN Sports 04 FHD
 http://yassooo.com:8080/benAlaa/829293992/80133
-#EXTINF:-1,beIN Sports 04 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_4_HD.png", beIN Sports 04 HD
 http://yassooo.com:8080/benAlaa/829293992/80123
-#EXTINF:-1,beIN Sports 04 SD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_4_HD.png"beIN Sports 04 SD
 http://yassooo.com:8080/benAlaa/829293992/80110
 
 
-#EXTINF:-1,beIN Sports 05 FHD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_5_HD.png", beIN Sports 05 FHD
 http://yassooo.com:8080/benAlaa/829293992/80132
-#EXTINF:-1,beIN Sports 05 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_5_HD.png", beIN Sports 05 HD
 http://yassooo.com:8080/benAlaa/829293992/80122
-#EXTINF:-1,beIN Sports 05 SD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_5_HD.png", beIN Sports 05 SD
 http://yassooo.com:8080/benAlaa/829293992/80109
 
-#EXTINF:-1,beIN Sports 06 FHD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_6_HD.png", beIN Sports 06 FHD 
 http://yassooo.com:8080/benAlaa/829293992/80131
-#EXTINF:-1,beIN Sports 06 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_6_HD.png", beIN Sports 06 HD
 http://yassooo.com:8080/benAlaa/829293992/80121
-#EXTINF:-1,beIN Sports 06 SD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_6_HD.png", beIN Sports 06 SD
 http://yassooo.com:8080/benAlaa/829293992/80108
 
 
-#EXTINF:-1,beIN Sports 07 FHD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_7_HD.png", beIN Sports 07 FHD
 http://yassooo.com:8080/benAlaa/829293992/80130
-#EXTINF:-1,beIN Sports 07 HD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_7_HD.png", beIN Sports 07 HD
 http://yassooo.com:8080/benAlaa/829293992/80120
-#EXTINF:-1,beIN Sports 07 SD [Gold]
+#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_7_HD.png", beIN Sports 07 SD
 http://yassooo.com:8080/benAlaa/829293992/80107
