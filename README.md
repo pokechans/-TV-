@@ -9,6 +9,16 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1 HD
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|referer=https://myklikstatic.secureswiftcontent.com/live.php?ch=1
 #http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01_480.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+
 
 
 
@@ -131,7 +141,7 @@ http://185.180.221.194:8277/streams/d/Naura/playlist.m3u8
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MYTV",AWESOME TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
 #http://51.79.208.146:61980/myplay/c_58014/index.m3u8
 #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
 #https://m3u-editor.com/serve/5a9d6b60-0270-11ec-8530-cbb324853ece/361125831
