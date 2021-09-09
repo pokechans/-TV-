@@ -131,6 +131,16 @@ http://185.180.221.194:8277/streams/d/Naura/playlist.m3u8
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MYTV",AWESOME TV
+#http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+#http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
+#https://m3u-editor.com/serve/5a9d6b60-0270-11ec-8530-cbb324853ece/361125831
+http://iptv.tvmalaysia.cc:80/penang123/penang123/9016
+#http://mantul.biz.id:8888/jiwa/jiwa/10650
+#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
+http://iptv.tvmalaysia.cc:80/penang100/penang100/9016
+
+
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
