@@ -3,12 +3,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" 
 
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/hjX6R5Rw/tv1my.png", TV1
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/hjX6R5Rw/tv1my.png",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
 
 
@@ -587,6 +587,23 @@ https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovie
 http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
 #http://1.crtv1.ml/hstv/crtv.php?id=385
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png, Star Movies Select HD
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png", Star Movies
+#http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://watchindia.net:8880/live/60275/20486/2080.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png",  Movies Now HD
+http://watchindia.net:8880/live/33253/72963/2102.ts
 
 
 
