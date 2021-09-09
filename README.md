@@ -300,6 +300,11 @@ http://194.233.68.128:5080/LiveApp/streams/092138205532815210907549.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png", ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png",Aniplus
+http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png", DISNEY CHANNEL
@@ -399,6 +404,11 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247426
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png", Oh!K HD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg",SONY GEM
+http://210.210.155.35/uq2663/h/h19/02.m3u
 
 
 
