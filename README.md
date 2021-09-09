@@ -65,9 +65,8 @@ http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://194.233.68.128:5080/LiveApp/streams/436629615567085256818009.m3u8|Referer=http://www.tvmalaysia.online
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 #http://51.79.223.246:61980/myplay/c_58017/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
@@ -76,7 +75,6 @@ http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Prima/playlist.m3u8
 http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
@@ -94,6 +92,9 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb18148
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Astro Warna HD
 https://nonton.site:8443/rachman/rachman123/37335
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", Astro Warna HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
+
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
@@ -339,7 +340,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png", Dreamworks HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227596/3221227596.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
