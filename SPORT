@@ -1,0 +1,213 @@
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png", FOX Sports HD
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png", FOX Sports 2 HD
+https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
+#http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png", FOX Sports 3 HD
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+
+#EXTINF:-1 tvg-logo="https://www.racefans.net/wp-content/uploads/2017/11/f1-logo.jpg", Sky Sports F1 FHD
+http://31.220.41.90:8081/live/skysportsf1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png", Sky Sports Football HD
+http://31.220.41.90:8081/live/skysports-football.stream/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png", unifi Sports 1
+https://web.hypp.tv:443/PLTV/88888888/224/3221227675/3221227675.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png", unifi Sports 2
+https://web.hypp.tv:443/PLTV/88888888/224/3221227722/3221227722.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162003633ulc.png", unifi Sports 3
+https://web.hypp.tv:443/PLTV/88888888/224/3221227682/3221227682.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162111899up2.png", unifi Sports 4
+https://web.hypp.tv:443/PLTV/88888888/224/3221227685/3221227685.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811162210893gcu.png", unifi Sports 5
+https://web.hypp.tv:443/PLTV/88888888/224/3221227705/3221227705.mpd
+
+
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg", Astro SuperSport HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg”, Astro SuperSport HD
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/146068
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247415
+#http://51.79.223.246:61980/myplay/mlsp_601/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://185.180.221.194:8277/streams/d/Assp1/playlist.m3u8
+http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg", Astro SuperSport HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg", Astro SuperSport 2 HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg", Astro SuperSport 2 HD
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157556
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247417
+#http://51.79.223.246:61980/myplay/mlsp_602/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://185.180.221.194:8277/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg", Astro SuperSport 2 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg", Astro SuperSport 3 HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg", Astro SuperSport 3 HD
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157557
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247418
+#http://51.79.223.246:61980/myplay/mlsp_603/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://185.180.221.194:8277/streams/d/Assp3/playlist.m3u8
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg", Astro SuperSport 3 HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg", Astro SuperSport 4 HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg", Astro SuperSport 4 HD
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157558
+http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247419
+#http://51.79.223.246:61980/myplay/mlsp_604/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://185.180.221.194:8277/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg", Astro SuperSport 4 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6712
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg”,WWE Network HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
+
+
+
+#EXTINF:-1,beIN Sports Premium 01 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80139
+#EXTINF:-1,beIN Sports Premium 01 4K
+http://yassooo.com:8080/benAlaa/829293992/80051
+#EXTINF:-1,beIN Sports Premium 01 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80129
+#EXTINF:-1,beIN Sports Premium 01 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80116
+
+#EXTINF:-1,beIN Sports Premium 02 4K
+http://yassooo.com:8080/benAlaa/829293992/80050
+#EXTINF:-1,beIN Sports Premium 02 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80138
+#EXTINF:-1,beIN Sports Premium 02 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80128
+#EXTINF:-1,beIN Sports Premium 02 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80115
+
+#EXTINF:-1,beIN Sports Premium 03 4K
+http://yassooo.com:8080/benAlaa/829293992/80049
+#EXTINF:-1,beIN Sports Premium 03 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80137
+#EXTINF:-1,beIN Sports Premium 03 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80127
+#EXTINF:-1,beIN Sports Premium 03 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80114
+
+
+
+
+#EXTINF:-1,beIN Sports English 01 4K
+http://yassooo.com:8080/benAlaa/829293992/80040
+#EXTINF:-1,beIN Sports English 01 FHD
+http://yassooo.com:8080/benAlaa/829293992/80010
+#EXTINF:-1,beIN Sports English 01 HD
+http://yassooo.com:8080/benAlaa/829293992/80024
+#EXTINF:-1,beIN Sports English 01 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80119
+#EXTINF:-1,beIN Sports English 01 SD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80069
+
+
+#EXTINF:-1,beIN Sports English 02 4K
+http://yassooo.com:8080/benAlaa/829293992/80039
+#EXTINF:-1,beIN Sports English 02 FHD
+http://yassooo.com:8080/benAlaa/829293992/80009
+#EXTINF:-1,beIN Sports English 02 HD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80094
+#EXTINF:-1,beIN Sports English 02 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80118
+#EXTINF:-1,beIN Sports English 02 SD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80068
+
+
+
+#EXTINF:-1,beIN Sports English 03 HD [VIP]
+http://yassooo.com:8080/benAlaa/829293992/80093
+#EXTINF:-1,beIN Sports English 03 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80117
+
+
+#EXTINF:-1,beIN Sports 01 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80136
+#EXTINF:-1,beIN Sports 01 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80126
+#EXTINF:-1,beIN Sports 01 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80113
+
+
+#EXTINF:-1,beIN Sports 02 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80135
+#EXTINF:-1,beIN Sports 02 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80125
+#EXTINF:-1,beIN Sports 02 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80112
+
+
+
+#EXTINF:-1,beIN Sports 03 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80134
+#EXTINF:-1,beIN Sports 03 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80124
+#EXTINF:-1,beIN Sports 03 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80111
+
+
+#EXTINF:-1,beIN Sports 04 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80133
+#EXTINF:-1,beIN Sports 04 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80123
+#EXTINF:-1,beIN Sports 04 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80110
+
+
+#EXTINF:-1,beIN Sports 05 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80132
+#EXTINF:-1,beIN Sports 05 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80122
+#EXTINF:-1,beIN Sports 05 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80109
+
+#EXTINF:-1,beIN Sports 06 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80131
+#EXTINF:-1,beIN Sports 06 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80121
+#EXTINF:-1,beIN Sports 06 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80108
+
+
+#EXTINF:-1,beIN Sports 07 FHD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80130
+#EXTINF:-1,beIN Sports 07 HD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80120
+#EXTINF:-1,beIN Sports 07 SD [Gold]
+http://yassooo.com:8080/benAlaa/829293992/80107
