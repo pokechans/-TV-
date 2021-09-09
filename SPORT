@@ -129,8 +129,7 @@ http://yassooo.com:8080/benAlaa/829293992/80128
 #EXTINF:-1, tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png", beIN Sports Premium 02 SD
 http://yassooo.com:8080/benAlaa/829293992/80115
 
-#EXTINF:-1, tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png", beIN Sports Premium 03 4K
-http://yassooo.com:8080/benAlaa/829293992/80049
+
 #EXTINF:-1, tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png", beIN Sports Premium 03 FHD
 http://yassooo.com:8080/benAlaa/829293992/80137
 #EXTINF:-1, tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png", beIN Sports Premium 03 HD
@@ -149,8 +148,7 @@ http://yassooo.com:8080/benAlaa/829293992/80010
 http://yassooo.com:8080/benAlaa/829293992/80024
 #EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png", beIN Sports English 01 HD
 http://yassooo.com:8080/benAlaa/829293992/80119
-#EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png", beIN Sports English 01 SD
-http://yassooo.com:8080/benAlaa/829293992/80069
+
 
 
 #EXTINF:-1, tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png", beIN Sports English 02 4K
