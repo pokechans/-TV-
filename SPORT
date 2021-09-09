@@ -1,3 +1,16 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network HD
+http://45.126.83.51/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Sukan",rtm SUKAN
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
+http://zalogitv.tech:8080/budiyanto/budiyanto/1825
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png", FOX Sports HD
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 
