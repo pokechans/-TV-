@@ -162,8 +162,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Astro_First?file=Astro_First_2012_logo.svg", ASTRO FIRST
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Astro_First?file=Astro_First_2012_logo.svg", ASTRO FIRST A
 http://194.233.66.151:25461/rumah/home/203
+
+
+#EXTINF:-1 tvg-logo="" group-title="malaysia",ASTRO FIRST B
+http://194.233.66.151:25461/rumah/home/287
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",ASTRO FIRST C
+http://194.233.66.151:25461/rumah/home/257
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
