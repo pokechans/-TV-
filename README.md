@@ -94,9 +94,9 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna HD
 http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb18148
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png", Astro Warna HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna HD
 https://nonton.site:8443/rachman/rachman123/37335
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png", Astro Warna HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
 
 
@@ -111,14 +111,6 @@ http://185.180.221.194:8277/streams/d/Citra/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-
-
-#EXTINF:-1 group-title="malaysia" tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-6ALj10gRXFg/YN9gMeoycfI/AAAAAAAANTM/i3ianwImA3sLd2AjuAL1Gdpoa1Jn48R-gCNcBGAsYHQ/s200/TV6.jpg",TV6 HD
-https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png", TV6 HD
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 
 
@@ -167,11 +159,21 @@ http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 
-#EXTINF:-1 group-title="malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6 HD
+https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png", TV6 HD
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png", NTV7
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbGfVFZGVqxHHcVHugTfQNM)/dm/3/x6qp6ou/s/live-2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png", NTV7
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png", NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 
@@ -434,13 +436,13 @@ http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 	
 	
 **************************************MOVIE**********************************
-#EXTINF:-1 tvg-logo="" group-title="malaysia", FIRST A
+#EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png", FIRST A COLLECTION
 http://194.233.66.151:25461/rumah/home/203
 
-#EXTINF:-1 tvg-logo="" group-title="malaysia",FIRST B
+#EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",FIRST B COLLECTION
 http://194.233.66.151:25461/rumah/home/287
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",BEST
+#EXTINF:-1 tvg-logo="" group-title="Movies",BEST COLLECTION
 http://194.233.66.151:25461/rumah/home/257
 
 
