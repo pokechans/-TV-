@@ -2,7 +2,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" 
 
-
+#EXTINF:-1 group-title="malaysia" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
+https://rtm1hdhbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/hjX6R5Rw/tv1my.png",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12,7 +13,8 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
 
 
-
+#EXTINF:-1 group-title="malaysia" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+https://rtm5hdhbbtv.secureswiftcontent.com/Origin1/ngrp:RTM1/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png", TV2
@@ -29,6 +31,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 
+#EXTINF:-1 group-title="malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbo6ZVzA9-djhto3-zybFGo)/dm/3/x6qp375/d/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
@@ -109,7 +113,8 @@ http://185.180.221.194:8277/streams/d/Citra/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="malaysia" tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-6ALj10gRXFg/YN9gMeoycfI/AAAAAAAANTM/i3ianwImA3sLd2AjuAL1Gdpoa1Jn48R-gCNcBGAsYHQ/s200/TV6.jpg",TV6 HD
+https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png", TV6 HD
@@ -162,14 +167,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 
-
+#EXTINF:-1 group-title="malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbGfVFZGVqxHHcVHugTfQNM)/dm/3/x6qp6ou/s/live-2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png", NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVhi7B7Yjl6BgiYhWp4v1_g)/dm/3/x6qud17/s/live-1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png", 8TV 
@@ -185,7 +192,8 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 
-
+#EXTINF:-1 group-title="malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08oedqroZPzCPw35WvLzu5rM)/dm/3/x7a7rf7/s/live-2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png", TV9
@@ -407,11 +415,6 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg",SONY GEM
-http://210.210.155.35/uq2663/h/h19/02.m3u
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png", tvN HD
@@ -431,7 +434,14 @@ http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 	
 	
 **************************************MOVIE**********************************
+#EXTINF:-1 tvg-logo="" group-title="malaysia", FIRST A
+http://194.233.66.151:25461/rumah/home/203
 
+#EXTINF:-1 tvg-logo="" group-title="malaysia",FIRST B
+http://194.233.66.151:25461/rumah/home/287
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",BEST
+http://194.233.66.151:25461/rumah/home/257
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
