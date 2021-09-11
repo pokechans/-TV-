@@ -4,7 +4,6 @@
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 https://rtm1hdhbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -32,9 +31,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 
-#EXTINF:-1 group-title="malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbo6ZVzA9-djhto3-zybFGo)/dm/3/x6qp375/d/live-1.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -161,11 +159,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
 https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png", TV6 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png", TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 
