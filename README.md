@@ -442,8 +442,11 @@ http://194.233.66.151:25461/rumah/home/203
 #EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",FIRST B COLLECTION
 http://194.233.66.151:25461/rumah/home/287
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",BEST COLLECTION
+#EXTINF:-1 tvg-logo="https://github.com/azrinahmademuri/logo/blob/main/Astro_best.png",BEST COLLECTION
 http://194.233.66.151:25461/rumah/home/257
+
+#EXTINF:-1 tvg-logo="", FAM HD
+http://tigerfights.xyz:80/anh/123/2599199.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
