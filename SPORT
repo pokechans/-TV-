@@ -120,7 +120,7 @@ http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 3
 http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png”,WWE Network HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXwUhtqh0BZZ4I_j1zaeKxaXBhTkX_ixfOg&usqp=CAU”,WWE Network HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 
 
