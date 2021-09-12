@@ -608,13 +608,13 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jl8gccd.jpg, Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png, Star Movies Select HD
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+https://i.ibb.co/Dt5nQsY/star-movies.png
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png", Star Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dt5nQsY/star-movies.png", Star Movies
 #http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 http://watchindia.net:8880/live/60275/20486/2080.ts
 
