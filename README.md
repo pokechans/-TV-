@@ -131,12 +131,6 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/9016
 http://iptv.tvmalaysia.cc:80/penang100/penang100/9016
 
 
-
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
-
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
 http://tigerfights.xyz:80/anh/123/2599346.ts
 
@@ -146,12 +140,8 @@ http://tigerfights.xyz:80/anh/123/2599367.ts
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
 http://tigerfights.xyz:80/anh/123/2599368.ts
 
-
-
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", HyppSensasi HD
+http://tigerfights.xyz:80/anh/123/2599336.ts
 
 
 
