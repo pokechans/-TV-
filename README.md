@@ -139,17 +139,10 @@ http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 
 
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
-
-
-
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png", HyppInspirasi HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
+#EXTINF:-1 tvg-id="" tvg-name="MY: Hypp Inspirasi HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png" group-title="SHAREEXT@MOVIES_MALAYSIA",MY: Hypp Inspirasi HD
+http://tigerfights.xyz:80/anh/123/2599367.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY: Hypp Sensasi HD" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png" group-title="SHAREEXT@MOVIES_MALAYSIA",MY: Hypp Sensasi HD
+http://tigerfights.xyz:80/anh/123/2599368.ts
 
 
 
