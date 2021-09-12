@@ -139,9 +139,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
 
 
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png" group-title="SHAREEXT@MOVIES_MALAYSIA",MY: Hypp Inspirasi HD
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png", HyppInspirasi HD
 http://tigerfights.xyz:80/anh/123/2599367.ts
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png" group-title="SHAREEXT@MOVIES_MALAYSIA",MY: Hypp Sensasi HD
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
 http://tigerfights.xyz:80/anh/123/2599368.ts
 
 
