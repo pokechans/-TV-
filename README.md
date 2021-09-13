@@ -120,6 +120,8 @@ http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Naura/playlist.m3u8
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
+#EXTINF:-1 tvg-logo="", Awesome
+http://foctv.xyz:25510/Amir5641/YY5641/387
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
 #http://51.79.208.146:61980/myplay/c_58014/index.m3u8
@@ -140,7 +142,10 @@ http://tigerfights.xyz:80/anh/123/2599367.ts
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
 http://tigerfights.xyz:80/anh/123/2599368.ts
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", HyppSensasi HD
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10218
+
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema HD
 http://tigerfights.xyz:80/anh/123/2599336.ts
 
 
@@ -300,6 +305,10 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 
 
+
+#EXTINF:-1 tvg-logo="", Taa Daa
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/11744
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png", DISNEY CHANNEL
@@ -376,6 +385,8 @@ http://185.180.221.194:8277/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="", ONE HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+http://foctv.xyz:25510/Amir5641/YY5641/134
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -418,11 +429,18 @@ http://185.180.221.194:8277/streams/d/Tvnmovie/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157520
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 	
-	
-	
+#EXTINF:-1 tvg-logo="", Waku-Waku
+http://foctv.xyz:25510/Amir5641/YY5641/104
+
+#EXTINF:-1 tvg-logo="", GEM
+http://foctv.xyz:25510/Amir5641/YY5641/105
+
 **************************************MOVIE**********************************
 #EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png", FIRST A COLLECTION
 http://194.233.66.151:25461/rumah/home/203
+
+#EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png", FIRST A COLLECTION
+http://foctv.xyz:25510/Amir5641/YY5641/353
 
 #EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",FIRST B COLLECTION
 http://194.233.66.151:25461/rumah/home/287
@@ -430,9 +448,9 @@ http://194.233.66.151:25461/rumah/home/287
 #EXTINF:-1 tvg-logo="https://github.com/azrinahmademuri/logo/blob/main/Astro_best.png",BEST COLLECTION
 http://194.233.66.151:25461/rumah/home/257
 
-#EXTINF:-1 tvg-logo="", FAM HD
-http://tigerfights.xyz:80/anh/123/2599199.ts
 
+#EXTINF:-1 tvg-logo="", Astro 25
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8676
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
