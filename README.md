@@ -306,7 +306,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 
 
 
-#EXTINF:-1 tvg-logo="", Taa Daa
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png", TA-DAA! 
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/11744
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -432,7 +432,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 #EXTINF:-1 tvg-logo="", Waku-Waku
 http://foctv.xyz:25510/Amir5641/YY5641/104
 
-#EXTINF:-1 tvg-logo="", GEM
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/399/742/png-clipart-gem-tv-television-channel-logo-sony-s-gem-tv-television.png", SONY GEM
 http://foctv.xyz:25510/Amir5641/YY5641/105
 
 **************************************MOVIE**********************************
