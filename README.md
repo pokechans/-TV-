@@ -120,9 +120,8 @@ http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Naura/playlist.m3u8
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
-#EXTINF:-1 tvg-logo="", Awesome
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
 http://foctv.xyz:25510/Amir5641/YY5641/387
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
 #http://51.79.208.146:61980/myplay/c_58014/index.m3u8
 #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
@@ -148,7 +147,8 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10218
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema HD
 http://tigerfights.xyz:80/anh/123/2599336.ts
 
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",TV Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
 https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
@@ -184,11 +184,11 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
 
-#EXTINF:-1 group-title="malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
+#EXTINF:-1 group-title="malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png",TV9
 https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08oedqroZPzCPw35WvLzu5rM)/dm/3/x7a7rf7/s/live-2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png", TV9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png", TV9
 #http://51.79.223.246:61980/myplay/c_58007/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
 http://185.180.221.194:8277/streams/d/TV9/playlist.m3u8
@@ -196,7 +196,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV9.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png", TV9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png", TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 
@@ -218,9 +218,9 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png", DRAMA SANGAT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.pnghttps://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?", DRAMA SANGAT
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png", DRAMA SANGAT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.pnghttps://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?", DRAMA SANGAT
 #http://51.79.223.246:61980/myplay/c_58011/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/Dsangat/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Dsangat/playlist.m3u8
@@ -432,7 +432,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 #EXTINF:-1 tvg-logo="", Waku-Waku
 http://foctv.xyz:25510/Amir5641/YY5641/104
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/399/742/png-clipart-gem-tv-television-channel-logo-sony-s-gem-tv-television.png", SONY GEM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?", SONY GEM
 http://foctv.xyz:25510/Amir5641/YY5641/105
 
 **************************************MOVIE**********************************
@@ -445,11 +445,11 @@ http://foctv.xyz:25510/Amir5641/YY5641/353
 #EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",FIRST B COLLECTION
 http://194.233.66.151:25461/rumah/home/287
 
-#EXTINF:-1 tvg-logo="https://github.com/azrinahmademuri/logo/blob/main/Astro_best.png",BEST COLLECTION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Astro_ABO.png/220px-Astro_ABO.png",BEST COLLECTION
 http://194.233.66.151:25461/rumah/home/257
 
 
-#EXTINF:-1 tvg-logo="", Astro 25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rZbXvD8/astro-25-white.png", Astro 25
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8676
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -617,13 +617,15 @@ http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png", Star Movies Select
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png, Star Movies Select HD
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 https://i.ibb.co/Dt5nQsY/star-movies.png
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dt5nQsY/star-movies.png", Star Movies
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/220
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dt5nQsY/star-movies.png", Star Movies
 #http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 http://watchindia.net:8880/live/60275/20486/2080.ts
@@ -635,9 +637,22 @@ http://watchindia.net:8880/live/33253/72963/2102.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png", Blue Ant Extreme
-http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8     
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Galaxy
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/66
 
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Galaxy Premium
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
+
+
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", ROCK ENTERTAINMENT
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png" , ROCK ANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png",&Prive HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/63
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -850,7 +865,7 @@ http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 3
 http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXwUhtqh0BZZ4I_j1zaeKxaXBhTkX_ixfOg&usqp=CAU”,WWE Network HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png”,WWE Network HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 
 
