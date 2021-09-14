@@ -429,7 +429,7 @@ http://185.180.221.194:8277/streams/d/Tvnmovie/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157520
 http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
 	
-#EXTINF:-1 tvg-logo="", Waku-Waku
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/813_1920x1080_HTV.png", Waku-Waku
 http://foctv.xyz:25510/Amir5641/YY5641/104
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?", SONY GEM
@@ -865,7 +865,7 @@ http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 3
 http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png”,WWE Network HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png”, WWE Network HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 
 
