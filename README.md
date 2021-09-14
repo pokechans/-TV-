@@ -617,16 +617,16 @@ http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png", Star Movies Select
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png", Star Movies Select HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png, Star Movies Select HD
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 https://i.ibb.co/Dt5nQsY/star-movies.png
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dt5nQsY/star-movies.png", Star Movies
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png", Star Movies
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/220
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dt5nQsY/star-movies.png", Star Movies
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png", Star Movies
 #http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 http://watchindia.net:8880/live/60275/20486/2080.ts
 
@@ -865,7 +865,7 @@ http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 3
 http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png”, WWE Network HD
+#EXTINF:-1 tvg-logo="https://www.wwe.com/a/i/wwe_logo.svg”, WWE Network HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 
 
