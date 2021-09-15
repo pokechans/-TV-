@@ -123,11 +123,6 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/203
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png ", TV 6
 http://foctv.xyz:25510/Zulhairie/BB2064/203
 **********************************NTV7***************************************
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png”,NTV7
-http://50.7.17.176:61980/myplay/c_58005/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-
 #EXTINF:-1   tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",NTV7
 #http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
 
@@ -148,10 +143,10 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbGfVFZGVqxHHcVHug
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 #https://web.hypp.tv:443/PLTV/88888888/224/3221227515/3221227515.mpd
 *********************************TV8******************************************
-#EXTINF:-1   tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png",8TV
+#EXTINF:-1   tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="MALAYSIA", 8TV
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png", 8TV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065874
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png ", 8TV
@@ -477,22 +472,22 @@ http://50.7.17.176:61980/myplay/ml2_893/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.pn ",Astro Citra HD
 http://tigerfights.xyz:80/anh/123/2599321.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.pn ",Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png ",Astro Citra HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/27
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.pn ",Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png ",Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.pn ", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png ", Astro Citra HD
 http://foctv.xyz:25510/Zulhairie/BB2064/26
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.pn ",Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png ",Astro Citra HD
 http://foctv.xyz:25510/Zulhairie/BB2064/27
 
-#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.pn",Astro Citra HD
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065894
 
-#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.pn",Astro Citra HD
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065895
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
