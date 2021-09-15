@@ -93,6 +93,9 @@ http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Naura/playlist.m3u8
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
+http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
 http://foctv.xyz:25510/Amir5641/YY5641/387
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
