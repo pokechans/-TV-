@@ -1,3 +1,7 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" 
+
 *************************************TV1**************************************
 #EXTINF:-1 tvg-logo=" " ,TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
