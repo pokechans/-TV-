@@ -2,53 +2,26 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" 
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1
-https://rtm1hdhbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png " ,TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
+
+#EXTINF: -1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1 HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065865
 
 
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
-https://rtm5hdhbbtv.secureswiftcontent.com/Origin1/ngrp:RTM1/manifest.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png", TV2
-#http://51.79.223.246:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://50.7.161.82:8277/streams/d/TV2/playlist.m3u8
-http://185.180.221.194:8277/streams/d/TV2/playlist.m3u8
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png", TV2
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png”,TV2 HD
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png ", TV2 HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745762
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbo6ZVzA9-djhto3-zybFGo)/dm/3/x6qp375/d/live-1.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-#http://51.79.223.246:61980/myplay/c_58003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://50.7.161.82:8277/streams/d/TV3/playlist.m3u8
-http://198.16.106.61:8277/streams/d/TV3/playlist.m3u8
-http://185.180.221.194:8277/streams/d/TV3/playlist.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
-http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png " ,TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png", TV3
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065869
+
 
 
 
