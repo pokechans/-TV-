@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" 
 
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1 HD
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png " ,TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
