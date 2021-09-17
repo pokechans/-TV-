@@ -288,9 +288,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png", Dreamworks HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227596/3221227596.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png",BOO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO
 http://50.7.17.176:61980/myplay/c_58038/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", Boo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 
@@ -329,7 +329,7 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png",OH!K
+#EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png", Oh!K HD
 http://50.7.17.176:61980/myplay/c_58045/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
