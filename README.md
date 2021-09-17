@@ -261,7 +261,7 @@ http://teslaiptv.com:8080/hannaxhanna/es576457/68024
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png", Cartoon Network HD
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -288,9 +288,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png", Dreamworks HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227596/3221227596.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO HD
 http://50.7.17.176:61980/myplay/c_58038/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 
@@ -441,11 +441,6 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY", FOX Movies HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227572/3221227572.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY", FOX Movies HD
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
@@ -461,11 +456,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve", FOX Family Movies HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227644/3221227644.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve", FOX Family Movies HD
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
@@ -480,14 +470,14 @@ http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm", FOX Action Movies HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png",FOX Action Movies HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha    
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227638/3221227638.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm", FOX Action Movies HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png", FOX Action Movies HD
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
 #http://1.crtv1.ml/hstv/crtv.php?id=385
@@ -504,41 +494,18 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
 #EXTINF: -1 tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png ", Galaxy Premium
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065949
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", Blue Ant Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1506
 https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png", ROCK ANT EXTREME
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/811
-https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png" , ROCK ANT EXTREME
-http://45.126.83.51/dr9445/h/h15/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png",&Prive HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/63
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png, Star Movies Select HD
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-https://i.ibb.co/Dt5nQsY/star-movies.png
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png", Star Movies
-#http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-http://watchindia.net:8880/live/60275/20486/2080.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png",  Movies Now HD
-http://watchindia.net:8880/live/33253/72963/2102.ts
-
-
-
 
 
 
@@ -607,7 +574,13 @@ http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 ***********************************SERIES************************************
 
-
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png", Blue Ant Extreme
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/811
+https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png" , Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -657,7 +630,7 @@ http://185.180.221.194:8277/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network HD
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",rtm SUKAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",RTM Sukan
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
