@@ -1,3 +1,70 @@
+#EXTINF:-1 ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 ch-number="147" tvg-id="147" tvg-chno="147" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 ch-number="148" tvg-id="148" tvg-chno="148" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 ch-number="149" tvg-id="149" tvg-chno="149" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV9.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 ch-number="146" tvg-id="146" tvg-chno="146" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://i.postimg.cc/5tBvX7KM/Hello.png" group-title="TV",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 ch-number="611" tvg-id="611" tvg-chno="611" tvg-logo="https://i.postimg.cc/g2BtMJG0/Astro-Ceria.png" group-title="TV",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="Astro My"="104" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria HD
+http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
+
+#EXTINF:-1 ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://i.postimg.cc/fyZ83Sf8/Astro-Prima.png" group-title="TV",Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 group-title="Astro My"="105" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg", Astro Prima HD
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+#EXTINF:-1 ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://i.postimg.cc/k501mp63/Astro-Citra.png" group-title="TV",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://i.postimg.cc/6Q2jFXQf/Astro-Oasis.png" group-title="TV",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 ch-number="404" tvg-id="404" tvg-chno="404" tvg-logo="https://i.postimg.cc/wv5VdTYL/boo.png" group-title="TV",Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 ch-number="411" tvg-id="411" tvg-chno="411" tvg-logo="https://i.postimg.cc/hvyVSXyz/HBO.png" group-title="Movie",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://i.postimg.cc/4N0pqhHj/HBO-Signature-Asia.png" group-title="Movie",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://i.postimg.cc/DfBrQNvv/HBO-Family-Asia.png" group-title="Movie",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://i.postimg.cc/J40bpQ0b/HBO-HiTS.png" group-title="Movie",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
+#EXTINF:-1 ch-number="412" tvg-id="412" tvg-chno="412" tvg-logo="https://i.postimg.cc/jqXXg5Xr/Cinemax.png" group-title="Movie",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
+
 
 #EXTINF:-1 tvg-logo=" " ,ASSP EPL Live 1
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/8463.ts
