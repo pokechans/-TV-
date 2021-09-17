@@ -3,16 +3,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" 
 
 
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1 HD
-#https://rtmlive03tv.secureswiftcontent.com/rtmchannel/01_manifest.mpd
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1 HD
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|referer=https://myklikstatic.secureswiftcontent.com/live.php?ch=1
-#http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png " ,TV1 HD
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png", TV2
@@ -85,10 +83,9 @@ http://185.180.221.194:8277/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/200?cb=20190111152636", Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna HD
-http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb18148
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.17.176:61980/myplay/ml2_891/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna HD
 https://nonton.site:8443/rachman/rachman123/37335
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna HD
@@ -120,14 +117,7 @@ https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
 http://foctv.xyz:25510/Amir5641/YY5641/387
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
-#http://51.79.208.146:61980/myplay/c_58014/index.m3u8
-#http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
-#https://m3u-editor.com/serve/5a9d6b60-0270-11ec-8530-cbb324853ece/361125831
-http://iptv.tvmalaysia.cc:80/penang123/penang123/9016
-#http://mantul.biz.id:8888/jiwa/jiwa/10650
-#EXTINF:-1 tvg logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
-http://iptv.tvmalaysia.cc:80/penang100/penang100/9016
+
 
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
@@ -142,56 +132,27 @@ http://tigerfights.xyz:80/anh/123/2599368.ts
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10218
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema HD
-http://tigerfights.xyz:80/anh/123/2599336.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",TV Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png”,TV6
+http://50.7.17.176:61980/myplay/c_58047/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
-https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png", TV6
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png", NTV7
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png", NTV7
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbGfVFZGVqxHHcVHugTfQNM)/dm/3/x6qp6ou/s/live-2.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png", NTV7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png", 8TV 
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVhi7B7Yjl6BgiYhWp4v1_g)/dm/3/x6qud17/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8|Referer=https://www.dailymotion.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png", 8TV 
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png", 8TV
-#http://51.79.223.246:61980/myplay/c_58006/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://50.7.161.82:8277/streams/d/TV8/playlist.m3u8
-http://185.180.221.194:8277/streams/d/TV8/playlist.m3u8
-#http://1.crtv1.ml/hstv/crtv.php?id=442
-https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
-
-#EXTINF:-1 group-title="malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png",TV9
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08oedqroZPzCPw35WvLzu5rM)/dm/3/x7a7rf7/s/live-2.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png", TV9
-#http://51.79.223.246:61980/myplay/c_58007/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://50.7.161.82:8277/streams/d/TV9/playlist.m3u8
-http://185.180.221.194:8277/streams/d/TV9/playlist.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
-https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV9.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png", TV9
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV9.m3u8|Referer=https://www.dailymotion.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png", TV9
@@ -200,17 +161,13 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NjE5ZjlhOGEtYmM0Ny0zZWZiLTgzNDctM2U4MWFjOTUwNTMx
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png ", TV Al-Hijrah
-#http://51.79.223.246:61980/myplay/c_58008/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://50.7.161.82:8277/streams/d/Alhijrah/playlist.m3u8
-http://185.180.221.194:8277/streams/d/Alhijrah/playlist.m3u8
-http://50.7.161.82:8277/streams/d/Alhijrah/playlist.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png", TV Al-Hijrah
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png", Al-Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",Al-Hijrah 
+http://50.7.17.176:61980/myplay/c_58008/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 
 
@@ -255,13 +212,6 @@ http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg", TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg", TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
@@ -271,26 +221,20 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 http://50.7.161.82:8277/streams/d/Hello/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157543
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png", HELLO HD
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
 
 
 
 ******************************KARTUN*****************************************
 
 
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",ASTRO Ceria HD
+http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=165494238
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", Astro Ceria HD
-http://194.233.68.128:5080/LiveApp/streams/092138205532815210907549.m3u8|Referer=http://www.tvmalaysia.online
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -299,7 +243,7 @@ http://194.233.68.128:5080/LiveApp/streams/092138205532815210907549.m3u8|Referer
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png",Aniplus
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png",ANIPLUS
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 
 
@@ -434,18 +378,9 @@ http://foctv.xyz:25510/Amir5641/YY5641/104
 http://foctv.xyz:25510/Amir5641/YY5641/105
 
 **************************************MOVIE**********************************
-#EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png", FIRST A COLLECTION
-http://194.233.66.151:25461/rumah/home/203
 
 #EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png", FIRST A COLLECTION
 http://foctv.xyz:25510/Amir5641/YY5641/353
-
-#EXTINF:-1 tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/Astro-First-Logo-Vector.png",FIRST B COLLECTION
-http://194.233.66.151:25461/rumah/home/287
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Astro_ABO.png/220px-Astro_ABO.png",BEST COLLECTION
-http://194.233.66.151:25461/rumah/home/257
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rZbXvD8/astro-25-white.png", Astro 25
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8676
@@ -468,15 +403,10 @@ http://185.180.221.194:8277/streams/d/Hitsmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
 #EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png", HBO Family HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -487,27 +417,10 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png", HBO Family HD
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-http://198.16.106.61:8277/streams/d/hbofamily_twn/playlist.m3u8
-#http://50.7.59.184:61980/myplay/cn_3_13003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/197013
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png", HBO Hits HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png", HBO Hits HD
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-#http://50.7.59.184:61980/myplay/cn_3_13002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
-http://185.180.221.194:8277/streams/d/Hbohits/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -526,16 +439,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png", HBO Signature HD
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-http://185.180.221.194:8277/streams/d/Hbosignature/playlist.m3u8
-#http://50.7.59.184:61980/myplay/cn_3_13004/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/264804
-#http://1.crtv1.ml/hstv/crtv.php?id=329
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
 
 
 
@@ -549,15 +453,6 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png", CINEMAX HD
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png", CINEMAX HD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-#http://50.7.59.184:61980/myplay/cn_3_13022/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157519
-#http://1.crtv1.ml/hstv/crtv.php?id=346
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 
 
@@ -614,31 +509,10 @@ http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
 #http://1.crtv1.ml/hstv/crtv.php?id=385
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png", Star Movies Select HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png, Star Movies Select HD
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-https://i.ibb.co/Dt5nQsY/star-movies.png
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png", Star Movies
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/220
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png", Star Movies
-#http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-http://watchindia.net:8880/live/60275/20486/2080.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png",  Movies Now HD
-http://watchindia.net:8880/live/33253/72963/2102.ts
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Galaxy
+#EXTINF:-1 tvg-logo="",Galaxy
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/66
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",Galaxy Premium
+#EXTINF:-1 tvg-logo="",Galaxy Premium
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
 
 
@@ -651,6 +525,24 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png",&Prive HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/63
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png, Star Movies Select HD
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+https://i.ibb.co/Dt5nQsY/star-movies.png
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png", Star Movies
+#http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://watchindia.net:8880/live/60275/20486/2080.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png",  Movies Now HD
+http://watchindia.net:8880/live/33253/72963/2102.ts
+
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -768,7 +660,7 @@ http://185.180.221.194:8277/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network HD
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Sukan",rtm SUKAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Sukan",rtm SUKAN
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
@@ -984,393 +876,6 @@ http://yassooo.com:8080/benAlaa/829293992/80107
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/17again.jpg" group-title="VOD English" tvg-id="" tvg-name="", 17 Again
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/17Again.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/xnxGmUof0HiugUaNbUFiS4GJPx4.jpg" group-title="VOD English" tvg-id="" tvg-name="", A Classis Horror Story 2021
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/A%20Classic%20Horror%20Story%20(2021).mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg" group-title="VOD English" tvg-id="" tvg-name="", 2 Fast 2 Furious
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%20Sequels/2%20Fast%202%20Furious%20(2003).mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8BmdWpcCcTobAwDmaez6ipns7UztRMrtI3g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", 21 Jump Street
-https://storage.googleapis.com/13464d644231/370/32f13720f34983b10710d8adfd532c94.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYyYXMxAVkLlNI3Db9fnDhj7VvS6OAyAq9xQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", 3 Idiots (2009)
-https://storage.googleapis.com/13464d6407c1/d30/a21fd15df2ab498a7baaecd47be3b299.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/94Bv22K/47-Meters-Down-Uncaged-2019.jpg" group-title="VOD English" tvg-id="" tvg-name="", 47 Meters Down: Uncaged (2019)
-https://www.googleapis.com/drive/v3/files/1W49D9iHci1_xKkR437Ok00vtByLPWbKG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgsGaVnXdmxJ4HEKjnZJm3b2fgkkGt_lzX_g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Angel Has Fallen
-https://lh3.googleusercontent.com/S59bS7LLzL4q9DdYVm110SMMBXvmE8FnyeNQ7eRK8NsNtXg2fIAeWVh9F-YoMbL4Hom4182vfD2J0xgvlQ=m37
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qmer6G5_pz4o7kZYspfPKlCfJHAOrBgPDA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Aquaman
-http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/d3pVfiP.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman Begins (2005)
-https://lh3.googleusercontent.com/HLVduzzMHSqVwBbMmLuj1MfwZtDm-B9I6ipRlJBZfTuwMsFXmU6kUWdbjS-GCmAUI1v9lNPsNTXmz7XBww=m22
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XH4g120.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman: The Dark Knight (2008)
-https://lh3.googleusercontent.com/OXw9QDYThjRhY7mIZzzjgcFY1d1hudDPWrwprmb3QtQsBXgBlgZL3Xs4l_4pvPsQ2vaGWMgQ3cuNJetvVA=m22
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Rcv5gXU.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman: The Dark Knight Rises (2012)
-https://lh3.googleusercontent.com/0i7CSFHiP0E_NHl1dEFKdpqCNkSGWtDP3tOQQxjDvr_oSauAkn8_8E30twpKn20WKTZuVOuLGKznk9CqNQ=m22
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4R0zXzr.jpg" group-title="VOD English" tvg-id="" tvg-name="", Blood Brothers
-https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Brave (2012)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960865
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu3uo2Tfvz74BCU6boIqro78T9877QHAw4Ag&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Bumblebee
-http://srv37.nf21.net/files/19-2020-05-30-0f8170fdde6900eda968ffb274832ff6.mp4
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD English" tvg-id="" tvg-name="", Chinese Ghost Story 3: The Enchanting Phantom (2020)
-http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1LJAVxvoXfxdJfBmd9tKZcH4oSqODBjaNg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Despicable Me 1
-https://videos.files.wordpress.com/g3WNpYqU/despicableme_mp4_dvd.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR2Ii6zlVVcNzbN3idvzlPGXfTgHH48ZiAw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Despicable Me 2
-https://videos.files.wordpress.com/3Flbt8SJ/despicableme2_mp4_dvd.mp4
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KCJaCsI.jpg" group-title="VOD English" tvg-id="" tvg-name="", Dragon Blade
-https://lh3.googleusercontent.com/ShD9GW1BPcJLCTz4xv2IEp15i4jgEg9ateA40i7Wt-arbAUnYCJ-ZceoJdpMf6H0naX88Hh1gMGgHBjUqw=m22
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i460iQ6.jpg" group-title="VOD English" tvg-id="" tvg-name="", Dreamcatcher
-https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxlV3v4lPc3LJPTIwXnFtPPJlz83Yl38AgHw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Edward Scissorhands
-https://eu2.vod.rdncdn.com/VOD1/Movies/GER/EdwardScissorhands.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg" group-title="VOD English" tvg-id="" tvg-name="", Edward Scissorhands (1990)
-http://iptv.tvmalaysia.cc:80/movie/989898/989898/296.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7AvcI3tYV5d_aTxQ15MK037lyEc36PeXEw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Final Destination
-https://lh3.googleusercontent.com/Wm3aZtq_WnTJCRY3mkTJXzTM0qRjJat4lhRZHqLRj58QVX3yv4eQlWr35WnAdXQ69B88t-xP-j68Msz6Ng=w391-h220-rw
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6pitquBPl7OM2GP183geJSAMo_0Fn-CB2gg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Final Destination 2
-https://lh3.googleusercontent.com/FU51aGfKxv1YTgbLrKyobQoX5FM2QwMaByj7m9g0_TSNUUc9qQwY2QZpWrLRONvPBVQq934H8_k4T-Z2uQ=w391-h220-rw
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnGNBT4E5IVwMu0FFFefxVTKYyfYD5Anutg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Final Destination 3
-https://lh3.googleusercontent.com/IeHFJ8L-bpa4iMtISXY-q8C0cGAqijTrnDZw_mJKaq2MSfvAcxxtrMbf_P5u1-5QPjIpMc9qrH0HhmGSLA=w391-h220-rw
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnegdgtM0WO7eNlzEobF6su2ddHw_RIl-Rg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Final Destination 4
-https://lh3.googleusercontent.com/S89ci47U4IDfruUU3fA2khpzkTufunn_rCGcfHoZ4ltiZiKFPdVpQntM4ZjQOXfPtJFJwGV3A_3S1sVrhw=w529-h220-rw
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyOTExNDc1M15BMl5BanBnXkFtZTcwMDA0MTA4NQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Final Destination 5 (2011)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960210
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/saOpM2X.jpg" group-title="VOD English" tvg-id="" tvg-name="", Frozen
-https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tQjVdJc.jpg" group-title="VOD English" tvg-id="" tvg-name="", Frozen 2
-https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@._V1_SY1000_SX649_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", G.I. Joe: Retaliation (2013)\
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960780
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzMTU1NzQwNl5BMl5BanBnXkFtZTcwNDg4NzMzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", G.I. Joe: The Rise of Cobra (2009)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960211
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", Godzilla Against Mechagodzilla (2002)
-https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57Ji5giuD7YWL0GTWZrlLQgGxhSzZJnSsNQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Godzilla vs. Kong
-http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/191.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="VOD English" tvg-id="" tvg-name="", Godzilla vs. Kong (2021)
-http://iptv.tvmalaysia.cc:80/movie/989898/989898/7332.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", Godzilla: Final Wars (2004)
-https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", Godzilla: Planet of the Monsters (2017)
-https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4UqEahFbcAmTgQunS0LZiGhGntAYG-wKvQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Hachi: A Dogs Tale
-https://vodcdn.internetowa.tv/Hachi-A-Dogs-Tale-Moj-przyjaciel-Hachiko-2009-Lektor-PL.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SqUiiQl.jpg" group-title="VOD English" tvg-id="" tvg-name="", Heroes Return
-https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CK8Xzd8/Hitman-Agent-47-2015.jpg" group-title="VOD English" tvg-id="" tvg-name="", Hitman: Agent 47 (2015)
-https://www.googleapis.com/drive/v3/files/1gR27s335-aR9fbkyxfugtP8DkcOEwONd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/qyDWWme.jpg" group-title="VOD English" tvg-id="" tvg-name="", Hotel Mumbai
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961007
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5Yjmr0C.jpg" group-title="VOD English" tvg-id="" tvg-name="", Hotel Transylvania
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960920
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/UVOZbW5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Hotel Transylvania 2
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960922
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/s3zlJkN.jpg" group-title="VOD English" tvg-id="" tvg-name="", Hotel Transylvania 3: Summer Vacation
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960923
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/wianuVI.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ice Age
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960884
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5gsdkhp.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ice Age: Collision Course
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960887
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/mKiKnGf.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ice Age: Continental Drift
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960886
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iJofDin.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ice Age: Dawn of the Dinosaurs
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960885
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/RhMIDnp.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ice Age: The Meltdown
-https://lh3.googleusercontent.com/_mPY82zbxOqPb9sthB5i-f7BQHT-TDzmTnkAWFH73spzfcSqUlu0-iu5WeZfTcAF5pxTVavum5KHdPnvMw=m22
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/pXdOC8N.jpg" group-title="VOD English" tvg-id="" tvg-name="", Iceman: The Time Traveller
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959719
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QO7dlSE.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959706
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Ubl1Dlh.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man 2
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959707
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YiqpL2c.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man 3
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959708
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DYOJ0Az.png" group-title="VOD English" tvg-id="" tvg-name="", Ip Man 4: The Finale
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959709
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xivB6QQ.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ip Man and Four Kings
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959710
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tjUed3K.jpg" group-title="VOD English" tvg-id="" tvg-name="", Jai Ho
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961008
-
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/jiu-jitsu-2020.jpg" group-title="VOD English" tvg-id="" tvg-name="", Jiu Jitsu
-https://vodcdn2.internetowa.tv/storage-2/Jiu-Jitsu-2020-Lektor-PL.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kfJGibR.jpg" group-title="VOD English" tvg-id="" tvg-name="", Judas and the Black Messiah
-http://www.supercartube.com/media/videos/h264/166_720p.mp4
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="VOD English" tvg-id="" tvg-name="", Kingsman: The Secret Service (2014)
-http://iptv.tvmalaysia.cc:80/movie/139664/139664/316.mp4
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/JCFcP5U.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Hustle
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959722
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/V8Z7j4b.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu League
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959724
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/gzUlJU5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Monster (2018)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959723
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LZh9Ujz.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960879
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HytloH.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda 2
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960880
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NQL23Gd.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda 3
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960881
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/bGuxsWT.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kungfu Chef
-https://lh3.googleusercontent.com/60E8xMgnlhiFIW5xaqBFawKIeM7v_61U5R3ZUUOgF09R_4oXdGIbW-yOLXwDLnXJpR40WX2y_Hz12I8vIw=m22
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/gzUlJU5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kungfu Master
-https://lh3.googleusercontent.com/klkP35A4fD1Kq6Cy1S3dbTAtpAAVUIDIknqekHI4G4GG04f34G1fwAUauJ8L8tbcZO4ALTGfBpkMmNp8NA=m22
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0mQyoL.jpg" group-title="VOD English" tvg-id="" tvg-name="", Land
-https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3uph4WNgvP1GUqf8wmUKWUuO-2zpS_BzMg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Lucy
-http://srv24.nf21.net/files/15-2018-11-07-87a60112c7eabd4f9dd43928ad6c0eb2.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkevr7xNI06Mhty417R8NvgaG-rfH8eRwZJg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Man of Steel
-https://cdn.english-with-fun.com/content?rs=B04B59F3-971301f6568a07588b12c3c3&app_type=web
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XryfVhW.jpg" group-title="VOD English" tvg-id="" tvg-name="", Master Z: The Ip Man Legacy
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959711
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfjNGYijYRcc6McThM34xpzB8-G4Hi92lMQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Monster Hunter
-http://www.supercartube.com/media/videos/h264/156_720p.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgheSKxZkttIe8ONsf2sWXPgip3.jpg" group-title="VOD English" tvg-id="" tvg-name="", Monster Inc.
-https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg" group-title="VOD English" tvg-id="" tvg-name="", Monsters University
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfzRxDnBFbM3HiRsQB0zujWZdF623fPW78w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Mortalkombat
-http://srv44.nf21.net/files/10-2021-04-27-a0b85adabf8a41a9ea4a6ba616ee2109.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kYkh4I4.jpg" group-title="VOD English" tvg-id="" tvg-name="", Moxie
-https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbdXTgKLLucPfLVdPHBc7NWAZpPgE69vD9w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Mulan(2020)
-http://srv41.nf21.net/files/15-2020-10-14-181bce8bfb76d43f9f8714f3ea2a3ca0.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHZ-lcWjj_tthdJyICVdy9vIy41Aud9NvRA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Need for Speed (2014)
-https://storage.googleapis.com/13464d6db37f/f00/f637c3b216f5b29856c674f5b419af19.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDAQ3Lk9xzPrskGv11bJ2eJ2dbFJX33jTJQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Now You See Me
-https://storage.googleapis.com/13464d6db37f/bc8/28e785f90a4499e3a26e633990428da9.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCAwQrHSvkaN4yzDUAJVPZPNfSy1pvoDDSgQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Now You See Me 2
-http://srv40.nf21.net/files/19-2020-06-11-e20237d43952dbf805b0d9bdc445b4d5.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8UBNklVs9BpZiJdchid-4q-lq6HkLwCVWg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Okja
-https://lh3.googleusercontent.com/aLxQA9XGhhrPs9petIk0_0wEOIE2_UGzBgspsYEDItBtzz4COBKQFm0TfvWM40f6S6oPFxHaBnUa9zZytA=m22
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvdOEmLMv8XCvznAAkxcUXHKYBj.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ombak Rindu (2011)
-http://iptv.tvmalaysia.cc:80/movie/989898/989898/7006.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1T5qFb3bAUQEVVfQeBk82sGI7l.jpg" group-title="VOD English" tvg-id="" tvg-name="", Paku Pontianak (2013)
-http://iptv.tvmalaysia.cc:80/movie/989898/989898/7007.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xDF8uzB.jpg" group-title="VOD English" tvg-id="" tvg-name="", Payback
-https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8Y0HY.jpg" group-title="VOD English" tvg-id="" tvg-name="", Phobias (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuCDmjOIKhTH-jj-fiUIbsGUeCa29PGRb4Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Scary Movie
-http://ia801402.us.archive.org/12/items/0000_20201108/00002.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYhUK3vQlYzi6Ee2RqnXVfqwmReGWQhCTvLQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Scary Movie 2
-http://ia801402.us.archive.org/12/items/0000_20201108/00003.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfa8nkiLlhJ2MUU5Q5KfwlSle4T8Iek2FwmQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Scary Movie 3
-http://ia801404.us.archive.org/26/items/000_20201109/00005.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR56o0bJgnWhRhyY5n4QMPLAU79ec-HLMof3Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Scary Movie 4
-http://ia601506.us.archive.org/16/items/000_20201026/00008.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcUiTtPpHMtkvBakm7C3r7W7saKLDRg4vIg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Scary Movie 5
-http://ia801400.us.archive.org/14/items/000_20201114/00006.mp4
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/UuwfPvT.jpg" group-title="VOD English" tvg-id="" tvg-name="", Shaolin Soccer
-https://lh3.googleusercontent.com/UDEPk7otEZHW0Ukv4GvmAOozp1ml0KMJq8Z-CbniwVLBEdR67h6z-d92YiBYXtO6Fup90QVsY5-HSLz4hA=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Slumdog Millionaire
-https://api1.ohflix.workers.dev/0:/ohflix342/one/Random1%20Movies%20Malay%20Sub/Slumdog%20Millionaire%20(2008)%20Bluray%20720p%20Malay%20Hardsub.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKj_PWyt_ilzmJYUAb5URnlRTq2VsWtZhemg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Snake Eyes
-https://storage.googleapis.com/13464d5a8c70/8f5/accc3ffdc0902dcb274a3ec5c6938236.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", Step Up (2006)
-https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwOTA4NTE4Ml5BMl5BanBnXkFtZTcwOTI2NTg1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Chronicles of Narnia: Prince Caspian
-https://lh3.googleusercontent.com/FIoZrjC91WsH4gf2yjKQWSNMhd3lSrT89sF8lA8q7gv42lgdCKkOXO1q38ToH04L-3Ncyesbg24b13fbcg=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
-https://lh3.googleusercontent.com/QSInrrADVJqNhT7F-DpmblkyYvFqW9Z5B7ErQlxKQCy7gTsLluNHXHzqhQNAOdyScXWRKS5c2p6rz2secw=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ2MDQzMzExNl5BMl5BanBnXkFtZTcwMTYzOTc5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Chronicles of Narnia: The Voyage of The Dawn Treader
-https://lh3.googleusercontent.com/eOFCA9aWV9lVDEaLTXbk2CvjJYmcs_g1QiXSzhhV5f94Id7KANNAAxEfDCscmx3i2M5alvpf1bmt8rtS0Q=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Expendables (2010)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960229
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg1YWRhNmQtMGI5Ny00MTI3LTg2OTItZWEzZGE3OGZjZDNhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,648,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Expendables 2 (2012)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960230
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Expendables 3 (2014)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960231
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjMWJhMTYtMzUxMC00ODdhLTk3YzMtZDFhNGUyOGFhYTY0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The First Purge
-https://lh3.googleusercontent.com/tXebnhmXhLGFPrwD9n3tAiqQ_D1mAsTTspEbLXR8GBNypKmHLTPvLKWIiMfeBWIXOvnfrfizZ8x_nFoe1g=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960215
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games: Catching Fire
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960216
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_SY1000_CR0,0,657,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games: Mockingjay - Part 1
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960217
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_SY1000_CR0,0,657,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games: Mockingjay - Part 2
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960218
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Lt4Y33X.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Man from Macau (2014)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959733
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Maze Runner
-https://lh3.googleusercontent.com/jtqRDOvPmZVqNiigYfB9MG3uW_geFkLYRPSHND__-LBL16HZwj36HU63I1zfY3bSiQy0WZ-EPkt8vWv9qA=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Maze Runner: The Death Cure
-https://lh3.googleusercontent.com/ddjlgOMOCJWZGr7XK9zVU1QsArlkmVMFbH3DLzaR9hddOey_U2RTG_d03xISng5LY68GnGYkZ_90C6eLTA=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Maze Runner: The Scorch Trials (2015)
-https://lh3.googleusercontent.com/JgkoDIgxx_sWgy0lEpmggJjrgoljj0C13TABrgEbZFUniRtyTPewwo7OnYPGQmoxhhIWbCxRxlHaZgYm0A=m22
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9IRw373.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Monkey King Caused Havoc in Dragon Palace
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959740
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WXeYnezavNI6hXH74aQYv6yFzj.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Mortuary Collection (2020)
-http://iptv.tvmalaysia.cc:80/movie/989898/989898/6685.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOdEhsP_yj0Sd3WmvTVhnFUEjuiPfdMKYPA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", The Purge
-https://lh3.googleusercontent.com/0GnRsV4TTIRhtwrDqjsZXCLCicwGEk-bQIRUUs-obLk03twPf5mz8p3e7Jer5ivicOaahxmQrgORIZWuEw=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2ODMxMTk1Nl5BMl5BanBnXkFtZTgwMDEzNjEzMTE@._V1_SY1000_CR0,0,631,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Purge: Anarchy
-https://lh3.googleusercontent.com/hIX3IZEa2ve1srImQFk_9K8wSlar9MNmjmHygB9J7aYWTIQU4iqY4BTJehkZYSbC7dEn9D8DL2_BUhBvTg=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MDI0MTA1N15BMl5BanBnXkFtZTgwOTk4NjU5ODE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Purge: Election Year
-https://lh3.googleusercontent.com/A_AUMJtXnXkPa6XliM22SqqxjEZZpBb75C4I3gl-pT2oCqJd-sjx9z3gXmYF-yhHJYixgyENsYRdgE5TLA=m22
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", The Twilight : ECLIPSE (2010)
-https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", The Twilight : NEW MOON (2009)
-https://lh3.googleusercontent.com/Rdf4CHvfJVZD3h4XzRdNOkjyhof4joJMl2EDlSoWy-7O_EyNsgwB07sOd3PMTCEiudS7YfiFONd_eHeTvw=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", the Witch and the Wardrobe (2005)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960235
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z2xqpx/20210525-030444.png" group-title="VOD English" tvg-id="" tvg-name="", Thriller: Alice Fades Away (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yNEYhbK.jpg" group-title="VOD English" tvg-id="" tvg-name="", Thunder Force (2021-Action)
-https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5Wgbwyq/Tomb-Raider-2018.png" group-title="VOD English" tvg-id="" tvg-name="", Tomb Raider (2018)
-http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/V8LSJ4w.jpg" group-title="VOD English" tvg-id="" tvg-name="", Train to Busan (2016)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959805
-
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/vanguard-2020.jpg" group-title="VOD English" tvg-id="" tvg-name="", Vanguard (2020)
-https://vodcdn2.internetowa.tv/storage-2/VANGUARD-2020-PL-SUB.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="VOD English" tvg-id="" tvg-name="", Vanquish (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pjoVm4z.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wildcat
-https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Wonder_Woman_%282017_film%29_poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wonder Woman
-https://cdn.jwplayer.com/manifests/nNjeV7v1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Wonder_Woman_1984_poster.png" group-title="VOD English" tvg-id="" tvg-name="", Wonder Woman 1984
-https://cdn3ii.diebutx.com/own2hls/2020/cf411a4c3cbff9b7b220302f038813cf/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UfPkkBT.jpg" group-title="VOD English" tvg-id="" tvg-name="", Wrong Turn
-https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZjZmM1ZDctNDhlZi00Mzk1LWFjNWItYzIxNGY2OWYzYjJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", xXx
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960219
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcwMjkxMzQ3NV5BMl5BanBnXkFtZTgwMzgyNDA5MDI@._V1_SY1000_CR0,0,640,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", xXx: Return of Xander Cage
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960221
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY4ZGQ2OGItNGQ4NC00MWVmLTgxMzktYThjNmRlNjYzYjQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,673,1000_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", xXx: State of the Union
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960220
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmHfZD5hQylKsFe1pi79ZnHOZrsDxVe9sMQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Zack Snyders Justice League
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Justice%20League%20-%20Synder%20Cut%20(2021)3.mp4
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/6852.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Abang Long Fadil
@@ -1937,23 +1442,7 @@ https://lh3.googleusercontent.com/73B1LCEQ-UN3I_R1A1QAvaSnzVjuAexAxVOOLRsMn0Tt26
 
 https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/msA00yq.jpg" group-title="VOD" tvg-id="" tvg-name="", Redemption Day
-https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R8w5XtY.jpg" group-title="VOD" tvg-id="" tvg-name="", Teddy
-https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/shlkiWk.jpg" group-title="VOD" tvg-id="" tvg-name="", Hellkat
-https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg" group-title="VOD" tvg-id="" tvg-name="", Alice in Wonderland
-https://calm-rain-70b4.buntai.workers.dev/0:/movie/English/Alice%20in%20Wonderland%20(2010).mp4
-
-#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/american-fighter-2021.jpg" group-title="VOD" tvg-id="" tvg-name="", American Fighter
-https://vodcdn.internetowa.tv/storage-2/American-Fighter-2019-1080p-Lektor-PL.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SEdPzoV.jpg" group-title="VOD" tvg-id="" tvg-name="", American Liar
-https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
 
 
 
