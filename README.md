@@ -1442,93 +1442,94 @@ https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8i
 
 
 2021
-#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW1UNgDkVNreqYJk1YKo4ACa705.jpg" group-title="VOD 2021",Mosul
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW1UNgDkVNreqYJk1YKo4ACa705.jpg" group-title="VOD MOVIES",Mosul (2021)
 http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/7117.mp4
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/q8Py71q2dnjdZOoB6BGcUkgmy0d.jpg" group-title="VOD 2021",Tenet
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/q8Py71q2dnjdZOoB6BGcUkgmy0d.jpg" group-title="VOD MOVIES",Tenet (2021)
 http://m-cdn.fr33.click/M/2f17c541485ee13426906240ffa93d95?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/sRHaraL6CWtaULPdxe38Gnm3P3y.jpg" group-title="VOD 2021"",Extraction 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/sRHaraL6CWtaULPdxe38Gnm3P3y.jpg" group-title="VOD MOVIES",Extraction (2021)
 http://m-cdn.fr33.click/M/99fa632dcb42f65b2e0b5a0e1735322e?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/saN1UywIQMQNXYx2ag9j2tPwaVl.jpg" group-title="VOD 2021",The Outpost
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/saN1UywIQMQNXYx2ag9j2tPwaVl.jpg" group-title="VOD MOVIES",The Outpost (2021)
 http://m-cdn.fr33.click/M/609bdc70da1b8e1f3f197a67637957ee?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="VOD 2021",Star Wars: The Rise of Skywalker
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="VOD MOVIES",Star Wars: The Rise of Skywalker (2021)
 http://m-cdn.fr33.click/M/72e0de400ade1eacce0154565be52163?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/9Vp8MKqrwRAtvACF7PBwbvdG4dq.jpg" group-title="VOD 2021",Jumanji: The Next Level 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/9Vp8MKqrwRAtvACF7PBwbvdG4dq.jpg" group-title="VOD MOVIES",Jumanji: The Next Level (2021)
 http://m-cdn.fr33.click/M/085be78ceb2a3f3f85da2e38b3270ac2?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/ptdp8433OCeJdnlI09D9cEmq1Qe.jpg" group-title="VOD 2021",Ford v Ferrari 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/ptdp8433OCeJdnlI09D9cEmq1Qe.jpg" group-title="VOD MOVIES",Ford v Ferrari  (2021)
 http://m-cdn.fr33.click/M/5d818b6839553cae96b56a38b0cf9efd?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg"group-title="VOD 2021",Terminator: Dark Fate 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg"group-title="VOD MOVIES",Terminator: Dark Fate (2021) 
 http://m-cdn.fr33.click/M/bd56af80bdf6d5ac488c61c1707977b7?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ddV9cFT75AHxGmJy9QRtjuE1V35.jpg group-title="VOD 2021",Midway
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ddV9cFT75AHxGmJy9QRtjuE1V35.jpg group-title="VOD MOVIES",Midway (2021)
 http://m-cdn.fr33.click/M/51725de3141e89551723c669cabbc098?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="VOD 2021",Rambo: Last Blood 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="VOD MOVIES",Rambo: Last Blood (2021)
 http://m-cdn.fr33.click/M/61a6144fd38fba0c5639f40f4247e689?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg" group-title="VOD 2021",Gemini Man
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg" group-title="VOD MOVIES",Gemini Man (2021)
 http://m-cdn.fr33.click/M/45ff5cb7672f20a1d09dc93533ed949c?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="VOD 2021",Angel Has Fallen 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="VOD MOVIES",Angel Has Fallen (2021)
 http://m-cdn.fr33.click/M/6dd7374f91db43fcabc75204719d4991?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="VOD 2021",Joker 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="VOD MOVIES",Joker (2021)
 http://m-cdn.fr33.click/M/7f825311c44b70417a4cbee4b964d471?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg" group-title="VOD 2021",Fast & Furious Presents: Hobbs & Shaw
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg" group-title="VOD MOVIES",Fast & Furious Presents: Hobbs & Shaw (2021)
 http://m-cdn.fr33.click/M/3eaa170d7fb904acbbce8626da84a153?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" group-title="VOD 2021",Dark Phoenix
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" group-title="VOD MOVIES",Dark Phoenix (2021)
 http://m-cdn.fr33.click/M/c5a4d3d7305b9ec17d28117b1269ccb4?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg" group-title="VOD 2021"Wonder Woman 1984
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg" group-title="VOD MOVIES"Wonder Woman 1984 (2021)
 http://m-cdn.fr33.click/M/0ea2f5c0f5d8b4c63410692200600a5c?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/xsABXSjwuJst4HHfvpkAtK4cFVa.jpg" group-title="VOD 2021",Peninsula
+
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/xsABXSjwuJst4HHfvpkAtK4cFVa.jpg" group-title="VOD MOVIES",Peninsula (2021)
 http://m-cdn.fr33.click/M/9cf97f0e4d07ea1a83ca3fa7094ec381?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg" group-title="VOD 2021",The Croods: A New Age 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg" group-title="VOD MOVIES",The Croods: A New Age (2021)
 http://m-cdn.fr33.click/M/f198ec572be1f5b9ec7791a2aac4d9a2?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
-
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg" group-title="VOD 2021",Mulan 
+ 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg" group-title="VOD MOVIES",Mulan (2021)  
 http://m-cdn.fr33.click/M/62b4ae236f585d8dfb22ea39d5966286?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/13B6onhL6FzSN2KaNeQeMML05pS.jpg" group-title="VOD 2021",Breach 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/13B6onhL6FzSN2KaNeQeMML05pS.jpg" group-title="VOD MOVIES",Breach (2021) 
 http://m-cdn.fr33.click/M/58d9d58b48220f903ae6ad1722399427?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg" group-title="VOD 2021",Underwater 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg" group-title="VOD MOVIES",Underwater (2021) 
 http://m-cdn.fr33.click/M/d8312499676efcceef8f4de3e80b258c?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="VOD 2021",Bad Boys for Life
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="VOD MOVIES",Bad Boys for Life (2021)
 http://m-cdn.fr33.click/M/db5c0090ee69687b388e7da244d00966?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="VOD 2021",Bloodshot 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="VOD MOVIES",Bloodshot (2021)
 http://m-cdn.fr33.click/M/a998e5ef9899fb4e6acb24b92ffc4d31?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg" group-title="VOD 2021",Horizon Line
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg" group-title="VOD MOVIES",Horizon Line (2021)
 http://m-cdn.fr33.click/M/43961f569c5644cbbb7ecc42fcba8600?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg" group-title="VOD 2021",Shadow in the Cloud
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg" group-title="VOD MOVIES",Shadow in the Cloud (2021)
 http://m-cdn.fr33.click/M/bfb0d0321f9de42b08340ef0fa29251b?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg" group-title="VOD 2021",Soul 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg" group-title="VOD MOVIES",Soul 
 http://m-cdn.fr33.click/M/529fd48368907035ffe553e486ec5924?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zeD4PabP6099gpE0STWJrJrCBCs.jpg” group-title="VOD 2021"",Honest Thief 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zeD4PabP6099gpE0STWJrJrCBCs.jpg” group-title="VOD MOVIES",Honest Thief (2021) 
 http://m-cdn.fr33.click/M/609ed3ed73fe5e35f23d7c47c0dea5f9?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mKvw1Ic9enfFlCPBNJGiejRPMUO.jpg" group-title="VOD 2021",Vanguard
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mKvw1Ic9enfFlCPBNJGiejRPMUO.jpg" group-title="VOD MOVIES",Vanguard (2021)
 http://m-cdn.fr33.click/M/6921c67f1da4bb9325bf7842310c46af?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" group-title="VOD 2021",Ava
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" group-title="VOD MOVIES",Ava (2021)
 http://m-cdn.fr33.click/M/457b4b57ed312c481512a100c66cf041?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 
-#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg" group-title="VOD 2021",Greyhound 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg" group-title="VOD MOVIES",Greyhound (2021)
 http://m-cdn.fr33.click/M/9682bae5823c79dfa38432cc8d358606?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052
 #EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Kong (2021)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7332.mp4
