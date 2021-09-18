@@ -369,6 +369,8 @@ http://foctv.xyz:25510/Amir5641/YY5641/353
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rZbXvD8/astro-25-white.png", Astro 25
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8676
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png", Hits HD
@@ -383,6 +385,16 @@ http://185.180.221.194:8277/streams/d/Hits/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://185.180.221.194:8277/streams/d/Hitsmovie/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png", Astro Primetime
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/FAM_Movies.png", FAM Movies
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4654
+
+
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/d3a80a5c681c522dd6c93f2174a52c6b.png", Showcase Movies
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8543
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
