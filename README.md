@@ -11,8 +11,6 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 http://50.7.17.176:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png", TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
@@ -20,16 +18,6 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.17.176:61980/myplay/c_58003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-#http://51.79.223.246:61980/myplay/c_58003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://50.7.161.82:8277/streams/d/TV3/playlist.m3u8
-http://198.16.106.61:8277/streams/d/TV3/playlist.m3u8
-http://185.180.221.194:8277/streams/d/TV3/playlist.m3u8
-http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
-http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
