@@ -73,7 +73,6 @@ https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
 http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
 http://foctv.xyz:25510/Amir5641/YY5641/387
 
 
@@ -86,8 +85,6 @@ http://tigerfights.xyz:80/anh/123/2599367.ts
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
 http://tigerfights.xyz:80/anh/123/2599368.ts
-
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10218
 
 
@@ -162,15 +159,10 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157543
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=165494238
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png", ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
@@ -183,14 +175,12 @@ http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png", TA-DAA! 
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/11744
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png", DISNEY CHANNEL
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+
 #EXTINF:-1 tvg-logo=" https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png ", Disney Junior
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
@@ -200,34 +190,30 @@ http://teslaiptv.com:8080/hannaxhanna/es576457/68024
 # http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png", Cartoon Network HD
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png", Nickelodeon Junior
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png", Nickelodeon HD
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boomerang.png", Boomerang HD
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png", Dreamworks HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227596/3221227596.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO HD
 http://50.7.17.176:61980/myplay/c_58038/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
@@ -235,34 +221,25 @@ http://50.7.17.176:61980/myplay/c_58038/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 http://185.180.221.194:8277/streams/d/Thrill/playlist.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 http://50.7.161.82:8277/streams/d/SetOne/playlist.m3u8
 http://185.180.221.194:8277/streams/d/SetOne/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="", ONE HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 http://foctv.xyz:25510/Amir5641/YY5641/134
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
 http://50.7.161.82:8277/streams/d/KBS/playlist.m3u8
 http://185.180.221.194:8277/streams/d/KBS/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157475
@@ -272,24 +249,20 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png", Oh!K HD
 http://50.7.17.176:61980/myplay/c_58045/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png", Oh!K HD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/140
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png", tvN HD
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 http://50.7.161.82:8277/streams/d/TVN/playlist.m3u8
 http://185.180.221.194:8277/streams/d/TVN/playlist.m3u8
 http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png", tvN Movies HD
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 http://185.180.221.194:8277/streams/d/Tvnmovie/playlist.m3u8
