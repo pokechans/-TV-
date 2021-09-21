@@ -217,7 +217,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227596/3221227596.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO HD
 http://50.7.17.176:61980/myplay/c_58038/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 
@@ -299,8 +298,7 @@ http://185.180.221.194:8277/streams/d/Hits/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://185.180.221.194:8277/streams/d/Hitsmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png", Astro Primetime
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
+
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/FAM_Movies.png", FAM Movies
@@ -420,12 +418,11 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
 #EXTINF: -1 tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png ", Galaxy Premium
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065949
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1506
 https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/02.m3u8
 
 
@@ -453,8 +450,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png", Celestial Movies HD
 #http://51.79.223.246:61980/myplay/c_58028/index.m3u8?key=e6MmXAqQ13NBpC4ehMO5Bw
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
@@ -463,22 +459,15 @@ http://185.180.221.194:8277/streams/d/Celestial/playlist.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial%20Classic%20Movies.png", CELESTIAL CLASSIC MOVIES
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial%20Classic%20Movies.png", CELESTIAL CLASSIC MOVIES
-#http://51.79.223.246:61980/myplay/c_58030/index.m3u8?key=e6MmXAqQ13NBpC4ehMO5Bw
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 http://50.7.161.82:8277/streams/d/Celestial2/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Celestial2/playlist.m3u8
+#http://51.79.223.246:61980/myplay/c_58030/index.m3u8?key=e6MmXAqQ13NBpC4ehMO5Bw
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png", Warner TV HD
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 http://185.180.221.194:8277/streams/d/WarnerTV/playlist.m3u8
@@ -488,8 +477,6 @@ http://1.9.58.102/PLTV/88888888/224/3221227620/3221227620.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png", CinemaWorld HD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 http://185.180.221.194:8277/streams/d/Cinemaworld/playlist.m3u8
@@ -499,17 +486,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 
 ***********************************SERIES************************************
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png", Astro Primetime
+http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png", Blue Ant Extreme
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png", Rock Extreme
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/811
 https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png" , Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png", AXN HD
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://185.180.221.194:8277/streams/d/Axn/playlist.m3u8
