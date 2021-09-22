@@ -659,14 +659,16 @@ http://tigerfights.xyz:80/anh/123/2599360.ts
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png", Astro SuperSport HD
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro1/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png", Astro SuperSport HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1722
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71149
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
 http://foctv.xyz:25510/Amir5641/YY5641/148
 http://foctv.xyz:25510/Amir5641/YY5641/233
 
-
-
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png", Astro SuperSport 2 HD
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro2/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png", Astro SuperSport 2 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59219
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1721
@@ -674,16 +676,16 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4990
 http://foctv.xyz:25510/Amir5641/YY5641/149
 http://foctv.xyz:25510/Amir5641/YY5641/234
 
-
-
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png", Astro SuperSport 3 HD
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro3/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png", Astro SuperSport 3 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1720
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4991
 http://foctv.xyz:25510/Amir5641/YY5641/150
 http://foctv.xyz:25510/Amir5641/YY5641/232
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", Astro SuperSport 4 HD
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/astro4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", Astro SuperSport 4 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59217
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4992
