@@ -368,6 +368,7 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4654
 
 
 #EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/d3a80a5c681c522dd6c93f2174a52c6b.png", Showcase Movies
+http://foctv.xyz:25510/Zulhairie/BB2064/394
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8543
 
 
