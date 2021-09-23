@@ -197,8 +197,8 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157543
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71080
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1209
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71080
 http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=165494238
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
@@ -369,9 +369,8 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4654
 
 
 #EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/d3a80a5c681c522dd6c93f2174a52c6b.png", Showcase Movies
-http://foctv.xyz:25510/Zulhairie/BB2064/394
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8543
-
+http://foctv.xyz:25510/Zulhairie/BB2064/394
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
