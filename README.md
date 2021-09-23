@@ -115,6 +115,7 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10218
 
 #EXTINF:-1,Dunia Sinema
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71127
+http://starshare.live:8080/live/567890/567890/18988.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
