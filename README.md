@@ -67,14 +67,15 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1706
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71022
+http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/2555
 http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.17.176:61980/myplay/ml2_891/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 https://nonton.site:8443/rachman/rachman123/37335
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
-
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1706
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71022
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
@@ -197,9 +198,9 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157543
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1209
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71080
-http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=165494238
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 
@@ -326,6 +327,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn%20movies.png", tvN Movies HD
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60282
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 http://185.180.221.194:8277/streams/d/Tvnmovie/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157520
@@ -484,6 +486,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065949
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60477
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1506
 https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd
 http://210.210.155.35/dr9445/h/h16/02.m3u8
@@ -532,6 +535,7 @@ http://185.180.221.194:8277/streams/d/Celestial2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warner.png", Warner TV HD
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60292
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 http://185.180.221.194:8277/streams/d/WarnerTV/playlist.m3u8
 #http://50.7.59.184:61980/myplay/cn_1_11011/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
@@ -541,6 +545,7 @@ http://1.9.58.102/PLTV/88888888/224/3221227620/3221227620.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cinemaworld.png", CinemaWorld HD
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60480
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 http://185.180.221.194:8277/streams/d/Cinemaworld/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/171956
@@ -550,10 +555,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 ***********************************SERIES************************************
 #EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png", Astro Primetime
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
 
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png", Rock Extreme
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60411
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/811
 https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd
 http://45.126.83.51/dr9445/h/h15/01.m3u8
