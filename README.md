@@ -114,7 +114,7 @@ http://tigerfights.xyz:80/anh/123/2599367.ts
 http://tigerfights.xyz:80/anh/123/2599368.ts
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10218
 
-#EXTINF:-1,Dunia Sinema
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71127
 http://starshare.live:8080/live/567890/567890/18988.ts
 
