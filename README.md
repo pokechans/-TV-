@@ -67,11 +67,11 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1706
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71022
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/2555
 http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.17.176:61980/myplay/ml2_891/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71022
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1706
 https://nonton.site:8443/rachman/rachman123/37335
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
 
