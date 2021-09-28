@@ -67,7 +67,6 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
-http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/2555
 http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
@@ -198,11 +197,10 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157543
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1209
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71080
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
+http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
