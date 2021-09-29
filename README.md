@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" ,TV1 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1734
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/308
+http://mantul.biz.id:8888/jiwa/jiwa/308
 http://50.7.17.176:61980/myplay/c_58001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
@@ -12,21 +12,21 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1733
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/367
+http://mantul.biz.id:8888/jiwa/jiwa/367
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.17.176:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1732
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/153
+http://mantul.biz.id:8888/jiwa/jiwa/153
 http://50.7.17.176:61980/myplay/c_58003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1705
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1105
+http://mantul.biz.id:8888/jiwa/jiwa/1105
 http://50.7.17.176:61980/myplay/c_58040/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 http://198.16.106.61:8277/streams/d/Ria/playlist.m3u8
@@ -40,7 +40,7 @@ http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71020
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5013
+http://mantul.biz.id:8888/jiwa/jiwa/5013
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://194.233.68.128:5080/LiveApp/streams/436629615567085256818009.m3u8|Referer=http://www.tvmalaysia.online
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
@@ -55,7 +55,7 @@ http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71021
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4998
+http://mantul.biz.id:8888/jiwa/jiwa/4998
 #http://51.79.223.246:61980/myplay/c_58019/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Oasis/playlist.m3u8
@@ -68,7 +68,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/2555
+http://mantul.biz.id:8888/jiwa/jiwa/2555
 http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.17.176:61980/myplay/ml2_891/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 https://nonton.site:8443/rachman/rachman123/37335
@@ -79,7 +79,7 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71022
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71146
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/195
+http://mantul.biz.id:8888/jiwa/jiwa/195
 http://50.7.161.82:8277/streams/d/Citra/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Citra/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -111,7 +111,7 @@ http://tigerfights.xyz:80/anh/123/2599367.ts
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png", HyppSensasi HD
 http://tigerfights.xyz:80/anh/123/2599368.ts
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10218
+http://mantul.biz.id:8888/jiwa/jiwa/10218
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", Dunia Sinema
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71127
@@ -132,7 +132,7 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png", TV9
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1729
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1104
+http://mantul.biz.id:8888/jiwa/jiwa/1104
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV9.m3u8|Referer=https://www.dailymotion.com
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
@@ -140,7 +140,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png", Al-Hijrah
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71024
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6480
+http://mantul.biz.id:8888/jiwa/jiwa/6480
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 http://50.7.17.176:61980/myplay/c_58008/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
@@ -159,7 +159,7 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png", Astro Awani
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71060
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1704
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/111
+http://mantul.biz.id:8888/jiwa/jiwa/111
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #http://51.79.223.246:61980/myplay/c_58018/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://50.7.161.82:8277/streams/d/Awani/playlist.m3u8
@@ -170,7 +170,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png", BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5018
+http://mantul.biz.id:8888/jiwa/jiwa/5018
 http://50.7.161.82:8277/streams/d/Bernama/playlist.m3u8
 http://185.180.221.194:8277/streams/d/Bernama/playlist.m3u8
 http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
@@ -179,14 +179,14 @@ http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
 
 #EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg", TVS
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71148
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1219
+http://mantul.biz.id:8888/jiwa/jiwa/1219
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png", HELLO HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71088
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/5000
+http://mantul.biz.id:8888/jiwa/jiwa/5000
 http://50.7.161.82:8277/streams/d/Hello/playlist.m3u8
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157543
 
@@ -197,7 +197,7 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157543
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/1209
+http://mantul.biz.id:8888/jiwa/jiwa/1209
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71080
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
@@ -207,18 +207,18 @@ http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png", ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71100
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/129
+http://mantul.biz.id:8888/jiwa/jiwa/129
 
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png",Aniplus
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71110
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/265
+http://mantul.biz.id:8888/jiwa/jiwa/265
 
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png", TA-DAA! 
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/11744
+http://mantul.biz.id:8888/jiwa/jiwa/11744
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -343,7 +343,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/105
 http://foctv.xyz:25510/Amir5641/YY5641/353
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rZbXvD8/astro-25-white.png", Astro 25
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8676
+http://mantul.biz.id:8888/jiwa/jiwa/8676
 
 
 
@@ -365,11 +365,11 @@ http://185.180.221.194:8277/streams/d/Hitsmovie/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/FAM_Movies.png", FAM Movies
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4654
+http://mantul.biz.id:8888/jiwa/jiwa/4654
 
 
 #EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/d3a80a5c681c522dd6c93f2174a52c6b.png", Showcase Movies
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8543
+http://mantul.biz.id:8888/jiwa/jiwa/8543
 http://foctv.xyz:25510/Zulhairie/BB2064/394
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
@@ -554,7 +554,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 ***********************************SERIES************************************
 #EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png", Astro Primetime
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
+http://mantul.biz.id:8888/jiwa/jiwa/8545
 
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163736941716.png", Rock Extreme
