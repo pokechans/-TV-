@@ -76,8 +76,12 @@ https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
 http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://foctv.xyz:25510/Amir5641/YY5641/387
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/352
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
+http://tvms.me:8080/norazah/norazah/366
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
+https://iptv.kampung.xyz/ch/live/awesome.m3u8
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71137
@@ -176,6 +180,10 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065887
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745718
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71080
 http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/31
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/32
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -243,12 +251,16 @@ http://185.180.221.194:8277/streams/d/Thrill/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sHr5wg5/sgfz.png", Arirang
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/77
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 http://50.7.161.82:8277/streams/d/SetOne/playlist.m3u8
 http://185.180.221.194:8277/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/74
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 http://foctv.xyz:25510/Zulhairie/BB2064/134
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
@@ -393,13 +405,17 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60480
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/78?cb=20200430075815",&FLIX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png",Galaxy
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/108
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8mYp3m/KM.png",Galaxy
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/66
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065948
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qJW2FQG/hd.png",Galaxy Premium
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/109
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png",Galaxy Premium
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065949
@@ -412,9 +428,17 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1506
 https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd
 http://210.210.155.35/dr9445/h/h16/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true",Star Movies
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/299
+
+#EXTINF:-1, tvg-logo=" https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true ",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" ",Star Movies Select
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/300
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png",&Prive HD
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true",&Prive HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/63
 
 
@@ -611,43 +635,20 @@ http://foctv.xyz:25510/Amir5641/YY5641/337
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71109
 
 
-#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/352
-
-#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
-http://tvms.me:8080/norazah/norazah/366
-#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
-https://iptv.kampung.xyz/ch/live/awesome.m3u8
-EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstroCeria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",astroCeria
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/31
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",astroCeria
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/32
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/Db5RLLg/hjtr.png" group-title="KOREA",Sony One
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/74
-#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/sHr5wg5/sgfz.png" group-title="KOREA",Arirang
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/77
 
 
-#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="MOVIES",Galaxy
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/108
-#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="MOVIES",Galaxy Premium
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/109
 
 
-#EXTINF:-1 tvg-logo="https:// https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg",Star Movies
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/299
-
-#EXTINF:-1, tvg-logo=" https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true ",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true ",Star Movies Select
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/300
 
 
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&Flix HD
 
-tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",&Prive HD
+
+
+
+
+
 
 
 
