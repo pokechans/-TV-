@@ -580,7 +580,7 @@ http://foctv.xyz:25510/Amir5641/YY5641/156
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71105
 
 
-#EXTINF:-1, EUROSPORT HD
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71106
 http://foctv.xyz:25510/Amir5641/YY5641/328
 
@@ -599,15 +599,15 @@ http://50.7.17.176:61980/myplay/c_58016/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 
 
 
-#EXTINF:-1, GOLF CHANNEL HD
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",Golf Channel HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71107
 http://foctv.xyz:25510/Amir5641/YY5641/159
 
-#EXTINF:-1, RUGBY PASS TV
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",RugbyPass TV HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71108
 http://foctv.xyz:25510/Amir5641/YY5641/337
 
-#EXTINF:-1, CRICKET
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71109
 
 
