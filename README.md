@@ -611,6 +611,45 @@ http://foctv.xyz:25510/Amir5641/YY5641/337
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71109
 
 
+#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/352
+
+#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
+http://tvms.me:8080/norazah/norazah/366
+#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
+https://iptv.kampung.xyz/ch/live/awesome.m3u8
+EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstroCeria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",astroCeria
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/31
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",astroCeria
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/32
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/Db5RLLg/hjtr.png" group-title="KOREA",Sony One
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/74
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/sHr5wg5/sgfz.png" group-title="KOREA",Arirang
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/77
+
+
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="MOVIES",Galaxy
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/108
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="MOVIES",Galaxy Premium
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/109
+
+
+#EXTINF:-1 tvg-logo="https:// https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg",Star Movies
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/299
+
+#EXTINF:-1, tvg-logo=" https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true ",Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true ",Star Movies Select
+https://link.zozotv.xyz:443/@suhadaahmad12/9966T/300
+
+
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&Flix HD
+
+tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",&Prive HD
+
+
 
 
 
