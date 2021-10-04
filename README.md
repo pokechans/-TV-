@@ -73,7 +73,7 @@ https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
+EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
 http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 
@@ -555,7 +555,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563143
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563144
 http://foctv.xyz:25510/Amir5641/YY5641/149
 http://foctv.xyz:25510/Amir5641/YY5641/234
-
+http://43.128.9.168/jjtv.php?id=109
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png", Astro SuperSport 3 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1720
@@ -563,6 +563,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563145
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563146
 http://foctv.xyz:25510/Amir5641/YY5641/150
 http://foctv.xyz:25510/Amir5641/YY5641/232
+http://43.128.9.168/jjtv.php?id=110
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", Astro SuperSport 4 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59217
@@ -570,6 +571,10 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563148
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563147
 http://foctv.xyz:25510/Amir5641/YY5641/151
 http://foctv.xyz:25510/Amir5641/YY5641/249
+http://43.128.9.168/jjtv.php?id=111
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", Astro SuperSport 5 HD
+http://43.128.9.168/jjtv.php?id=112
 
 #EXTINF:-1 tvg-logo="",SPOT TV
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6791
@@ -638,41 +643,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
-#EXTINF:-1, Astrosupersport2
-http://43.128.9.168/jjtv.php?id=109
-#EXTINF:-1, Astrosupersport3
-http://43.128.9.168/jjtv.php?id=110
-#EXTINF:-1, Astrosupersport4
-http://43.128.9.168/jjtv.php?id=111
-#EXTINF:-1, Astrosupersport5
-http://43.128.9.168/jjtv.php?id=112
-
-#EXTINF:-1, WB FILM
-http://194.233.73.66:2082/freehitv/freehitv/31
-#EXTINF:-1, STAR SPORTS
-http://194.233.73.66:2082/freehitv/freehitv/35
-#EXTINF:-1, TRUE LLIV
-http://194.233.73.66:2082/freehitv/freehitv/39
-
-
-#EXTINF:-1, Awesome TV 
-http://iptv.tvmalaysia.cc:80/297340/297340/9016
-#EXTINF:-1, Awesome TV 
-http://iptv.tvmalaysia.cc:80/penang200/penang200/9016
-#EXTINF:-1, Awesome TV 
-http://iptv.tvmalaysia.cc:80/mona1/mona1/9016
-#EXTINF:-1, Hypp Inspirasi HD
-http://tigerfights.xyz:80/anh/123/2599367.ts
-#EXTINF:-1, Hypp Sensasi HD
-http://tigerfights.xyz:80/anh/123/2599368.ts
-
-
-#EXTINF:-1, Astro 25
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8676
-#EXTINF:-1, Astro PrimeTime
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
-#EXTINF:-1, Astro Showcase Movies
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8543
 
 
 
