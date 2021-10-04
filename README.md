@@ -515,6 +515,10 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745741
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563140
 http://zalogitv.tech:8080/budiyanto/budiyanto/1825
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", Astro Arena HD 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6792
+
+
 
 EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png",Unifi Sport 1
 
@@ -566,6 +570,9 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563148
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563147
 http://foctv.xyz:25510/Amir5641/YY5641/151
 http://foctv.xyz:25510/Amir5641/YY5641/249
+
+#EXTINF:-1 tvg-logo="",SPOT TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6791
 
 
 EXTINF:-1,ASSP EPL Live 1
