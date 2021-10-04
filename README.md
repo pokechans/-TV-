@@ -77,7 +77,7 @@ https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://foctv.xyz:25510/Amir5641/YY5641/387
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/352
+http://mantul.biz.id:8888/jiwa/jiwa/10650
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
 http://tvms.me:8080/norazah/norazah/366
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
