@@ -1105,70 +1105,70 @@ http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/245.mp4
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/246.mp4
 #EXTINF:-1 tvg-id="" tvg-name="400 Bullets (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/burp795vripHCoq8VAT0Dm5SPE.jpg" group-title="MIX",400 Bullets (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sulthan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9TqB7GcyM0tMOFlI5mZuqNq351.jpg" group-title="MIX",Sulthan (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Sulthan (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Marksman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vcDalR50RWa309vBH1NLmG2rjQ.jpg" group-title="MIX",The Marksman (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",The Marksman (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pogaru (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKulrSnAylrwOvXOYmJsHGTb4r1.jpg" group-title="MIX",Pogaru (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Pogaru (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xmx8oPlbDaxTjHsIOZvOt5L3aJ.jpg" group-title="MIX",Mortal Kombat (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Mortal Kombat (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nobody (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="MIX",Nobody (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Nobody (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="MIX",Godzilla vs. Kong (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Godzilla vs. Kong (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGkFDz4waJJqdrnGhnaUVZZHPHR.jpg" group-title="MIX",Outside the Wire (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Outside the Wire (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Redemption Day (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCTo0s8xzQplZY5h70cRy2OA4Pt.jpg" group-title="MIX",Redemption Day (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Redemption Day (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chaos Walking (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg" group-title="MIX",Chaos Walking (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Chaos Walking (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Girl in the Basement (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg" group-title="MIX",Girl in the Basement (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Girl in the Basement (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Justice League (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" group-title="MIX",Justice League (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Justice League (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Vault (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSlazQmwqtlRIbmZ72xBGr0MEFH.jpg" group-title="MIX",The Vault (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",The Vault (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Space Sweepers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9YDHJKvUoi7v2SCd3vLGPae1Xp.jpg" group-title="MIX",Space Sweepers (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Space Sweepers (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KErczPBROQty7QoIsaa6wJYXZi.jpg" group-title="MIX",Tom & Jerry (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Tom & Jerry (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raya and the Last Dragon (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg" group-title="MIX",Raya and the Last Dragon (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Raya and the Last Dragon (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yin Yang Master  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfa43UMx9c7duexBLTIVsrjBki0.jpg" group-title="MIX",Yin Yang Master  (2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Yin Yang Master  (2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/195.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maara(2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bRoeDrOoVFkDvvT1259LkguxfZ.jpg" group-title="MIX",Maara(2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Maara(2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Krack(2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWzsCbUVeMZy286wNEhhYN3iDSO.jpg" group-title="MIX",Krack(2021)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Krack(2021)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/198.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwjaCH7PiWrkz7oWJ4fcL3xGrb0.jpg" group-title="MIX",Monster Hunter (2020)
+#EXTINF:-1 group-title="ENGLISH MOVIE",Monster Hunter (2020)
 http://foctv.xyz:25510/movie/@alaqib/C9vOtBPfQ2/193.mp4
 
 #EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E01
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/411.mp4
 #EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E02
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/412.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E03
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E03
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/422.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E04
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E04
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/423.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E05
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E05
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/424.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E06
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E06
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/425.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E07
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E07
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/426.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E08
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E08
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/427.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E09
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E09
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/428.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E10
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E10
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/429.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E11
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E11
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/430.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E12
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E12
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/431.mp4
-#EXTINF:-1 group-title="Disney Hotstar (Malay)",Ayahanda S01 E13
+#EXTINF:-1 group-title="DRAMA MELAYU (AYAHANDA)",E13
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/432.mp4
 
 
@@ -1238,20 +1238,3 @@ http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/462.mp4
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/463.mp4
 #EXTINF:-1 group-title="DRAMA MELAYU (SEMANIS SENYUMANMU)",E16
 http://foctv.xyz:25510/series/@alaqib/C9vOtBPfQ2/464.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
