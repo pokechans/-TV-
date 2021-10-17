@@ -108,7 +108,8 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/31.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/387.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9016
 
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
