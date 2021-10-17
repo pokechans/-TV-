@@ -844,16 +844,16 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/413.m3u8
 
 
 
-EXTINF:-1 tvg-logo=https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png group-title=",ESPN 1
+EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 1
 http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
 
-EXTINF:-1 tvg-logo=https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png group-title=",ESPN 2
+EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 2
 http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
 
-EXTINF:-1 tvg-logo=https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 3
+EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 3
 http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU" group-title="Sport",BeIn 1
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU",BeIn 1
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71104
 http://foctv.xyz:25510/Amir5641/YY5641/155
 
@@ -906,7 +906,7 @@ EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/con
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71109
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",  Red Bull TV
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",  Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
