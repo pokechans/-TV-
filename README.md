@@ -3,8 +3,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" 
 #EXTM3U url-tvg="http://foctv.xyz:25510/xmltv.php?username=@alaqib&password=C9vOtBPfQ2"
 
-
-
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" ,TV1 HD
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/4
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" ,TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" ,TV1 HD
@@ -16,6 +16,8 @@ https://raw.githubusercontent.com/V-T-E-R/Umbrella/main/Playlist/Ch/101.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/5
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/3.m3u8
@@ -24,8 +26,8 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/4.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 https://raw.githubusercontent.com/V-T-E-R/Umbrella/main/Playlist/Ch/102.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
@@ -37,7 +39,8 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/7.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://raw.githubusercontent.com/V-T-E-R/Umbrella/main/Playlist/Ch/103.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/11
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
@@ -49,8 +52,8 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/224.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/282.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/176
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
@@ -61,7 +64,8 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/21.m3u8
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/22.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/175
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
@@ -69,8 +73,8 @@ http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/18.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/10
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
@@ -84,8 +88,8 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/24.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/25.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/172
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
@@ -104,8 +108,8 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/30.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png", Naura HD
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/31.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/387.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
@@ -218,8 +222,8 @@ http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/12.m3u8
 https://raw.githubusercontent.com/V-T-E-R/Umbrella/main/Playlist/Ch/Okey.m3u8
 
 ******************************KARTUN*****************************************
-
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/177
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
