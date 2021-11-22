@@ -95,10 +95,10 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png", Naura HD
 http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
+EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
 http://mynxg.top:8080/RlmYvjo2lv/35TnxNAb10/15903?play_token=WxMdxx4DUW
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",AWESOME TV
-http://60.54.140.2:80/hls/awesometv.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
 
 EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71137
@@ -383,7 +383,12 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
-
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
+https://www.dropbox.com/s/dl/y6kjes2s69z8o2o/carawaktv_hbo.m3u8
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png", HBO Family HD
