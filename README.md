@@ -255,11 +255,12 @@ http://50.7.161.82:8278/streams/d/bernama_pye/playlist.m3u8
 http://178.128.107.149:5080/WebRTCApp/streams/ceria.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8277/streams/d/ceria_pye/playlist.m3u8
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/ceria_pye/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/daaitv.m3u8?dl=0
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
