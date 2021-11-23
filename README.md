@@ -87,6 +87,8 @@ http://50.7.161.82:8278/streams/d/warna_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+https://link.zozotv.xyz/ding/ding/35
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://50.7.161.82:8277/streams/d/Citra/playlist.m3u8
@@ -372,14 +374,8 @@ http://185.180.221.194:8277/streams/d/Hits/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://185.180.221.194:8277/streams/d/Hitsmovie/playlist.m3u8
 
-
-
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/FAM_Movies.png", FAM Movies
-
-
-
-EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/d3a80a5c681c522dd6c93f2174a52c6b.png", Showcase Movies
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/d3a80a5c681c522dd6c93f2174a52c6b.png", Showcase Movies
+https://ktiptv.co:443/live/4643/4643/26084.m3u8
 
 #EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
 https://dik.si/SEhbo?shareext.m3u8
@@ -494,8 +490,8 @@ http://iptvid.my.id/usee/cnmwrld.m3u8?by=iptv_id
 
 
 ***********************************SERIES************************************
-EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png", Astro Primetime
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71147
+#EXTINF:-1 tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png", Astro Primetime
+https://ktiptv.co:443/live/4643/4643/26091.m3u8
 
 EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
