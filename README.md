@@ -168,13 +168,13 @@ EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/As
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
-http://93.190.139.35:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
+http://190.2.133.47:8277/streams/d/Ria/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://178.128.107.149:5080/WebRTCApp/streams/prima.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+http://190.2.133.47:8277/streams/d/Prima/playlist.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
@@ -192,8 +192,8 @@ http://analoquetv.online/streams/d/Prima/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://178.128.107.149:5080/WebRTCApp/streams/oasis.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
-http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+http://190.2.133.47:8277/streams/d/Oasis/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
@@ -231,7 +231,7 @@ EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos
 http://50.7.161.82:8278/streams/d/warna_pye/playlist.m3u8
 EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 https://link.zozotv.xyz/ding/ding/35
@@ -240,8 +240,8 @@ http://analoquetv.online/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://analoquetv.online/streams/d/Citra/playlist.m3u8
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
-http://50.7.161.82:8277/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+http://190.2.133.47:8277/streams/d/Citra/playlist.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
@@ -271,8 +271,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2703/default_ott.mpd
 ******************************KARTUN*****************************************
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://178.128.107.149:5080/WebRTCApp/streams/ceria.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://analoquetv.online/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://190.2.133.47:8277/streams/d/Ceria/playlist.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://analoquetv.online/streams/d/ceria_pye/playlist.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
