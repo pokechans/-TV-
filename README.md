@@ -72,8 +72,8 @@ http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 
 
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png", Al-Hijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png", Al-Hijrah
+http://analoquetv.online/streams/d/Alhijrah/playlist.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png", Al-Hijrah
 http://50.7.161.82:8277/streams/d/alhijrah_pye/playlist.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png", Al-Hijrah
