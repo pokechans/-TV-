@@ -332,21 +332,20 @@ EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/l
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37456
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 http://analoquetv.online/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+http://analoquetv.online/streams/d/setone_pye/playlist.m3u8
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+http://analoquetv.online/streams/d/SetOne/playlist.m3u8
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 http://analoquetv.online/streams/d/setone_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
-http://analoquetv.online/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
-http://analoquetv.online/streams/d/setone_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
-http://analoquetv.online/streams/d/SetOne/playlist.m3u8
+http://190.2.133.47:8277/streams/d/SetOne/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
@@ -619,10 +618,12 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png", AXN HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png", AXN HD
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
