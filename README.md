@@ -269,18 +269,18 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2703/default_ott.mpd
 
 
 ******************************KARTUN*****************************************
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://178.128.107.149:5080/WebRTCApp/streams/ceria.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8277/streams/d/ceria_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/ceria_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 https://link.zozotv.xyz/ding/ding/31
-
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://analoquetv.online/streams/d/Ceria/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -337,25 +337,27 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37456
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 http://50.7.161.82:8277/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 http://50.7.161.82:8277/streams/d/setone_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
 http://50.7.161.82:8278/streams/d/setone_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+http://analoquetv.online/streams/d/SetOne/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
 http://50.7.161.82:8277/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
+http://analoquetv.online/streams/d/KBS/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png", Oh!K HD
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png", Oh!k
+http://analoquetv.online/streams/d/Ohk/playlist.m3u8
 
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus HD
