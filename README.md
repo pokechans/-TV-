@@ -81,7 +81,7 @@ http://50.7.161.82:8278/streams/d/alhijrah_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png", Al-Hijrah OTT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1e004691-3f2e-497a-a9d7-89b48e4b13a2
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1113.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
