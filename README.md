@@ -124,8 +124,9 @@ http://50.7.161.82:8277/streams/d/Dsangat/playlist.m3u8
 EXTINF:-1 tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png, DRAMA SANGAT
 http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM HD
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png", Astro Awani
 http://50.7.161.82:8277/streams/d/Awani/playlist.m3u8
@@ -244,7 +245,7 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241085.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 https://link.zozotv.xyz/ding/ding/37
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://analoquetv.online/streams/d/Citra/playlist.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://190.2.133.47:8277/streams/d/Citra/playlist.m3u8
@@ -264,8 +265,8 @@ https://linears-playback.astro.com.my/vsg/21sgEalpx3rXGcrM7IGDz2Z6EMWUDmx1Yu0qmY
 
 
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png", Naura HD
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/203
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png", Naura HD
+http://analoquetv.online/streams/d/Naura/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png", Naura HD
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/906
@@ -693,7 +694,8 @@ http://iptvid.my.id/usee/egg.m3u8?by=iptv_id
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",RTM Sukan
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
