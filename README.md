@@ -383,9 +383,9 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tvn.png", tvN HD
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 http://wanicelife.com:8880/SFL143456/73U700Y1/71055
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/1039
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 http://gpc.my.id/vidio/tvn.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -438,7 +438,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -552,7 +552,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png", CINEMAX HD OTT
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network HD
+EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network HD
 https://dik.si/SEparamount?shareext.m3u8
 http://iptvid.my.id/usee/paramount.m3u8?by=iptv_id
 
@@ -570,12 +570,12 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/5AXoTOA.png",MyCinema Family
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
 http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/54975.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png",Galaxy
+EXTINF:-1 tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png",Galaxy
 https://dik.si/ShareExtglx?shareext.m3u8
 http://iptvid.my.id/usee/glx.m3u8?by=iptv_id
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qJW2FQG/hd.png",Galaxy Premium
+EXTINF:-1 tvg-logo="https://i.ibb.co/qJW2FQG/hd.png",Galaxy Premium
 https://dik.si/SEgprem?SHAREEXT.m3u8
 http://iptvid.my.id/usee/glxprem.m3u8?by=iptv_id
 
@@ -686,7 +686,7 @@ http://185.180.221.194:8277/streams/d/KiX/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network HD
 https://dik.si/SEwwe
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54223.ts
 http://iptvid.my.id/usee/egg.m3u8?by=iptv_id
@@ -801,12 +801,12 @@ http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
 EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN 3
 http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU",BeIn
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU",BeIn
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54193.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",beIN Sports 1 HD
+EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",beIN Sports 1 HD
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
