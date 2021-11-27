@@ -153,7 +153,7 @@ http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/11
 http://analoquetv.online/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://wanicelife.com:8880/SFL143456/73U700Y1/1705
-EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://190.2.133.47:8277/streams/d/Ria/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -167,12 +167,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
 
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/176
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/910
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240988.ts
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+$EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://190.2.133.47:8277/streams/d/Prima/playlist.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 https://link.zozotv.xyz/ding/ding/33
@@ -189,11 +190,11 @@ http://178.128.107.149:5080/WebRTCApp/streams/prima.m3u8?token=undefined&subscri
 
 
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/175
 EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240989.ts
-EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://wanicelife.com:8880/SFL143456/73U700Y1/1701
 EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/9615
@@ -201,7 +202,7 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis 
 https://link.zozotv.xyz/ding/ding/30
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://analoquetv.online/streams/d/Oasis/playlist.m3u8
-EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://190.2.133.47:8277/streams/d/Oasis/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -222,7 +223,7 @@ http://wanicelife.com:8880/SFL143456/73U700Y1/1706
 http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 https://link.zozotv.xyz/ding/ding/35
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://analoquetv.online/streams/d/Warna/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD OTT
@@ -239,7 +240,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
 
 
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/172
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241085.ts
