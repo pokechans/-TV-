@@ -300,7 +300,8 @@ https://link.zozotv.xyz/ding/ding/31
 http://190.2.133.47:8277/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://wanicelife.com:8880/SFL143456/73U700Y1/71080
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://194.233.86.5:5080/WebRTCApp/streams/ceria.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
