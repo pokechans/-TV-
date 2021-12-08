@@ -151,7 +151,7 @@ http://178.128.107.149:5080/WebRTCApp/streams/ceria.m3u8
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png",Aniplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jp",Aniplus
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
