@@ -200,6 +200,11 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37456
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png", ONE HD
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 tvg-id="sonyonehd.id" group-title="ENTERTAINMENT" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
@@ -210,9 +215,8 @@ EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png", Oh!k
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus HD
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -249,8 +253,12 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png", BOO HD
 
 
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png", THRILL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
@@ -274,13 +282,15 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",Showcase Movies
 
-
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+http://urtv.cc:80/jalan8/jalan8/6829/jalan8/jalan8/6797
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
-https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
-EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/hbo-2.mpd
 #EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
 http://mantul.biz.id:8888/iptvtreemy/h5DrXMJUep2021/1
 
@@ -316,7 +326,10 @@ EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/l
 
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
+http://103.131.212.138:8000/play/a01j/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-channel_2105335046
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png",Galaxy
@@ -331,13 +344,15 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/qJW2FQG/hd.png",Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-n0dGtZMqvABmmRpC2A87ni9kZNnDszFNQ&usqp=CAU", Star Movies HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png", Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true",&Prive HD
-http://mvu03.wanicelife.com:8880/live/SWFAF122350/57CF4AAU/55158.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png",&Prive
+http://103.131.212.138:8000/play/a01e/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-privéhd
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -530,14 +545,14 @@ http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/169
 BEINSPORT HD2
 http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/168
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/0spF5Ei.png",SPOTV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240994.ts
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54225.ts
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png", SpoTV OTT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/New_era_F1_logo.svg.png", FORMULA 1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+http://urtv.cc:80/penang189/penang189/6617
+https://mbed.cc/WrJYq
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/2573
+
+#EXTINF:-1 tvg-logo="https://spotv.net/images/onair_spotv.png", SPOTV
+https://mbed.cc/450WO
 
 EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240977.ts
@@ -567,8 +582,8 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240979.ts
 EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",RugbyPass TV HD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240980.ts
 
-EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240981.ts
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
+http://urtv.cc:80/jalan8/jalan8/6717
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
