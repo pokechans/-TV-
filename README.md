@@ -285,22 +285,13 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599284
 #EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
 http://183.178.58.115:8032/0.ts
 #EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/3.m3u8?HBO
-#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/2.m3u8?HBO
-#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 http://urtv.cc:80/jalan8/jalan8/6829/jalan8/jalan8/6797
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD
-https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/hbo-2.mpd
 #EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
 http://mantul.biz.id:8888/iptvtreemy/h5DrXMJUep2021/1
-#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO HD 
-https://dik.si/hbosyarman
+
 
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png", HBO Family HD
