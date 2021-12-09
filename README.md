@@ -98,7 +98,8 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599230
 https://tinyurl.com/yc2tx43d
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4ble2c578.m3u8
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
+http://analoquetv.online/streams/d/ria_pye/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
