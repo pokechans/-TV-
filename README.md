@@ -90,16 +90,16 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 
-EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
-EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599230
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 https://tinyurl.com/yc2tx43d
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37332
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 https://link.zozotv.xyz/ding/ding/33
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
@@ -108,11 +108,11 @@ https://tinyurl.com/2p92bfwh
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37333
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 https://link.zozotv.xyz/ding/ding/30
-EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
-EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/9615
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://analoquetv.online/streams/d/Oasis/playlist.m3u8
@@ -123,24 +123,24 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37334
 https://tinyurl.com/mrha4r3y
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37335.ts
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 https://link.zozotv.xyz/ding/ding/35
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://analoquetv.online/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37335
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 https://tinyurl.com/yckss87n
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 https://link.zozotv.xyz/ding/ding/37
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://analoquetv.online/streams/d/Citra/playlist.m3u8
 
 
 
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png", Naura HD
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png", Naura HD
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599224
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png", Naura HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37336
