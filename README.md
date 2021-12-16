@@ -134,8 +134,8 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37335
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna ᴴᴰ
 https://my.odtv.uk/live/9486331171/7860879594/18.ts
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
-https://tinyurl.com/yckss87n
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+https://tinyurl.com/bdzdhh34
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 https://link.zozotv.xyz/ding/ding/37
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
