@@ -42,11 +42,16 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8|Refer
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png", TV9
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV9.m3u8|Referer=https://www.dailymotion.com
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png", TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png", TV9
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf8E5ux7qfLKC4xyFzMntuw)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
 http://analoquetv.online/streams/d/Alhijrah/playlist.m3u8
+
 
 
 
