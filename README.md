@@ -161,6 +161,8 @@ http://urtv.cc:80/penang043/penang043/6715
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://aptv.my.id:8080/@Valee46/@Valee46/51
 
+http://194.233.68.128:5080/LiveApp/streams/092138205532815210907549.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", ANIMAX
@@ -505,17 +507,15 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://tinyurl.com/2p8ubfm9
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
 http://aptv.my.id:8080/@Valee46/@Valee46/133
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-http://urtv.cc:80/penang043/penang043/6707
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-http://urtv.cc:80/jalan8/jalan8/6707
+
+http://178.128.107.149:5080/WebRTCApp/streams/arena.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
 https://tinyurl.com/5bw9rw46
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
 http://urtv.cc:80/penang043/penang043/9028
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
-http://urtv.cc:80/jalan8/jalan8/9028
+
+http://178.128.107.149:5080/WebRTCApp/streams/arena2.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png",Unifi Sport 1
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -523,17 +523,17 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",Unifi Sport 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 3
+EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_EslmKOBj8kO_7en8VyHOg/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 4
+EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1pix7th6JiC2uH3tZ7nEos/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 5
+EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR12CJUIQJT6TBX2PTHfQeeY/m3u8
