@@ -2,8 +2,7 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTINF:-1 tvg-logo="",FREE
-https://api.mbed.cc/ytlive.m3u8?id=NMre6IAAAiU
+
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" , TV1 HD
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
@@ -92,10 +91,10 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 https://my.odtv.uk/live/9486331171/7860879594/13.ts
-https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37332
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599230
 https://tinyurl.com/yc2tx43d
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37332
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 http://urtv.cc:80/penang043/penang043/6730
 
@@ -120,7 +119,8 @@ https://tinyurl.com/mrha4r3y
 http://analoquetv.online/streams/d/Warna/playlist.m3u8
 https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37335.ts
 https://link.zozotv.xyz/ding/ding/35
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37335
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37335
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 http://urtv.cc:80/penang043/penang043/6740
 
