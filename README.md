@@ -2,7 +2,6 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTM3U url-tvg="http://iptv.tvmalaysia.cc:80/get.php?username=penang043&password=penang043&type=m3u" 
 
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" , TV1 HD
