@@ -52,7 +52,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome TV
-http://iptv.tvmalaysia.cc:80/penang043/penang043/9016
+http://urtv.cc:80/penang043/penang043/9016
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
