@@ -41,7 +41,7 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf8E5ux7qfLKC4xyFz
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-http://iptv.tvmalaysia.cc:80/penang043/penang043/6834
+http://urtv.cc:80/jalan8/jalan8/6834
 http://analoquetv.online/streams/d/Alhijrah/playlist.m3u8
 
 
@@ -96,13 +96,13 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599230
 https://tinyurl.com/yc2tx43d
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37332
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
-http://iptv.tvmalaysia.cc:80/penang043/penang043/6730
+http://urtv.cc:80/penang043/penang043/6730
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
 https://tinyurl.com/2p92bfwh
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
+http://urtv.cc:80/penang043/penang043/6727
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
@@ -119,7 +119,7 @@ https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37335.ts
 https://link.zozotv.xyz/ding/ding/35
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37335
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
-http://iptv.tvmalaysia.cc:80/penang043/penang043/6740
+http://urtv.cc:80/penang043/penang043/6740
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
@@ -127,7 +127,7 @@ https://tinyurl.com/bdzdhh34
 https://link.zozotv.xyz/ding/ding/37
 http://analoquetv.online/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
-http://iptv.tvmalaysia.cc:80/penang043/penang043/7267
+http://urtv.cc:80/penang043/penang043/7267
 
 
 
@@ -142,7 +142,7 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599224
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://analoquetv.online/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://iptv.tvmalaysia.cc:80/penang043/penang043/6715
+http://urtv.cc:80/penang043/penang043/6715
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -480,14 +480,14 @@ https://tinyurl.com/2p8ubfm9
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/98130
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-http://iptv.tvmalaysia.cc:80/penang043/penang043/6707
+http://urtv.cc:80/penang043/penang043/6707
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
 http://178.128.107.149:5080/WebRTCApp/streams/arena.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
 https://tinyurl.com/5bw9rw46
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
-http://iptv.tvmalaysia.cc:80/penang043/penang043/9028
+http://urtv.cc:80/penang043/penang043/9028
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
 http://178.128.107.149:5080/WebRTCApp/streams/arena2.m3u8
 
