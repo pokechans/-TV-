@@ -201,6 +201,11 @@ http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gR8o2xiumvzLiJTIgciMPDY
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", ANIMAX
+https://conversant.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnVT03g/1500261485-aniplus-sd.png",Aniplus
 http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 http://210.210.155.35/dr9445/h/h02/01.m3u8
@@ -277,11 +282,15 @@ EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/on
 http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gUd2CijOtBbiTEAmtl0ZP-k
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.90.11:80/live/1159189903/4938860969/66.ts
 http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gVW_YKa3c1odYzUYEAUZp_g
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ohk-tv.com/img/logo.png", Oh!k
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.90.11:80/live/1159189903/4938860969/68.ts
 http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gTPUrrykYcDjjb7OlkYaKdM
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus HD
@@ -535,7 +544,9 @@ http://iptvid.my.id/usee/egg.m3u8?by=iptv_id
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.90.11:80/live/1159189903/4938860969/124.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
 http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
@@ -543,7 +554,9 @@ https://lnk.ec/astroArena?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
 http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gZlLadQP96kEn9623aUGbcQ
 
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.90.11:80/live/1159189903/4938860969/1913.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
 http://iptv.tvmalaysia.cc:80/kl570/kl570/9028
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
@@ -620,6 +633,8 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54188.ts
 
 
 #EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png", WWE NETWORK
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.90.11:80/live/1159189903/4938860969/140.ts
 http://93.152.174.144:4000/play/WWE/index.m3u8
 
 
