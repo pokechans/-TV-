@@ -51,7 +51,9 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://139.99.90.11:80/live/1159189903/4938860969/175.ts
 http://iptv.tvmalaysia.cc:80/kl570/kl570/9016
 https://my.odtv.uk:443/live/9486331171/7860879594/175.ts
 http://urtv.cc:80/penang043/penang043/9016
