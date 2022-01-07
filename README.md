@@ -54,6 +54,9 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/175.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/387.ts
 http://iptv.tvmalaysia.cc:80/kl570/kl570/9016
 https://my.odtv.uk:443/live/9486331171/7860879594/175.ts
 http://urtv.cc:80/penang043/penang043/9016
@@ -95,9 +98,15 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png", BERNAMA
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/13.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/23.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/224.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 https://my.odtv.uk/live/9486331171/7860879594/13.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
@@ -130,7 +139,12 @@ http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/9615
 http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gfSjw28brYB7Fa11C-siYm4
 
 
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/297.ts
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/24.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/18.ts
@@ -144,6 +158,12 @@ https://nonton.site:8443/provision/pp/37335
 http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gSRpRjqq6evV3Rskj5DKV8Y
 
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/26.ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/27.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/19.ts
