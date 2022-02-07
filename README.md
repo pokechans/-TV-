@@ -17,7 +17,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 
 
@@ -27,11 +27,13 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmkl
 
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png", NTV7
+https://aqfad.netlify.app/stream/DidikTVKPM.m3u8
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8|Referer=https://www.dailymotion.com
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ0Ek18JxeC5jyylltdlrHA)/dm/3/x6qp6ou/s/live-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://aqfad.netlify.app/stream/8TV.m3u8
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8|Referer=https://www.dailymotion.com
 
 
@@ -72,7 +74,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg", TVS HD
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-#EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg", TVS
+EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg", TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 
@@ -99,10 +101,10 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png", BERNAMA
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
+EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/13.ts
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD 
+EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/224.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a", Astro Ria HD
@@ -118,7 +120,7 @@ https://tinyurl.com/2p8e9pfc
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 https://tinyurl.com/4ufknwmc
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/16.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
@@ -126,11 +128,11 @@ https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 http://foctv.xyz:25510/Imrany/BB1732/21
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 https://tinyurl.com/ypk9hccx
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
+EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/17.ts
 
@@ -142,13 +144,13 @@ https://tinyurl.com/2352r5dz
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 https://tinyurl.com/5n6kynjc
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/297.ts
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/24.ts
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
+EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/18.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Astro Warna HD
@@ -158,11 +160,10 @@ https://my.odtv.uk/live/9486331171/7860879594/18.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 http://foctv.xyz:25510/Imrany/BB1732/27
-
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/27.ts
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/19.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Astro Citra HD
@@ -172,7 +173,7 @@ https://my.odtv.uk:443/live/9486331171/7860879594/19.ts
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 https://tinyurl.com/3treu8pp
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First
+EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 #https://tinyurl.com/2p96amym
@@ -202,7 +203,7 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9R24BkChq19p7660tl_8WU/m3u8
 ******************************KARTUN*****************************************
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/99.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
@@ -211,7 +212,7 @@ https://my.odtv.uk:443/live/9486331171/7860879594/99.ts
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 https://raw.githubusercontent.com/karlfazreen/mylisting/main/xtroceria.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gR8o2xiumvzLiJTIgciMPDY
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
