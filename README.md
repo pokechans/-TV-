@@ -170,6 +170,18 @@ EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="ENTERTAINMENT" tvg-logo=
 http://139.99.90.11:80/live/1159189903/4938860969/20.ts
 
 
+#EXTINF:-1 tvg-id="", Astro Aura HD
+http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37468.ts
+#EXTINF:-1 tvg-id="", Astro Oasis HD
+http://139.99.71.104:8888/live/blink5/uqf56o19wd/37334.ts
+#EXTINF:-1 tvg-id="", Astro Prima HD
+http://139.99.71.104:8888/live/blink4/frknnyvc9e/37333.ts
+#EXTINF:-1 tvg-id="",Astro Rania HD
+http://139.99.71.104:8888/live/blink12/9x21w1sniq/37467.ts
+#EXTINF:-1 tvg-id="",Astro Ria HD
+http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37332.ts
+#EXTINF:-1 tvg-id="",Astro Naura HD
+http://139.99.71.104:8888/live/blink7/qerj2ama3p/37336.ts
 
 
 
