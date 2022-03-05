@@ -58,6 +58,10 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome TV
 https://link.zozotv.xyz/live/dayah/dayah/352.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome TV
+http://iptv12k.com:35461/8022011502/123456/743
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png",Awesome TV
+http://w.nasvpn.xyz:8080/saya/saya/5730
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
@@ -70,6 +74,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png", HELLO HD
+http://iptv12k.com:35461/8022011502/123456/719
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png",RTB (Brunei)
