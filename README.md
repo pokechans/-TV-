@@ -478,23 +478,6 @@ http://iptvid.my.id/usee/egg.m3u8?by=iptv_id
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://139.99.90.11:80/live/1159189903/4938860969/124.ts
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-https://lnk.ec/astroArena?shareext.m3u8
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena HD
-http://foctv.xyz:25510/Imrany/BB1732/147
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://139.99.90.11:80/live/1159189903/4938860969/1913.ts
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
-https://lnk.ec/astroArena2?shareext.m3u8
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/324_144.png", Astro Arena 2
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://foctv.xyz:25510/Imrany/BB1732/420
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png",Unifi Sport 1
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -521,30 +504,28 @@ http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8ge3EKtbfpKwj7LytngVZciY
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR12CJUIQJT6TBX2PTHfQeeY/m3u8
 
 
-EXTINF: -1 tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png", Astro SuperSport HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139276
-EXTINF: -1 tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png", Astro SuperSport HD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/154.ts
 
-EXTINF: -1 tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png", Astro SuperSport 2 HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139277
-EXTINF: -1 tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png", Astro SuperSport 2 HD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTRO ARENA 2
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/400.ts
 
-EXTINF: -1 tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png", Astro SuperSport 3 HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139278
-EXTINF: -1 tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png", Astro SuperSport 3 HD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASTRO SUPERSPORT
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/155.ts
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", Astro SuperSport 4 HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139279
-EXTINF:-1 tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", Astro SuperSport 4 HD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/156.ts
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/157.ts
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/158.ts
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/398.ts
 
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", Astro Supersport 5 HD
-https://lnk.ec/astroSport5?shareext.m3u8
-https://link.zozotv.xyz:443/live/ding/ding/398.m3u8
 
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/New_era_F1_logo.svg.png", FORMULA 1
@@ -553,12 +534,11 @@ http://urtv.cc:80/penang189/penang189/6617
 https://mbed.cc/WrJYq
 http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/2573
 
-EXTINF:-1 tvg-logo="https://spotv.net/images/onair_spotv.png", SPOTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/418.ts
-http://13.76.192.14:19410/SpoTv_Live/index.m3u8
-https://lnk.ec/SPOTV?shareext.m3u8
-https://mbed.cc/450WO
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV
+
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png",SPOTV 2 HD
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
