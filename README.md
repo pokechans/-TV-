@@ -512,9 +512,15 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR12CJUIQJT6TBX2PTHfQeeY/m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/154.ts
+http://iptv12k.com:35461/8022011502/123456/688
+http://w.nasvpn.xyz:8080/saya/saya/167
+
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTRO ARENA 2
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/400.ts
+http://iptv12k.com:35461/8022011502/123456/965
+http://w.nasvpn.xyz:8080/saya/saya/4130
+
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASTRO SUPERSPORT
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/155.ts
@@ -554,25 +560,24 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240977.ts
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54188.ts
 
 
-EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png", WWE NETWORK
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://139.99.90.11:80/live/1159189903/4938860969/140.ts
-http://93.152.174.144:4000/play/WWE/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png", WWE NETWORK
+http://iptv12k.com:35461/8022011502/123456/652
 
 
 EXTINF:-1   tvg-logo="",UFC
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",Golf Channel HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/159.ts 
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",Golf Channel HD
+http://iptv12k.com:35461/8022011502/123456/651
+http://w.nasvpn.xyz:8080/saya/saya/4520
 
 EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",RugbyPass TV HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/337.ts
 
-EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
-http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gfKv1UfLRZ3UlV5Sb9nvl3c
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket HD
+http://iptv12k.com:35461/8022011502/123456/992
+http://w.nasvpn.xyz:8080/saya/saya/4100
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
