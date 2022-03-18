@@ -99,12 +99,12 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria
 https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -115,9 +115,9 @@ http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1705
 
 
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m08745832375518396442&ct=18379&tsum=e0848436c3a2974eb5aa0d4b75289a3f
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima
 https://tvmalaysia.cyou/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -136,9 +136,18 @@ http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&t
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/cdddk2p3
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m05437850654917679008&ct=18379&tsum=a4e9361fc95e205124236e74de2b2f47
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m09222562895214053157&ct=18379&tsum=cbb662e3297063bf6bbc79064ac8de2d
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03951830032811292837&ct=18379&tsum=9dba4df2a72f7dfe799cca8314931ec4
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m01977340499517349710&ct=18379&tsum=6aa9e10e849ff99699c3f0268aedaa24
+
 
 
 
@@ -153,7 +162,20 @@ http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&t
 http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/71146
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 
 https://tinyurl.com/bddmddvj
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m00436624530416239904&ct=18379&tsum=12b82db0090ba73924a775895281f69b
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra 
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06696372068013250537&ct=18379&tsum=21d9bbb4afc068eeb4fa2ff04af3473a
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06574883079618621042&ct=18379&tsum=ee53b4e78c5216fc253932b36d615594
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m08333765977116314800&ct=18379&tsum=ba7d0401fcf8d2a886c06d9109857d49
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06859194331516046515&ct=18379&tsum=145f79a3fc4821ce01a0a8c1fb8a72d8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000016481115&ct=17950&tsum=de9053742291cc2c76b6dc3439c8560f
 
 
 
@@ -163,8 +185,18 @@ https://tinyurl.com/bddmddvj
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02750980869911442984&ct=18379&tsum=977bbedb4e1c885d424a7a1eb32c3328
-
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m00017484649514957310&ct=18379&tsum=d200d4e1e8826726118ac9d707aa859e
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m07158100829011348297&ct=18379&tsum=3cd24ac15e322157a367465ebe01c81f
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m00138547143716168639&ct=18379&tsum=e850b12200a0ac9c832257fdedebce12
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02178225462418082105&ct=18379&tsum=701a1c0697156f29cfb51e49ad82930d
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m01700374803912485356&ct=18379&tsum=09dbbe5658328746c85c3d6b053df320
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
