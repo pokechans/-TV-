@@ -163,7 +163,10 @@ https://tinyurl.com/bddmddvj
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02750980869911442984&ct=18379&tsum=977bbedb4e1c885d424a7a1eb32c3328
-
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/9MFjVBwY/ASTRO-CERIA.png " group-title="TV MALAYSIA",Astro CERIA
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/9MFjVBwY/ASTRO-CERIA.png " group-title="TV MALAYSIA",Astro CERIA (2)
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
