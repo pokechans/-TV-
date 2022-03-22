@@ -528,23 +528,20 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",Unifi Sport 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 3
+EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8geChmWGfQfpHMa8wkurKMfU
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_EslmKOBj8kO_7en8VyHOg/m3u8
+#http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_EslmKOBj8kO_7en8VyHOg/m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 4
+EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gcaZxqC_2_7DV0vpUPmpp-g
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1pix7th6JiC2uH3tZ7nEos/m3u8
+#http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1pix7th6JiC2uH3tZ7nEos/m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",unifi Sports 5
+EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8ge3EKtbfpKwj7LytngVZciY
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR12CJUIQJT6TBX2PTHfQeeY/m3u8
+#http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR12CJUIQJT6TBX2PTHfQeeY/m3u8
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
