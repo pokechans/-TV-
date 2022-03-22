@@ -60,7 +60,8 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png", Awesome TV
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
 https://tinyurl.com/4x98d8s8
-
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png", Awesome TV
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528016009
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
@@ -223,6 +224,12 @@ http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000016481115&ct=17950&t
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02750980869911442984&ct=18379&tsum=977bbedb4e1c885d424a7a1eb32c3328
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015871
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528016026
+
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m00017484649514957310&ct=18379&tsum=d200d4e1e8826726118ac9d707aa859e
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
@@ -544,17 +551,21 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 5
 #http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR12CJUIQJT6TBX2PTHfQeeY/m3u8
 
 
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/154.ts
 http://iptv12k.com:35461/8022011502/123456/688
 http://w.nasvpn.xyz:8080/saya/saya/167
-
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015730
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015731
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTRO ARENA 2
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/400.ts
 http://iptv12k.com:35461/8022011502/123456/965
 http://w.nasvpn.xyz:8080/saya/saya/4130
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTRO ARENA 2
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015732
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASTRO SUPERSPORT
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/155.ts
