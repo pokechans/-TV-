@@ -154,6 +154,36 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m00627069870717591386&ct=18379&t
 EXTINF:-1 tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png", Astro Oasis HD
 http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m08031221716913126132&ct=18379&tsum=de2a9f561dfae7b20ad813e3ede52c5d
 
+#EXTINF:-1 group-title="👑|MALAYSIA",MY - ASTRO RIA HD
+https://nonton.site:8443/herbert/154786/37332
+#EXTINF:-1 group-title="👑|MALAYSIA",MY - ASTRO PRIMA HD
+https://nonton.site:8443/herbert/154786/37333
+#EXTINF:-1 group-title="👑|MALAYSIA",MY - ASTRO OASIS HD
+https://nonton.site:8443/herbert/154786/37334
+#EXTINF:-1 group-title="👑|MALAYSIA",MY - ASTRO WARNA HD
+https://nonton.site:8443/herbert/154786/37335
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/BJUJbE6sVPI/maxresdefault.jpg" group-title="Astro Malaysia", Astro Warna
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
+https://tinyurl.com/2s3cksd7
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
+https://link.zozotv.xyz:443/1234/1234/35
+http://urtv.cc:80/454781209544/431009674535/6740
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 2
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=4313
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 3
+https://tinyurl.com/cdddk2p3
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 4
+http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 5
+https://link.zozotv.xyz:443/dayah/dayah/272
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
