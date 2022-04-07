@@ -68,7 +68,8 @@ http://lnk.ec/Awesome.m3u8
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=743
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png", Awesome TV
 https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528016009
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png", Awesome TV
+https://m3u-editor.com/serve/iptv-gratis/536991203
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
@@ -136,7 +137,8 @@ http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m03523166494315329476&ct=18379&tsu
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
 #EXTINF:-1 group-title="👑|MALAYSIA",MY - ASTRO RIA HD
 https://nonton.site:8443/herbert/154786/37332
-
+#EXTINF:-1 group-title="👑|MALAYSIA",MY - ASTRO RIA HD
+https://m3u-editor.com/serve/iptv-gratis/536991212
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m08745832375518396442&ct=18379&tsum=e0848436c3a2974eb5aa0d4b75289a3f
@@ -173,8 +175,8 @@ https://nonton.site:8443/herbert/154786/37334
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
+https://m3u-editor.com/serve/iptv-gratis/536991215
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/BJUJbE6sVPI/maxresdefault.jpg" group-title="Astro Malaysia", Astro Warna
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
@@ -217,6 +219,10 @@ http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03951830032811292837&ct=18379&t
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m01977340499517349710&ct=18379&tsum=6aa9e10e849ff99699c3f0268aedaa24
 
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
+https://m3u-editor.com/serve/iptv-gratis/536991211
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/36  
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
