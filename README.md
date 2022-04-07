@@ -59,16 +59,16 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png", Awesome TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
 https://tinyurl.com/4x98d8s8
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png", Awesome TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 http://lnk.ec/Awesome.m3u8
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png", Awesome TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=743
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png", Awesome TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528016009
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png", Awesome TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 https://m3u-editor.com/serve/iptv-gratis/536991203
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
@@ -295,10 +295,10 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png", TA-DAA! 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png", TA-DAA! 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://iptv12k.com:35461/167121748/976890/744
+http://iptv12k.com:35461/8022022301/468985/744
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
