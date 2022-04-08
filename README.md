@@ -8,14 +8,11 @@
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" , TV1 FHD
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 HD
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 FHD
-https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
@@ -26,7 +23,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
-https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
 https://rtmlive07.secureswiftcontent.com/rtmchannel/07-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
@@ -59,44 +55,6 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf8E5ux7qfLKC4xyFz
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live34.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live35.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live36.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live37.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live38.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live39.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live40.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live41.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live42.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live43.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live44.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live45.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
@@ -106,13 +64,13 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
 https://tinyurl.com/4x98d8s8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 http://lnk.ec/Awesome.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=743
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528016009
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
 https://m3u-editor.com/serve/iptv-gratis/536991203
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
@@ -152,8 +110,8 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
 https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
-https://link.zozotv.xyz/shukrisinar/shukrisinar/11
+EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
@@ -212,8 +170,8 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m08031221716913126132&ct=18379&t
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
+https://link.zozotv.xyz/shukrisinar/shukrisinar/11
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
 https://m3u-editor.com/serve/iptv-gratis/536991215
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
