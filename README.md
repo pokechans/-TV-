@@ -8,11 +8,14 @@
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" , TV1 FHD
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 HD
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 FHD
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
@@ -23,6 +26,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
+https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
 https://rtmlive07.secureswiftcontent.com/rtmchannel/07-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
