@@ -27,9 +27,9 @@ http://axcestv.vip:8080/freeview/axcestv/624
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 http://iptv12k.com:35461/8022022301/468985/740
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://live.astradamy.com/tv3/index.m3u8
-
-
+https://link.zozotv.xyz:443/707070/707070/18
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://ktiptv.co/3057/3057/25810
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
