@@ -16,6 +16,11 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFBAe5uygOKhbJLDcbVhEKHYGQmFQYgih4Z7sErP95GryvSR5yvlsBjhMK3Zjye6EBA)/dm/3/x7a7rpm/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXbj_8A9YLU4lfh-9GoXBSpTu9OGrCpz7ZHawNrb-211ackXxfvve_Zb2vyRR60O9jw)/dm/3/x6qp375/d/live-4.m3u8#cell=lsg1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
@@ -28,8 +33,6 @@ http://95.214.235.93:8880/trmall/trmall0308/1732
 https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFBAe5uygOKhbJLDcbVhEKHYGQmFQYgih4Z7sErP95GryvSR5yvlsBjhMK3Zjye6EBA)/dm/3/x7a7rpm/s/live-4.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
