@@ -16,10 +16,10 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://stream-01.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXXEkvRPf5G0qOgCv-oDs4MOBDcvIjTW1gXr6zCD6I78v4fMa2ybM319BypjGrbkc5g)/dm/3/x6qp375/d/live-4.m3u8
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://tvmalaysia.cyou/hls/tv3.m3u8|Referer=https://www.tvmalaysia.online/
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03_1080FHD.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03_720H.mpd
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
