@@ -17,39 +17,19 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/assets/moose_na.m3u
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZprhJVkwCLhnlPesdhfXRw)/dm/3/x6qp375/d/live-1.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725598
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725599
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 http://95.214.235.93:8880/trmall/trmall0308/1732
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://xtra.skyforever.tk/TV3.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-http://iptv12k.com:35461/8022022301/468985/740
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://link.zozotv.xyz:443/707070/707070/18
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://ktiptv.co/3057/3057/25810
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-http://axcestv.vip:8080/freeview/axcestv/624
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://live.astradamy.com/tv3/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
 https://rtmlive07.secureswiftcontent.com/rtmchannel/07-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my
