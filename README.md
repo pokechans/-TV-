@@ -18,11 +18,9 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFBAe5uygOKhbJLDcbVhEKHYGQmFQYgih4Z7sErP95GryvSR5yvlsBjhMK3Zjye6EBA)/dm/3/x7a7rpm/s/live-4.m3u8
+https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFBAe5uygOKhbJLDcbVhEKHYGQmFQYgih4Z7sErP95GryvSR5yvlsBjhMK3Zjye6EBA)/dm/3/x7a7rpm/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXbj_8A9YLU4lfh-9GoXBSpTu9OGrCpz7ZHawNrb-211ackXxfvve_Zb2vyRR60O9jw)/dm/3/x6qp375/d/live-4.m3u8#cell=lsg1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
+https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXbj_8A9YLU4lfh-9GoXBSpTu9OGrCpz7ZHawNrb-211ackXxfvve_Zb2vyRR60O9jw)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725598
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
