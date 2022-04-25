@@ -91,7 +91,7 @@ https://m3u-editor.com/serve/iptv-gratis/536991203
 http://51.81.208.129:35461/streaming/clients_live.php?extension=ts&username=80201033004&password=324542&stream=743
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MYZARtv/myzar/main/SUKE_TV_Logo.png",116 Suke TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vSTsGlwkOAE
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
