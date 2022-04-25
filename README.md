@@ -12,20 +12,17 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.
 
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 HD
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://stream-01.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXXEkvRPf5G0qOgCv-oDs4MOBDcvIjTW1gXr6zCD6I78v4fMa2ybM319BypjGrbkc5g)/dm/3/x6qp375/d/live-4.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://tvmalaysia.cyou/hls/tv3.m3u8|Referer=https://www.tvmalaysia.online/
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live04.mpd
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://xtra.skyforever.tk/TV3.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
@@ -33,13 +30,13 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-http://axcestv.vip:8080/freeview/axcestv/624
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 http://iptv12k.com:35461/8022022301/468985/740
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://link.zozotv.xyz:443/707070/707070/18
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://ktiptv.co/3057/3057/25810
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+http://axcestv.vip:8080/freeview/axcestv/624
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://live.astradamy.com/tv3/index.m3u8
 
@@ -383,6 +380,8 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37456
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE HD
+http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png", KBS World HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
