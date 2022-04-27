@@ -14,6 +14,110 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 #EXTINF:-1 tvg-id="102" ch-number="102" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725598
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725599
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRNFCix.png",TV6
+https://rtmlive07.secureswiftcontent.com/rtmchannel/07-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png", NTV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHboOJ4lEtPmtgJutdaiqPvg)/dm/3/x6qp6ou/s/live-1.m3u8#cell=lsg1
+https://aqfad.netlify.app/stream/DidikTVKPM.m3u8
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/NTV7.m3u8|Referer=https://www.dailymotion.com
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ0Ek18JxeC5jyylltdlrHA)/dm/3/x6qp6ou/s/live-2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
+https://stream-04.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaIBORWUhYAm_Fc8NoJ1YMA)/dm/3/x6qud17/s/live-1.m3u8#cell=lcore
+https://aqfad.netlify.app/stream/8TV.m3u8
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/8TV.m3u8|Referer=https://www.dailymotion.com
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png", TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ9MsO7OMjIznbex3pTCZ9M)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf8E5ux7qfLKC4xyFzMntuw)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png",TV AlHijrah
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV Okey
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
+#EXTVLCOPT:http-referrer=http://www.astro.com.my 
+https://tinyurl.com/4x98d8s8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
+https://bit.ly/35FNIsD
+http://lnk.ec/Awesome.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=743
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528016009
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
+https://m3u-editor.com/serve/iptv-gratis/536991203
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
+http://51.81.208.129:35461/streaming/clients_live.php?extension=ts&username=80201033004&password=324542&stream=743
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MYZARtv/myzar/main/SUKE_TV_Logo.png",116 Suke TV
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg", TVS HD
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg", TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+
+EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png", HELLO HD
+http://iptv12k.com:35461/8022011502/123456/719
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png",RTB (Brunei)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg", DRAMA SANGAT HD
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png", Astro Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png", BERNAMA
+https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 #EXTINF:-1 tvg-id="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia: Astro On The Go",Astro Ria
