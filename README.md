@@ -831,3 +831,42 @@ https://astro3.rastream.com/astro-zayan
 
 #EXTINF:-1 group-title="RADIO" tvg-id="GOXUAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
 https://astro3.rastream.com/astro-goxuan
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First-聽Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First-聽Jaga-Jaga Senario union
+http://axcestv.vip:8080/live/freeview/axcestv/989.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Gila Gusti
+http://axcestv.vip:8080/live/freeview/axcestv/981.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Renjana
+http://axcestv.vip:8080/live/freeview/axcestv/978.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Autumn In Wales
+http://axcestv.vip:8080/live/freeview/axcestv/979.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Kedai Antik Wak Jambi" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First - Kedai Antik Wak Jambi
+http://axcestv.vip:8080/live/freeview/axcestv/980.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Kg Pisang Berbuah Dua Kali
+http://axcestv.vip:8080/live/freeview/axcestv/684.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Hantu Kuat Ketawa
+http://axcestv.vip:8080/live/freeview/axcestv/685.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Hantu Mok Joh
+http://axcestv.vip:8080/live/freeview/axcestv/686.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Marabahaya Underground
+http://axcestv.vip:8080/live/freeview/axcestv/687.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First- Serangan Pocong
+http://axcestv.vip:8080/live/freeview/axcestv/688.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First - Siapa Tutup Lampu?
+http://axcestv.vip:8080/live/freeview/axcestv/689.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First - Hantu Ke Lima
+http://axcestv.vip:8080/live/freeview/axcestv/690.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="🔴 ASTRO FIRST",Astro First -Penunggang Agama 2
+http://axcestv.vip:8080/live/freeview/axcestv/691.ts
