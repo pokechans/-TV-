@@ -164,15 +164,15 @@ http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1705
 
 
 
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m08745832375518396442&ct=18379&tsum=e0848436c3a2974eb5aa0d4b75289a3f
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 https://tvmalaysia.cyou/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
 EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/33
 EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/34
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/2wcm2r4d
 
