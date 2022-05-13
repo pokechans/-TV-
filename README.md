@@ -118,9 +118,10 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
 
-
-
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
+http://axcestv.vip:8080/live/freeview/axcestv/645.ts
+http://axcestv.vip:8080/live/freeview/axcestv/646.ts
+http://axcestv.vip:8080/live/freeview/axcestv/647.ts
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 
@@ -131,13 +132,15 @@ https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-
-
+http://axcestv.vip:8080/live/freeview/axcestv/650.ts
+http://axcestv.vip:8080/live/freeview/axcestv/648.ts
+http://axcestv.vip:8080/live/freeview/axcestv/649.ts
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721
-
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
+http://axcestv.vip:8080/live/freeview/axcestv/652.ts
+http://axcestv.vip:8080/live/freeview/axcestv/651.ts
 
 
 ******************************KARTUN*****************************************
