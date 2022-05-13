@@ -117,6 +117,8 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 http://axcestv.vip:8080/live/freeview/axcestv/645.ts
