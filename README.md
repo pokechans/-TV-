@@ -78,7 +78,7 @@ https://m3u-editor.com/serve/iptv-gratis/536991203
 http://51.81.208.129:35461/streaming/clients_live.php?extension=ts&username=80201033004&password=324542&stream=743
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MYZARtv/myzar/main/SUKE_TV_Logo.png",116 Suke TV
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
@@ -116,150 +116,28 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00956964161413006878&ct=18379&tsum=a3d232714e114f575d02d0d0918e5340
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m09753019711815679625&ct=18379&tsum=5d1c5758b313e0c262b35e7a1c80c94f
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m03523166494315329476&ct=18379&tsum=c7dbf6fd92e3bacf4516f223b5fd3632
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01790894719016696035&ct=18381&tsum=d380a2ebfd1363b3e6fe4c9dd5f9ad1c
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://tinyurl.com/47ef5b4z
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png", Astro Ria HD
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1705
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
-http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m08745832375518396442&ct=18379&tsum=e0848436c3a2974eb5aa0d4b75289a3f
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
-https://tvmalaysia.cyou/hls/prima.m3u8|Referer=https://www.tvmalaysia.online/
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/33
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/34
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://tinyurl.com/2wcm2r4d
+
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822a8792082efdf2edb758e491
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=6ed99f164db0c90030ce10756604b757
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m05704147212615501079&ct=18379&tsum=5f9dff7b0ccf38865782536c0a9ea077
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m08581660785618269429&ct=18379&tsum=57fb6d8bf1967afe71eb9d0070cf8eb1
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m00627069870717591386&ct=18379&tsum=e6387033b33501a2cfc92ca7c92703a2
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m08031221716913126132&ct=18379&tsum=de2a9f561dfae7b20ad813e3ede52c5d
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m08610263118318220467&ct=18379&tsum=89c80610cd0352530488532f2ef79099
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-http://wanicelife.com:8880/SWFAF1231293/XTGE495U/71021.ts
-
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m05437850654917679008&ct=18379&tsum=a4e9361fc95e205124236e74de2b2f47
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m09222562895214053157&ct=18379&tsum=cbb662e3297063bf6bbc79064ac8de2d
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03951830032811292837&ct=18379&tsum=9dba4df2a72f7dfe799cca8314931ec4
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m01977340499517349710&ct=18379&tsum=6aa9e10e849ff99699c3f0268aedaa24
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-https://link.zozotv.xyz/shukrisinar/shukrisinar/11
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/3 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/35 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/272
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-https://link.zozotv.xyz:443/dayah/dayah/272
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-https://m3u-editor.com/serve/iptv-gratis/536991215
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://urtv.cc:80/454781209544/431009674535/6740
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-https://tinyurl.com/cdddk2p3
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-https://tinyurl.com/2s3cksd7
 
 
 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m00436624530416239904&ct=18379&tsum=12b82db0090ba73924a775895281f69b
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=35f944b2e9cfbf5111b7692198fd855a
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06696372068013250537&ct=18379&tsum=21d9bbb4afc068eeb4fa2ff04af3473a
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06574883079618621042&ct=18379&tsum=ee53b4e78c5216fc253932b36d615594
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m08333765977116314800&ct=18379&tsum=ba7d0401fcf8d2a886c06d9109857d49
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06859194331516046515&ct=18379&tsum=145f79a3fc4821ce01a0a8c1fb8a72d8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000016481115&ct=17950&tsum=de9053742291cc2c76b6dc3439c8560f
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-https://m3u-editor.com/serve/iptv-gratis/536991211
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/36  
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/37
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/71146
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-https://tinyurl.com/mv4sd4t8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png", Naura
-https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725594
 
 
 ******************************KARTUN*****************************************
