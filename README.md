@@ -118,19 +118,17 @@ https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
-
+http://axcestv.vip:8080/live/freeview/axcestv/454.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://axcestv.vip:8080/live/freeview/axcestv/645.ts
-http://axcestv.vip:8080/live/freeview/axcestv/646.ts
-http://axcestv.vip:8080/live/freeview/axcestv/647.ts
+http://axcestv.vip:8080/live/freeview/axcestv/453.ts
+
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
-
+http://axcestv.vip:8080/live/freeview/axcestv/452.ts
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
-
+http://axcestv.vip:8080/live/freeview/axcestv/449.ts
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
@@ -164,9 +162,9 @@ http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m01700374803912485356&ct=18379&t
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m03523166494315329476&ct=18379&tsum=c7dbf6fd92e3bacf4516f223b5fd3632
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/31  
+http://axcestv.vip:8080/live/freeview/axcestv/451.ts  
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/32
+http://axcestv.vip:8080/live/freeview/axcestv/450.ts
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015871
@@ -513,12 +511,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/154.ts
-http://iptv12k.com:35461/8022011502/123456/688
-http://w.nasvpn.xyz:8080/saya/saya/167
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015730
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015731
+http://axcestv.vip:8080/live/freeview/axcestv/592.ts
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -526,11 +519,7 @@ https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015731
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTRO ARENA 2
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/400.ts
-http://iptv12k.com:35461/8022011502/123456/965
-http://w.nasvpn.xyz:8080/saya/saya/4130
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTRO ARENA 2
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015732
+http://axcestv.vip:8080/live/freeview/axcestv/593.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASTRO SUPERSPORT
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/155.ts
