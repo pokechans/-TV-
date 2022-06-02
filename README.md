@@ -109,12 +109,13 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 http://axcestv.vip:8080/live/freeview/axcestv/454.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 http://axcestv.vip:8080/live/freeview/axcestv/453.ts
-
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
+http://linears-playback.astro.com.my/vsg/41VasBA0S_jVCP2gSZ4ad7KQ2RUBo_dFMgD64DhSI3b4M=t1r4/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 http://axcestv.vip:8080/live/freeview/axcestv/452.ts
 EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
-
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
 http://axcestv.vip:8080/live/freeview/axcestv/449.ts
