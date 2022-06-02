@@ -62,20 +62,8 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
-#EXTVLCOPT:http-referrer=http://www.astro.com.my 
-https://tinyurl.com/4x98d8s8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
-https://bit.ly/35FNIsD
-http://lnk.ec/Awesome.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK020233&password=079097&stream=743
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528016009
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
-https://m3u-editor.com/serve/iptv-gratis/536991203
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png", Awesome TV
-http://51.81.208.129:35461/streaming/clients_live.php?extension=ts&username=80201033004&password=324542&stream=743
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142523.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MYZARtv/myzar/main/SUKE_TV_Logo.png",116 Suke TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
@@ -90,9 +78,9 @@ EXTINF:-1 tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png", HELLO HD
-http://iptv12k.com:35461/8022011502/123456/719
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png", HELLO HD
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png",RTB (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
@@ -116,7 +104,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 http://axcestv.vip:8080/live/freeview/axcestv/454.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
@@ -125,51 +113,30 @@ http://axcestv.vip:8080/live/freeview/axcestv/453.ts
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 http://axcestv.vip:8080/live/freeview/axcestv/452.ts
+EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png", Astro Prima HD
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
 http://axcestv.vip:8080/live/freeview/axcestv/449.ts
-
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", Astro Oasis HD
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142669.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://axcestv.vip:8080/live/freeview/axcestv/650.ts
-http://axcestv.vip:8080/live/freeview/axcestv/648.ts
-http://axcestv.vip:8080/live/freeview/axcestv/649.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
-http://axcestv.vip:8080/live/freeview/axcestv/652.ts
-http://axcestv.vip:8080/live/freeview/axcestv/651.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 
 ******************************KARTUN*****************************************
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02750980869911442984&ct=18379&tsum=977bbedb4e1c885d424a7a1eb32c3328
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m00017484649514957310&ct=18379&tsum=d200d4e1e8826726118ac9d707aa859e
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m07158100829011348297&ct=18379&tsum=3cd24ac15e322157a367465ebe01c81f
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m00138547143716168639&ct=18379&tsum=e850b12200a0ac9c832257fdedebce12
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02178225462418082105&ct=18379&tsum=701a1c0697156f29cfb51e49ad82930d
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m01700374803912485356&ct=18379&tsum=09dbbe5658328746c85c3d6b053df320
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m03523166494315329476&ct=18379&tsum=c7dbf6fd92e3bacf4516f223b5fd3632
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://axcestv.vip:8080/live/freeview/axcestv/451.ts  
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
 http://axcestv.vip:8080/live/freeview/axcestv/450.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015871
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria HD
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528016026
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png", TA-DAA! 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -508,8 +475,8 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/YX1DYFz/UnifiTV.png",Unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ASTRO ARENA
 http://axcestv.vip:8080/live/freeview/axcestv/592.ts
 
@@ -517,24 +484,25 @@ http://axcestv.vip:8080/live/freeview/axcestv/592.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ASTRO ARENA 2
 http://axcestv.vip:8080/live/freeview/axcestv/593.ts
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASTRO SUPERSPORT
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/155.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/156.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/157.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/158.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/398.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
 
 
 
