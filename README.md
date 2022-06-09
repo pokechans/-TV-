@@ -14,8 +14,8 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/tv3_didiktvkpm_8tv_tv9_EPG.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://live.astradamy.com/tv3/index.m3u8
 
