@@ -108,7 +108,8 @@ http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg
 http://139.99.56.106:2082/sakinah1/sakinah1/8444
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png"Astro Ria HD
 http://acc2.aatvbox.club:8880/trmall/trmall0308/1705
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png"Astro Ria HD
+https://tv.kpsvpn.com/astroghia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -158,7 +159,8 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", Astro Ceria HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
-
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", Astro Ceria HD
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157481
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5024
