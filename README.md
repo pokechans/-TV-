@@ -127,11 +127,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
+http://iptv12k.com:35461/live/80301062102/732099/721.ts
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/983556501141770240/KZq2awDx_400x400.jpg", Sensasi HD
 https://ktiptv.cf:443/48268/48268/656644
@@ -675,6 +680,8 @@ https://astro3.rastream.com/astro-zayan
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
 https://astro3.rastream.com/astro-goxuan
 
+#EXTINF:-1 tvg-id="35MM" tvg-name="Astro First- 35MM" tvg-logo="https://i.ibb.co/0qN5dks/443230.png" group-title="🔴ASTRO FIRST",Astro First- 35MM
+https://bit.ly/3Il7vMO
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Jaga-Jaga Senariounion
 http://axcestv.vip:8080/freeview/axcestv/486
