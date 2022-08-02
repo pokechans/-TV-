@@ -10,6 +10,15 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Malay
 http://139.99.56.106:2082/sakinah1/sakinah1/12849
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Malay 35mm
+https://4fl0.short.gy/FzTv/35mm    
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Action
+http://139.99.56.106:2082/sakinah1/sakinah1/12159
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Horror
+http://139.99.56.106:2082/sakinah1/sakinah1/12984
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" , TV1 HD
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
