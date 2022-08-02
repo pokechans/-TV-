@@ -136,8 +136,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpfOYwLBnEt5_ESYbLEICjKA=BGTZ/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
-EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/983556501141770240/KZq2awDx_400x400.jpg", Sensasi HD
-https://ktiptv.cf:443/48268/48268/656644
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
+http://metatvpro.com:25461/Nizam6473/Nizam6473/8
 ******************************KARTUN*****************************************
 
 
