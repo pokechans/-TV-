@@ -117,7 +117,10 @@ https://m3u-editor.com/serve/fab2e470-f140-11ec-83dfgd/586130438
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
 https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053174
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
+http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
+https://aqfadtv.xyz/ria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -141,6 +144,10 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2402/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053177
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://aqfadtv.xyz/warna.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9CaxDkPSAu0QVCyguix2yYs=MU9r/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
@@ -150,8 +157,13 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2700/default_ott.mpd
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9IeMc6mil5vyfxJFEjGN-hQ=LioE/dash-wv/jitp-linearwm/2700/default_ott.mpd?11
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -186,6 +198,11 @@ https://nonton.site:8443/mustakim/mustakim/37399
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png",TA-DAA!
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
