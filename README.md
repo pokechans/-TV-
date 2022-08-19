@@ -34,7 +34,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png", TV3
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png",TV3 
@@ -116,7 +116,7 @@ https://m3u-editor.com/serve/fab2e470-f140-11ec-83dfgd/586130438
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
-http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053174
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -137,8 +137,10 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",ASTRO WARNA
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2402/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053177
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
@@ -148,6 +150,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2700/default_ott.mpd
+
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -1087,6 +1091,70 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
 
 
+#EXTINF: -1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/astrogempak/media/2019-flavettesglowingstar/35mm-official-poster.jpg?ext=.jpg" group-title="ASTRO FIRST MOVIES", 35MM
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605003
+#EXTINF: -1 tvg-logo="https://kepalabergetar1.com/wp-content/uploads/2022/06/Rompak.jpg" group-title="ASTRO FIRST MOVIES", ROMPAK
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605004
+#EXTINF: -1 tvg-logo="https://images.moviefit.me/t/o/736977-upin-ipin-edisi-ramadan-raya.jpg" group-title="ASTRO FIRST MOVIES", UPIN IPIN RAMADHAN RAYA
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605005
+#EXTINF: -1 tvg-logo="https://themoviesflix.life/wp-content/uploads/2022/06/Download-The-Unbearable-Weight-of-Massive-Talent-2022-English-With-Subtitles-480p-200x300-1-200x300-1.jpg" group-title="ASTRO FIRST MOVIES", UNBREAKABLE WEIGHT MASSIVE TALENT
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605006
+#EXTINF: -1 tvg-logo="https://i0.wp.com/alhijrahnews.com/wp-content/uploads/2020/05/IMG-20200522-WA0017.jpg?fit=1080%2C1080&ssl=1&w=640" group-title="ASTRO FIRST MOVIES", GERAN
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605007
+#EXTINF: -1 tvg-logo="https://asianwiki.com/images/6/67/Yaksha-Ruthless_Operations-tp01.jpeg" group-title="ASTRO FIRST MOVIES", YAKSHA: RUTHLESS OPERATIONS
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605008
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Pasal_Kau_movie_poster.jpg" group-title="ASTRO FIRST MOVIES", PASAL KAU
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605009
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk3ZTEzNGUtZTcwYy00NmRmLWFhMGYtZjA4NWY1ZWI4MzMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="ASTRO FIRST MOVIES", CINDERELLA
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605010
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGExYTE2ZTYtMGY2My00ZmNhLTg0M2EtNWI2YWMzZjNiMTljXkEyXkFqcGdeQXVyMTI5ODA1OTU0._V1_.jpg" group-title="ASTRO FIRST MOVIES", SNIPER
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605011
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg" group-title="ASTRO FIRST MOVIES", BATMAN 2022
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605012
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMThjOGQyZDItMTM2ZS00YmE3LWEwNDktZGU0N2Y1YjRjMzU5XkEyXkFqcGdeQXVyMTUzNzU2OTIy._V1_FMjpg_UX1000_.jpg" group-title="ASTRO FIRST MOVIES", IP MAN 2022
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605013
+#EXTINF: -1 tvg-logo="https://www.cinema.com.my/images/news/2017/7f_balunpaparsenisilat00.jpg" group-title="ASTRO FIRST MOVIES", BALUN
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605014
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUzOTY4MDUtYjZiOC00M2Y2LWI0ZjUtYzQ3YTlkMDVhYWJkXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_.jpg" group-title="ASTRO FIRST MOVIES", TOMBIRUO
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605015
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Cicakman_Poster.jpg" group-title="ASTRO FIRST MOVIES", CICAKMAN
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605016
+#EXTINF: -1 tvg-logo="https://alchetron.com/cdn/cicak-man-a62c535c-0632-4c75-8d63-8dd324f9616-resize-750.jpg" group-title="ASTRO FIRST MOVIES", CICAKMAN 2
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605017
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/J_Revolusi.jpg" group-title="ASTRO FIRST MOVIES", J REVOLUSI
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605018
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VMvpAKt.jpg" group-title="ASTRO FIRST MOVIES", KL SPECIAL FORCE
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605019
+#EXTINF: -1 tvg-logo="https://i.redd.it/f5h8upwh47p11.jpg" group-title="ASTRO FIRST MOVIES", PASKAL
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605020
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/vNz7OoY5STI0J9AJvtwB8IZst5i.jpg" group-title="ASTRO FIRST MOVIES", SANGKAR
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605021
+#EXTINF: -1 tvg-logo="https://martial-arts-review.co.uk/wp-content/uploads/2020/09/Wira.jpg" group-title="ASTRO FIRST MOVIES", WIRA
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605022
+#EXTINF: -1 tvg-logo="https://moviesinner.com/wp-content/uploads/2022/02/jurassic-world-dominion-2022-movie.jpg" group-title="ASTRO FIRST MOVIES", JURASSIC WORLD DOMINION
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605023
+#EXTINF: -1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2022/05/doctor-strange-in-the-multiverse-of-madness.jpg" group-title="ASTRO FIRST MOVIES", DOCTOR STRANGE IN MULTIVERSE OF MADNESS
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605024
+#EXTINF: -1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2022/03/Fantastic-Beasts-Secrets-of-Dumbledore-poster-header.jpg" group-title="ASTRO FIRST MOVIES", FANTASTIC BEAST
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605025
+#EXTINF: -1 tvg-logo="https://flixchatter.files.wordpress.com/2022/05/topgun2-poster.jpg" group-title="ASTRO FIRST MOVIES", TOP GUN MAVERICK
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605026
+#EXTINF: -1 tvg-logo="https://cdn-image.hipwee.com/wp-content/uploads/2022/06/hipwee-film-inang.jpg" group-title="ASTRO FIRST MOVIES", INANG
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605027
+#EXTINF: -1 tvg-logo="https://i0.wp.com/dailyresearchplot.com/wp-content/uploads/2022/07/2-31.jpg" group-title="ASTRO FIRST MOVIES", THE SEA BEAST
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605028
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/TheLostCityPoster.jpg/220px-TheLostCityPoster.jpg" group-title="ASTRO FIRST MOVIES", THE LOST CITY
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605029
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQyODUwM2MtNzA0YS00ZjdmLTgzMjItZWRjN2YyYWE5ZTNjXkEyXkFqcGdeQXVyMTI2MzY1MjM1._V1_.jpg" group-title="ASTRO FIRST MOVIES", MINIONS THE RISE OF GRU
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605030
+#EXTINF: -1 tvg-logo="https://www.xinemas.com/data/upload/movies/2022/rumah.jpg" group-title="ASTRO FIRST MOVIES", RUMAH
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605031
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY0MGMyZjEtMDk3NC00MzY0LWIzYzgtMDUwNDdmNDU2NTY0XkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg" group-title="ASTRO FIRST MOVIES", BUNGA DAN KAYU
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605032
+#EXTINF: -1 tvg-logo="https://magarila.com/wp-content/uploads/2022/06/Lightyear-Posters-1-1037x1536.jpg" group-title="ASTRO FIRST MOVIES", LIGHTYEAR
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605033
+#EXTINF: -1 tvg-logo="https://i.mydramalist.com/2VKZR_4c.jpg" group-title="ASTRO FIRST MOVIES", PEE NAK 3
+https://m3u-editor.com/serve/9156d400-f607-11ec-9fa8-a706ffefdc6a/597605034
 
 
 
