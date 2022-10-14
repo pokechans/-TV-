@@ -142,9 +142,9 @@ https://aqfadtv.xyz/live/citra/index.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9MoR_GKTdxO01p4l19pUZFM=pRKc/dash-wv/jitp-linearwm/2700/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-http://104.238.221.63:9138/stream/live/c20425.m3u8
+http://104.238.221.63:9138/stream/live/c20425.m3u8?idstream=citra
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-https://bit.ly/3QNjpSj
+https://stream.zeehanzgadget.com/citra
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
