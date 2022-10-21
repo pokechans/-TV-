@@ -245,7 +245,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 
 ****
-#EXTINF:-1 tvg-id="OPPA MANIA" group-title="Korea" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
+EXTINF:-1 tvg-id="OPPA MANIA" group-title="Korea" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522
@@ -255,6 +255,8 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/K-DAILY.png",719 K-DAILY TV
+https://asrazunifi.ddns.net:8443/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
