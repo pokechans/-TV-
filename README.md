@@ -169,8 +169,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png",COLORS (HINDI)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
-http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
+https://4fl0.short.gy/FzTv/sensasi.ts
 ******************************KARTUN*****************************************
 
 
