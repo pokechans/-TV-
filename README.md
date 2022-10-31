@@ -365,13 +365,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png",Star Movies
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142744	
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starmo
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
-https://tinyurl.com/5yuck29y
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starselect
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png",Sony Pix
-http://live.flixhub.net/hls/sonypixhd.m3u8
+[http://live.flixhub.net/hls/sonypixhd.m3u8](https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd)
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png",&Flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -388,12 +388,18 @@ http://live.flixhub.net/hls/movies-now.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
 http://live.flixhub.net/hls/mnx-hd.m3u8
 
-EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png",MY Cinema 
-https://tinyurl.com/tw3x7dx4
+#EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png",MY Cinema 
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 
 
-EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png",MY Cinema Asia 
-http://210.210.129.106/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png",MY Cinema Asia 
+http://210.210.155.35/uq2663/h/h193/index.m3u8
+http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m59c58z/Desain-tanpa-judul-72-modified.png", My Cinema Family
+http://210.210.155.35/x6bnqe/h/h194/index.m3u8
+http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -404,6 +410,21 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png",Galaxy Premium
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Movie Hub" tvg-logo="https://i.ibb.co/r6WS80p/download-1.png",Movies Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Srm8zWy/x.png",Movies X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
