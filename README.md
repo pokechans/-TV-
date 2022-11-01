@@ -243,23 +243,19 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png", ANIMAX
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
 EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k8Xw5R5/ANIMAX.png", Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", ANIMAX
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/pnVT03g/1500261485-aniplus-sd.png",Aniplus
-http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" , Aniplus
+http://210.210.155.37/dr9445/h/h02/index.m3u8|User-Agent=Lavf/56.15.102
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
