@@ -3,6 +3,8 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml"
+
 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"  refresh="3600"
 
@@ -21,11 +23,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
-https://stream-02.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXZSe_5xbbuodXkkkvTQzhtLe7BFWx3_UBIZRN_YLNeGgeKZIe3AlaWp22llSb8Jddw)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-05.sg1.dailymotion.com/sec(TM5fMjJQSz__Fy5d2ladFMqK6ITCW_No2p-3YheEzBf0tHj5WEED3wUtK1yezmACnTezQQX3oBQYXheQiNYRuA)/dm/3/x7a7rpm/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXkalzOi6L0g2mWA02kaIAfmHd12wvYzSCIhIQaB6htY)/dm/3/x6qp6ou/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXkalzOi6L0g2mWA02kaIAfmHd12wvYzSCIhIQaB6htY)/dm/3/x6qp6ou/s/live-4.m3u8
 EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png",TV3 
 http://51.79.82.208:16003
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -33,23 +37,23 @@ http://51.79.82.208:16003
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png,TV3 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="147" tvg-logo="https://didik.tv/images/logotv2.png",  DIDIK TV KPM
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVp8d3rAspESy884SoLnTKMNg9hhd10G1uIp_aw0pgw-)/dm/3/x6qp6ou/s/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXkalzOi6L0g2mWA02kaIAfmHd12wvYzSCIhIQaB6htY)/dm/3/x6qp6ou/s/live-4.m3u8
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVp8d3rAspESy884SoLnTKMNg9hhd10G1uIp_aw0pgw-)/dm/3/x6qp6ou/s/stream-3-1667095045.ts
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", DIDIK TV KPM
 http://51.79.82.208:16004
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcrVUsLzz6itjclMRqQUoB2po-0Fptaqeh2CTHo7M3g3)/dm/3/x6qud17/s/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHT-72laPX330QO5Vl8_KPbLq9d_Vvi6c63ZNThJ7-qoQ)/dm/3/x6qud17/s/live-4.m3u8
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcrVUsLzz6itjclMRqQUoB2po-0Fptaqeh2CTHo7M3g3)/dm/3/x6qud17/s/stream-3-1667094893.ts
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png", TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbAG7jwIiXqECW7xlpYNR5JDmsX48TjNwby3Cvc7b2jC)/dm/3/x6qqja6/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcV1A44M1c_toq5M7VGz-dcNdDW4CsVTzqvwAtgFYZcV)/dm/3/x6qqja6/s/live-4.m3u8
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbAG7jwIiXqECW7xlpYNR5JDmsX48TjNwby3Cvc7b2jC)/dm/3/x6qqja6/s/stream-3-1667094836.ts
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png", TV9
 http://51.79.82.208:16006
@@ -64,7 +68,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV Okey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
@@ -121,10 +125,10 @@ EXTINF:-1 group-title="SINGAPORE🇸🇬" tvg-id="CNA" tvg-chno="CNA" tvg-logo="
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png", DRAMA SANGAT HD
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mGMPXEdnZxmSbLkpQteP5XZW-IsvnQUNi-Nx6Ak5kFx)/dm/3/x6zvnex/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jw7lAHRAUD6lBVxedciUmAr8pDjWQNFSwhHn_V4eXFP)/dm/3/x6zvnex/s/live-4.m3u8
 https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mGMPXEdnZxmSbLkpQteP5XZW-IsvnQUNi-Nx6Ak5kFx)/dm/3/x6zvnex/s/stream-3-1667095684.ts
 
-EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg", Bertia RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -567,7 +571,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
 *********************************************************************************************************************************************
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",RTM Sukan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png", Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 
