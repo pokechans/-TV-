@@ -522,7 +522,7 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8300c66236b3057410cde9cf0970910:f3787e40b34f18ab2dccd809e78ceec1
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",WARNER TV FHD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",WARNER TV HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
