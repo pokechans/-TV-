@@ -211,10 +211,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
-http://51.79.82.208:16009
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
 
@@ -234,12 +231,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",ASTRO CERIA FHD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",ASTRO CERIA HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png",Astro Ceria HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", Astro Ceria HD
-https://nonton.site:8443/mustakim/mustakim/37399
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b398595696c2d609a8a1c3dc27af710:cf14a926974812acaadcc2c986f7ed4d
@@ -249,9 +245,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png", ANIMAX
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", ANIMAX
+EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
@@ -329,7 +325,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
+#KODIPROP:inputstream.adaptive.license_key=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/K-DAILY.png",719 K-DAILY TV
@@ -339,7 +335,7 @@ https://asrazunifi.ddns.net:8443/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png",ONE FHD
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png",ONE FHD
 http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
 
 
@@ -347,7 +343,7 @@ http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",Oh!K HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",Oh!K HD
 http://198.16.64.10:8278/Ohk/playlist.m3u8?tid=MF4F8315986583159865&ct=19225&tsum=ca2352c9f1852dd9395c2bd259afe372
 
 
@@ -375,7 +371,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
 http://23.237.10.66:16420
 
 
@@ -387,7 +383,7 @@ http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c895c9ffb76edf62261e7588665a7310:2bd500fc595131eaf160258a85dc72b6
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png",Hits HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png",Hits HD
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -416,7 +412,7 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37430
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cfb499a75630eca1d50e584f58e9310:0a11d637ad2eaa1f7a75f42b7fc72b30
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png",HBO FAMILY FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png",HBO FAMILY HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -435,7 +431,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
 
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png",Star Movies
+EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png",Star Movies
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starmo
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="MOVIES", Star Movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142744
@@ -504,7 +500,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
+#KODIPROP:inputstream.adaptive.license_key=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png",CCM
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
@@ -541,12 +537,12 @@ http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 ***********************************SERIES************************************
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
+#KODIPROP:inputstream.adaptive.license_key=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png",PARAMOUNT NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
+#KODIPROP:inputstream.adaptive.license_key=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png",PRIMETIME
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
@@ -556,7 +552,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c7fa397ac42a9a4c6375a3653db84710&key=cd6bf0c7a2a8937e0a0431762189149f
+#KODIPROP:inputstream.adaptive.license_key=c7fa397ac42a9a4c6375a3653db84710&key=cd6bf0c7a2a8937e0a0431762189149f
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png",KIX
 http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
@@ -584,7 +580,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
+#KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
@@ -600,28 +596,28 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2
+#KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2
 http://linears-playback.astro.com.my/vsg/41LL9r5VuYAR8yaY6qHqdcvQzEbk0GgXbSBXKSnHOVTxU=N912/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3
+#KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3
 http://linears-playback.astro.com.my/vsg/41kO9Ix93ZufWghatSLb6wMCBNggmQF6STjEBwUlG7kg8=Aweh/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4
+#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASTRO SUPERSPORT 4
 http://linears-playback.astro.com.my/vsg/416hNlVdLf6Ihj1kJFX8CFUcrplBmkn-HoA-_K63EPslI=aaga/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
@@ -630,17 +626,17 @@ https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d96d4ec1a73623b5789d78a48b829d10:1ca8dd93af16c84fa1ef5f1b761a03e3
-#EXTINF:-1 tvg-name="bein sports hd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="SPORTS", BEIN SPORTS 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", BEIN SPORTS 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d2ba38cc488e535fa42059493357c10:c48de9b1683be561fa63ab547391975d
-#EXTINF:-1 tvg-name="bein sports 2 hd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="SPORTS", BEIN SPORTS 2 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", BEIN SPORTS 2 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec837724b4265d2e127e65c542aee410:0ce930620687ab1df1cf6544f2dc0013
-#EXTINF:-1 tvg-name="bein sports 3 hd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="SPORTS", BEIN SPORTS 3 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png", BEIN SPORTS 3 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 
