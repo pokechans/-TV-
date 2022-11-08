@@ -178,15 +178,16 @@ https://stream.zeehanzgadget.com/citra
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",ASTRO BOLLYONE
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",ABO THANGATHIRAI HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",ABO THANGATHIRAI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47f6fa3ca0462021aa1c0c09253ece58
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png",COLORS (HINDI)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",Colors Hindi
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
