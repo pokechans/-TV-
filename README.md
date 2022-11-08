@@ -34,10 +34,8 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png",  DIDIK TV KPM
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVp8d3rAspESy884SoLnTKMNg9hhd10G1uIp_aw0pgw-)/dm/3/x6qp6ou/s/live-3.m3u8
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVp8d3rAspESy884SoLnTKMNg9hhd10G1uIp_aw0pgw-)/dm/3/x6qp6ou/s/stream-3-1667095045.ts
-#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", DIDIK TV KPM
+
+EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", DIDIK TV KPM
 http://51.79.82.208:16004
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -45,20 +43,16 @@ http://51.79.82.208:16004
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://23.237.10.66:16405
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcrVUsLzz6itjclMRqQUoB2po-0Fptaqeh2CTHo7M3g3)/dm/3/x6qud17/s/live-3.m3u8
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcrVUsLzz6itjclMRqQUoB2po-0Fptaqeh2CTHo7M3g3)/dm/3/x6qud17/s/stream-3-1667094893.ts
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
+
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7836ea26a6954661124ee9536a9eb710:e51bbff4595c2736122548c165bfce31
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png", TV9
-http://51.79.82.208:16006
 EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png", TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
+http://51.79.82.208:16006
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3939ff52ae5e4d0e244414bb10682510:c24f329834fb054fd9e1a5d51d5a5306
@@ -103,9 +97,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png,Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png", DRAMA SANGAT HD
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mGMPXEdnZxmSbLkpQteP5XZW-IsvnQUNi-Nx6Ak5kFx)/dm/3/x6zvnex/s/live-3.m3u8
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mGMPXEdnZxmSbLkpQteP5XZW-IsvnQUNi-Nx6Ak5kFx)/dm/3/x6zvnex/s/stream-3-1667095684.ts
+EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png", DRAMA SANGAT HD
+
 
 EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg", Bertia RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
@@ -146,7 +139,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png",ASTRO OASIS HD
 http://51.79.82.208:16009
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://aqfadtv.xyz/live/warna/index.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://stream.zeehanzgadget.com/warna
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
@@ -156,12 +153,13 @@ http://23.237.10.66:16424
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-https://aqfadtv.xyz/live/warna/index.mpd
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-https://bit.ly/3Bqj97r
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
+https://aqfadtv.xyz/live/citra/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
@@ -170,8 +168,6 @@ https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9NByAGgl2kQfOtC
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-https://aqfadtv.xyz/live/citra/index.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://stream.zeehanzgadget.com/citra
 
@@ -184,11 +180,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",ABO THANGATHIRAI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
+#KODIPROP:inputstream.adaptive.license_key=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
+#KODIPROP:inputstream.adaptive.license_key=47f6fa3ca0462021aa1c0c09253ece58
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png",COLORS (HINDI)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
