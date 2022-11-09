@@ -24,18 +24,26 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
+
 EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png",TV3 
 http://51.79.82.208:16003
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png,TV3 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png,TV3 
+https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", DIDIK TV KPM
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", DIDIK TV KPM
 http://51.79.82.208:16004
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -43,16 +51,23 @@ EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://didik.tv/images/log
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://23.237.10.66:16405
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",8TV
-http://51.79.82.208:16005
+https://aqfadtv.xyz/live/8tv/index.mpd
+
 
 EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7836ea26a6954661124ee9536a9eb710:e51bbff4595c2736122548c165bfce31
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png", TV9
+EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png", TV9
 http://51.79.82.208:16006
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png", TV9
+https://aqfadtv.xyz/live/tv9/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3939ff52ae5e4d0e244414bb10682510:c24f329834fb054fd9e1a5d51d5a5306
@@ -210,6 +225,11 @@ https://4fl0.short.gy/FzTv/sensasi.ts
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a4fb03a7f0b51c6264b70203ebcde10:abf3210c7882b3838b66e256d3d72840
 #EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png",Awesome TV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
@@ -223,10 +243,7 @@ https://aqfadtv.xyz/live/awesometv/index.mpd
 #EXTVLCOPT:network-caching=1000
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
 ******************************KARTUN*****************************************
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
