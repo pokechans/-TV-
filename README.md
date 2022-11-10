@@ -215,7 +215,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b1696000_sleng.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png,Suria (Singapura)
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png",Suria (Singapura)
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png", DRAMA SANGAT HD
