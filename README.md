@@ -218,7 +218,7 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/siar/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Siar
-#https://aqfadtv.xyz/live/unifitv/siar/index.mpd
+https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 
 #EXTINF:3 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
