@@ -212,7 +212,7 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",Hypp Degup
+#EXTINF:-1 tvg-logo="",Hypp Degup
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
