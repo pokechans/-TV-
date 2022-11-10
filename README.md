@@ -170,6 +170,10 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 https://stream.zeehanzgadget.com/citra
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Sensasi
+http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
+https://4fl0.short.gy/FzTv/sensasi.ts
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
 #EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png",Awesome TV
@@ -181,11 +185,8 @@ https://aqfadtv.xyz/live/awesometv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Sensasi 
+#EXTINF:-1 tvg-logo="",Sensasi 
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Sensasi
-https://4fl0.short.gy/FzTv/sensasi.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
