@@ -39,7 +39,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -110,7 +110,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.pn",BERNAMA
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -395,7 +395,7 @@ https://asrazunifi.ddns.net:8443/live.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395.png",tvN HD
+EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395.png",tvN HD
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 
@@ -410,7 +410,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-#EXTINF:-1 tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png", Sony GEM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/1000?cb=20201126072306", Sony GEM
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 
