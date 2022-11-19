@@ -252,7 +252,8 @@ https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6S
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",BollyOne HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",BollyOne HD
+https://drive.google.com/u/1/uc?id=1ABC4ymRy2RFm6_0fcXkkCG0r2jkq250I&export=download
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 
