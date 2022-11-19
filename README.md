@@ -1,14 +1,14 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" 
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/unifitv.xml" 
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" 
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml"
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
-#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" refresh="1440" max-conn="1" refresh="24"
 
 
 
