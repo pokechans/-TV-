@@ -12,33 +12,31 @@
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png", WORLD CUP 1
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png", WORLD CUP 2
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png", WORLD CUP UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 1 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216916
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 2 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216917
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 3 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216918
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 4 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216919
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 5 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 6 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5027
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
 
