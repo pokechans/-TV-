@@ -10,20 +10,45 @@
 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar 1
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
+#EXTINF:-1 tvg-id="AstroSupersport2UHD" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar   2
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 1 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216916
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 2 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216917
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 3 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216918
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 4 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216919
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 5 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",BEIN SPORTS MAX 6 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar  3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1/
+https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
+
+#EXTINF:-1 tvg-id="AstroSupersport2UHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar  4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2/
+https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar 1
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
+#EXTINF:-1 tvg-id="AstroSupersport2UHD" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar   2
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar  3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1/
+https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
+
+#EXTINF:-1 tvg-id="AstroSupersport2UHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="⚽ FIFA WORLD CUP 2022 QATAR™", Astro World Cup Qatar  4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2/
+https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
