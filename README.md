@@ -712,7 +712,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41xxXshDViJKDg4lhDCeKUFZNVH28Sh6f1bK2bnHROkTo=60b3/dash-wv/jitp-linearwm/5059/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png", BEIN SPORTS EXTRA 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
