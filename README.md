@@ -15,10 +15,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-@EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ASTRO FWC 1
-#http://linears-playback.astro.com.my/vsg/41ndk0-eDLDJS0TwkNuO2uyOAWpUNXagZxVU4b9gKDc_8=l3RR/dash-wv/jitp-linearwm/5090/default_primary.mpd
 
 #EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ASTRO FWC 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -674,6 +670,7 @@ https://aqfadtv.xyz/live/arena2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5068
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
