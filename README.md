@@ -35,6 +35,24 @@ http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/234954
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/53805
 
+#EXTINF:0 tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_1.png",BEIN SPORTS MAX 1 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216916
+
+#EXTINF:0 tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_2.png",BEIN SPORTS MAX 2 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216917
+
+#EXTINF:0 tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_3.png",BEIN SPORTS MAX 3 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216918
+
+#EXTINF:0 tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_4.png",BEIN SPORTS MAX 4 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216919
+
+#EXTINF:0 tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_5.png",BEIN SPORTS MAX 5 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216920
+
+#EXTINF:0 tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_6.png",BEIN SPORTS MAX 6 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216921
+
 
 #EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SPORTS",ASTRO FWC 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -46,31 +64,6 @@ https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-
-
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium296/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="BEIN SPORTS QATAR",beIN SPORTS MAX 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium299/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg",ASTRO_LIVE
-https://02ip.ru/astro?shareext.ts
 
 
 
