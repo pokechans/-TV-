@@ -201,14 +201,6 @@ http://51.79.82.208:16009
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://aqfadtv.xyz/live/warna/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpZo5p05jrofa0IYBlHbByyw=QZ5k/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-https://stream.zeehanzgadget.com/warna
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-http://51.79.82.208:16010/
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
@@ -226,8 +218,17 @@ http://iptvtree.net:8080/adastream/8289548ca0/157492
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.81.208.129:35461/80203091402/213445/5075
-
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.82.208:16010
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpZo5p05jrofa0IYBlHbByyw=QZ5k/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://stream.zeehanzgadget.com/warna
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 #EXTVLCOPT:http-referrer=https://www.tvmalaysiaonline.xyz/2021/06/citra.html
