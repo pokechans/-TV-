@@ -180,6 +180,10 @@ https://aqfadtv.xyz/live/warna/index.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://line.premiumpowers.net:80/Manuel/1234567/941609
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+http://line.premiumpowers.net:80/Manuel/1234567/941609 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+http://line.premiumpowers.net:80/Manuel/1234567/571231
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -191,10 +195,7 @@ https://stream.zeehanzgadget.com/warna
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.96.163:2095/live/User48278/tBw10zkne9/13.ts
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-http://line.premiumpowers.net:80/Manuel/1234567/941609 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-http://line.premiumpowers.net:80/Manuel/1234567/571231
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -315,8 +316,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies HD
-http://line.premiumpowers.net:80/Manuel/1234567/941618 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies HD
 http://line.premiumpowers.net:80/Manuel/1234567/571218
 ******************************KARTUN*****************************************
 
@@ -345,7 +344,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
+EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
