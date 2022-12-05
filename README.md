@@ -458,10 +458,10 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 
 
-EXTINF:-1 tvg-id="OPPA MANIA" group-title="Korea" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",OPPA MANIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
