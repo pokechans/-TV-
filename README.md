@@ -165,6 +165,8 @@ http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJ
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21067
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -179,6 +181,9 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2700/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20631
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
