@@ -169,11 +169,11 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.p
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna 
-mitv://ns2.hellotvvod.com:9906/77eee94341084221bba9bb4c6527d663.ts
+http://ns2.hellotvvod.com:9906/77eee94341084221bba9bb4c6527d663.ts
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-mitv://ns2.hellotvvod.com:9906/51a69ea20cc74bb6bf6e9dad663ae002.ts
+http://ns2.hellotvvod.com:9906/51a69ea20cc74bb6bf6e9dad663ae002.ts
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
