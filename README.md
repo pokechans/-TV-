@@ -210,14 +210,10 @@ https://aqfadtv.xyz/live/awesometv/index.mpd
 EXTINF:-1 tvg-logo="",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZmFlMGUxOWMtMzEyMC0zODhhLTgxNjAtNGE0OTlhOGZjMTI0
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",Siar
-https://aqfadtv.xyz/live/unifitv/siar/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/siar/
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129", Siar
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129", Siar
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 
@@ -244,19 +240,23 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png/revision/latest?cb=20190121072745",RTB (Brunei) 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png/revision/latest?cb=20190121072745",RTB 🇧🇳
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",GO Live (Brunei)
+#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",GO Live 🇧🇳
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest?cb=20190121072917",RTB Aneka (Brunei)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest?cb=20190121072917",RTB Aneka 🇧🇳 
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg/revision/latest/scale-to-width-down/340?cb=20120613095225",CHANNEL 5 🇸🇬 
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png",Suria (Singapura)
+#EXTINF:-1 🇸🇬tvg-logo="https://2.bp.blogspot.com/-LEwCraQ7Rnk/VYtjQ5CpN7I/AAAAAAAAHLg/ncSNmBGzQrs/s1600/SURIA%2BTV.jpg",SURIA 🇸🇬
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
 
 
 
