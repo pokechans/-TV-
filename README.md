@@ -1748,3 +1748,58 @@ https://shui3-my.sharepoint.com/:v:/g/personal/barisan2022_shui3_onmicrosoft_com
 
 #EXTINF:-1 type="movie" tvg-id="" tvg-logo="" group-title=" jefri ",jefry
 https://raw.githubusercontent.com/jeffsrightnow/movies/master/sandiwara.xml
+
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/bQnx6jgLL4AOz46BOnfMjEc6J1S.jpg",Musyrik
+https://data.streamku.xyz/mv/107-musyrik.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.234/wp-content/uploads/2023/01/meBdUcg308d7jhoVShOXxJDU8pn.jpg",The Devil’s Deception
+https://data.streamku.xyz/mv/108-talbis.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-rumah-2022-lk21-d21.jpg",Rumah
+https://streamku.xyz/stream/1080/1P98fBz3OGOurWm/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/07/film-tiga-janda-melawan-dunia-2022-lk21-d21.jpg",Tiga Janda Melawan Dunia
+https://data03.streamku.xyz/mv/8a-tiga.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/05/film-jeritan-jin-2022-lk21-d21.jpg",Jeritan Jin
+https://streamku.xyz/stream/1080/wGRwBbqwk7nHn8f/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/06/film-kongsi-raya-2022-lk21-d21.jpg",Kongsi Raya
+https://streamku.xyz/stream/1080/WPq4v0f49vztwii/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2018/04/film-kungfu-kaw-2017.jpg",Kungfu Kaw
+https://streamku.xyz/stream/360/0SPXe9bm08M5YYW/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2018/04/ASR1304012CV-AFAB-April-Banners-AFE-Hantu-Rumah-Sakit-Jiwa-FA_ACM-Mobile_thumbnail_saved636598359173877192.jpg",Hantu Rumah Sakit Jiwa
+https://streamku.xyz/stream/360/HjYK5z5icUVxeFQ/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/10/Opera-Snapshot_2022-10-16_195755_ww26.pencurimovie.quest_-2.png",Misi
+https://data.streamku.xyz/mv/68-misi.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/06/film-hail-driver-prebet-sapu-2020-lk21-d21.jpg",Hail, Driver!
+https://streamku.xyz/stream/1080/RmVol8Zicl9XvKf/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2018/01/film-embun-2002.jpg",Embun
+https://streamku.xyz/stream/360/zEto8jceS3mOHvR/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/06/film-showtime-1958-2020-lk21-d21.jpg",Showtime 1958
+https://streamku.xyz/stream/1080/6MRrkSVtR0FTT7c/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/04/film-kampong-pisang-berbuah-dua-kali-2022-lk21-d21.jpg",Kampong Pisang Berbuah Dua Kali
+https://streamku.xyz/stream/1080/YPlEXbjzGsePlQU/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/09/film-musyrik-2022-lk21-d21.jpg",Musyrik
+https://data.streamku.xyz/mv/53a-musyrik.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/10/film-35mm-2022-lk21-d21.jpg",35MM
+https://data.streamku.xyz/mv/74a-35mm.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://kawanfilm21.us/wp-content/uploads/2022/04/yuTUkxQy0dg3gTGfcsEoFBAEt9n-170x255.jpg",Penunggang Agama 2
+https://streamku.xyz/stream/1080/OfoGjCCibQw2Fd3/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://kawanfilm21.us/wp-content/uploads/2020/10/2BQHnlpZrjXCZmK8rlqpSb0TUsZ-170x255.jpg",Roh
+https://data.streamku.xyz/mv/75a-roh.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/12/3FQgkJfGBPUmCHAZUHbL1e1wIr0.jpg",Halimun
+https://data.streamku.xyz/mv/96a-halimun.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="http://185.99.135.212/wp-content/uploads/2021/07/xvPfAW9soIwwo0zJxRAzwDpLaXS.jpg", J2: J Retribusi
+https://streamku.xyz/stream/720/uXSTFXX2hsFr1rN/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/11/film-rasuk-2022-lk21-d21.jpg",Rasuk
+https://data.streamku.xyz/mv/91a-rasuk.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2018/04/film-balun-2017.jpg",Balun
+https://data.streamku.xyz/mv/89b-balun.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/vXpyvKnQSXFxsge0Zb3Yf7m7oxz.jpg",Air Force The Movie
+https://data.streamku.xyz/mv/84a-air.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/11/hPPLz47vicMBkE46V7xMUHGl91P-170x255.jpg",KL Gangster
+https://data.streamku.xyz/mv/78a-klgangster.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/koiord25TqnG5EpRqocA1wx90zE-170x255.jpg",Kimchi Untuk Awak
+https://data.streamku.xyz/mv/60b-kimchi.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.247/wp-content/uploads/2022/10/w7nHI6UxTiGiEJelnLDFYUBd9no.jpg",Kolestrol vs. Cinta
+https://data.streamku.xyz/mv/57b-koles.mp4
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.247/wp-content/uploads/2020/08/wxrgPY5DFPKLTpqhjhI75zmqnbo-170x255.jpg",Abang Long Fadil 2
+https://streamku.xyz/stream/720/0SFKIITN3VmzgOe/__001
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://185.99.135.247/wp-content/uploads/2021/08/2RZKLNtu5GKxrS26Sg4IRl6QLPx-170x255.jpg",Jibam
+https://streamku.xyz/stream/720/rauzQr5c2G8S0pB/__001
