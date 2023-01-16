@@ -1788,12 +1788,14 @@ https://streamku.xyz/stream/720/0SFKIITN3VmzgOe/__001
 https://streamku.xyz/stream/720/rauzQr5c2G8S0pB/__001
 
 
-#EXTINF:-1 group-title="MALAY" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2022/01/Jeritan-Jin-979x1024.jpg", Jeritan Jin (2022) https://dood.to/e/uabmu46l2xrd
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2022/01/Jeritan-Jin-979x1024.jpg", Jeritan Jin (2022) 
+https://dood.to/e/uabmu46l2xrd
 https://www.fembed.com/v/361wlsm7qw2lqx1
 https://upstream.to/vib5buj4bto3
 https://viewsb.com/hanx1e14bmp8.html
 
-#EXTINF:-1 group-title="MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUyMjc1YjMtZmFlNC00YzUxLWIxMGUtZDIyMjE0Njk3ZGQ2XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg", Talbis Iblis (2022) https://dood.to/e/lb9kpzk1a53l
+#EXTINF:-1 group-title="MALAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUyMjc1YjMtZmFlNC00YzUxLWIxMGUtZDIyMjE0Njk3ZGQ2XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg", Talbis Iblis (2022) 
+https://dood.to/e/lb9kpzk1a53l
 https://www.fembed.com/v/r7dgqiexl6g2ppw
 https://mixdrop.co/f/9njv41j1tpkvl9
 https://videobin.co/coxangsmibui
