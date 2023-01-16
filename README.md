@@ -435,6 +435,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World HD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
