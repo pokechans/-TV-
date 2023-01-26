@@ -23,9 +23,11 @@ http://line.premiumpowers.net:80/Manuel/1234567/941605ASTRO
 #EXTINF:-1 tvg-id="941609" tvg-name="SG| ASTRO WARNA HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-WARNA-HD.png" group-title="SINGAPORE",SG| ASTRO WARNA
 http://line.premiumpowers.net:80/Manuel/1234567/941609
 
-#EXTINF:-1 tvg-id="941609" tvg-name="SG| ASTRO WARNA HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-WARNA-HD.png" group-title="SINGAPORE",SG| ASTRO WARNA HDhttp://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=ts&play_token=UrcfQKYpBD
+#EXTINF:-1 tvg-id="941609" tvg-name="SG| ASTRO WARNA HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-WARNA-HD.png" group-title="SINGAPORE",SG| ASTRO WARNA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=ts&play_token=UrcfQKYpBD
 
-#EXTINF:-1 xui-id="3334179" tvg-id="AstroCitra.my" tvg-name="MY: Astro Citra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest?cb=20201215114818" group-title="MALAYSIA",MY: Astro Citrahttp://watch.breakingcabletv.com:80/play/okZAhh_SEJ-4lQayHiqVzK8xI_hKQM4TBstkCfNVKqxdeaqefhVwoEj5kdf_1Txc
+#EXTINF:-1 xui-id="3334179" tvg-id="AstroCitra.my" tvg-name="MY: Astro Citra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest?cb=20201215114818" group-title="MALAYSIA",MY: Astro Citra
+http://watch.breakingcabletv.com:80/play/okZAhh_SEJ-4lQayHiqVzK8xI_hKQM4TBstkCfNVKqxdeaqefhVwoEj5kdf_1Txc
 
 
 
