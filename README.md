@@ -141,6 +141,9 @@ http://51.79.82.208:16009
 https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+http://mxu03.wanicelife.com:8880/12mm610051/87618165/1706
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941609&extension=ts&play_token=UrcfQKYpBD
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
