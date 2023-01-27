@@ -11,6 +11,21 @@
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
 
+#EXTINF:-1 group-title="[01] ASTRO Sports TV" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QoevR.png",Astro Super Sport 1
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157485.m3u8
+
+#EXTINF:-1 group-title="[01] ASTRO Sports TV" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QoI8Z.png",Astro Super Sport 2
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157556.m3u8
+
+#EXTINF:-1 group-title="[01] ASTRO Sports TV" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QD7ye.png",Astro Super Sport 3
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157557.m3u8
+
+#EXTINF:-1 group-title="[01] ASTRO Sports TV" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QDRH9.png",Astro Super Sport 4
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157558.m3u8
+
+#EXTINF:-1 group-title="[01] ASTRO Sports TV" tvg-logo="https://sv1.picz.in.th/images/2022/04/05/8QPWee.png",Astro Super Sport 5
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157559.m3u8
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -142,6 +157,9 @@ https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://mxu03.wanicelife.com:8880/12mm610051/87618165/1706
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://iplogger.com/Warna-shareext
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941609&extension=ts&play_token=UrcfQKYpBD
