@@ -8,6 +8,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
+#EXTM3U url-tvg="https://github.com/azimabid00/epg/blob/main/unifi_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
 
